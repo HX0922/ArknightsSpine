@@ -1,0 +1,41 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 18,
+      "slots": 12,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 18,
+          "animated_slots": 12
+        },
+        "Idle1": {
+          "events": {},
+          "animated_bones": 18,
+          "animated_slots": 12
+        },
+        "Idle2": {
+          "events": {},
+          "animated_bones": 18,
+          "animated_slots": 12
+        },
+        "Move1": {
+          "events": {},
+          "animated_bones": 18,
+          "animated_slots": 12
+        },
+        "Move2": {
+          "events": {},
+          "animated_bones": 18,
+          "animated_slots": 12
+        },
+        "Skill": {
+          "events": {},
+          "animated_bones": 18,
+          "animated_slots": 12
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

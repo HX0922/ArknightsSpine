@@ -1,0 +1,98 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 25,
+      "slots": 22,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 25,
+          "animated_slots": 22
+        },
+        "End": {
+          "events": {},
+          "animated_bones": 25,
+          "animated_slots": 22
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 25,
+          "animated_slots": 22
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0,
+              "frame": 0
+            }
+          },
+          "animated_bones": 25,
+          "animated_slots": 22
+        }
+      }
+    },
+    "ambienceSynesthesia#5": {
+      "bones": 44,
+      "slots": 24,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 44,
+          "animated_slots": 24
+        },
+        "End": {
+          "events": {},
+          "animated_bones": 44,
+          "animated_slots": 24
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 44,
+          "animated_slots": 24
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0,
+              "frame": 0
+            }
+          },
+          "animated_bones": 44,
+          "animated_slots": 24
+        }
+      }
+    },
+    "summer#11": {
+      "bones": 36,
+      "slots": 24,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 36,
+          "animated_slots": 24
+        },
+        "End": {
+          "events": {},
+          "animated_bones": 36,
+          "animated_slots": 24
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 36,
+          "animated_slots": 24
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0,
+              "frame": 0
+            }
+          },
+          "animated_bones": 36,
+          "animated_slots": 24
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

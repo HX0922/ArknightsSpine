@@ -1,0 +1,180 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 96,
+      "slots": 38,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.5,
+              "frame": 15
+            }
+          },
+          "animated_bones": 96,
+          "animated_slots": 38
+        },
+        "Attack_Down": {
+          "events": {
+            "OnAttack": {
+              "time": 0.5,
+              "frame": 15
+            }
+          },
+          "animated_bones": 96,
+          "animated_slots": 38
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 96,
+          "animated_slots": 38
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 96,
+          "animated_slots": 38
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 96,
+          "animated_slots": 38
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.13333,
+              "frame": 3
+            }
+          },
+          "animated_bones": 96,
+          "animated_slots": 38
+        }
+      }
+    },
+    "epoque#7": {
+      "bones": 282,
+      "slots": 137,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.5,
+              "frame": 15
+            }
+          },
+          "animated_bones": 280,
+          "animated_slots": 87
+        },
+        "Attack_Down": {
+          "events": {
+            "OnAttack": {
+              "time": 0.5,
+              "frame": 15
+            }
+          },
+          "animated_bones": 280,
+          "animated_slots": 137
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 280,
+          "animated_slots": 87
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 280,
+          "animated_slots": 78
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 280,
+          "animated_slots": 78
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.13333,
+              "frame": 3
+            }
+          },
+          "animated_bones": 280,
+          "animated_slots": 78
+        }
+      }
+    }
+  },
+  "BattleBack": {
+    "base": {
+      "bones": 84,
+      "slots": 30,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.5,
+              "frame": 15
+            }
+          },
+          "animated_bones": 84,
+          "animated_slots": 30
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 84,
+          "animated_slots": 30
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 84,
+          "animated_slots": 30
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.13333,
+              "frame": 3
+            }
+          },
+          "animated_bones": 84,
+          "animated_slots": 29
+        }
+      }
+    },
+    "epoque#7": {
+      "bones": 282,
+      "slots": 137,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.5,
+              "frame": 15
+            }
+          },
+          "animated_bones": 280,
+          "animated_slots": 137
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 280,
+          "animated_slots": 137
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 280,
+          "animated_slots": 137
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.13333,
+              "frame": 3
+            }
+          },
+          "animated_bones": 280,
+          "animated_slots": 137
+        }
+      }
+    }
+  }
+}

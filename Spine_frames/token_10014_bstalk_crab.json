@@ -1,0 +1,158 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 44,
+      "slots": 16,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 18,
+          "animated_slots": 11
+        },
+        "P_Die": {
+          "events": {},
+          "animated_bones": 18,
+          "animated_slots": 16
+        },
+        "P_Idle": {
+          "events": {},
+          "animated_bones": 18,
+          "animated_slots": 11
+        },
+        "Y_Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.36667,
+              "frame": 11
+            }
+          },
+          "animated_bones": 26,
+          "animated_slots": 6
+        },
+        "Y_Die": {
+          "events": {},
+          "animated_bones": 44,
+          "animated_slots": 16
+        },
+        "Y_Idle": {
+          "events": {},
+          "animated_bones": 26,
+          "animated_slots": 6
+        },
+        "Y_Start": {
+          "events": {},
+          "animated_bones": 44,
+          "animated_slots": 16
+        },
+        "Y_stun": {
+          "events": {},
+          "animated_bones": 26,
+          "animated_slots": 6
+        }
+      }
+    },
+    "snow#4": {
+      "bones": 54,
+      "slots": 18,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 54,
+          "animated_slots": 18
+        },
+        "P_Die": {
+          "events": {},
+          "animated_bones": 49,
+          "animated_slots": 18
+        },
+        "P_Idle": {
+          "events": {},
+          "animated_bones": 49,
+          "animated_slots": 18
+        },
+        "Y_Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.36667,
+              "frame": 11
+            }
+          },
+          "animated_bones": 49,
+          "animated_slots": 18
+        },
+        "Y_Die": {
+          "events": {},
+          "animated_bones": 54,
+          "animated_slots": 18
+        },
+        "Y_Idle": {
+          "events": {},
+          "animated_bones": 49,
+          "animated_slots": 18
+        },
+        "Y_Start": {
+          "events": {},
+          "animated_bones": 54,
+          "animated_slots": 18
+        },
+        "Y_stun": {
+          "events": {},
+          "animated_bones": 49,
+          "animated_slots": 18
+        }
+      }
+    },
+    "unveiling#4": {
+      "bones": 48,
+      "slots": 22,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 48,
+          "animated_slots": 22
+        },
+        "P_Die": {
+          "events": {},
+          "animated_bones": 48,
+          "animated_slots": 22
+        },
+        "P_Idle": {
+          "events": {},
+          "animated_bones": 48,
+          "animated_slots": 22
+        },
+        "Y_Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.36667,
+              "frame": 11
+            }
+          },
+          "animated_bones": 48,
+          "animated_slots": 22
+        },
+        "Y_Die": {
+          "events": {},
+          "animated_bones": 48,
+          "animated_slots": 22
+        },
+        "Y_Idle": {
+          "events": {},
+          "animated_bones": 48,
+          "animated_slots": 22
+        },
+        "Y_Start": {
+          "events": {},
+          "animated_bones": 48,
+          "animated_slots": 22
+        },
+        "Y_stun": {
+          "events": {},
+          "animated_bones": 48,
+          "animated_slots": 22
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

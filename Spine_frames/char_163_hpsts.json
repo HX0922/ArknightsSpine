@@ -1,0 +1,185 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 81,
+      "slots": 48,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.66667,
+              "frame": 20
+            }
+          },
+          "animated_bones": 79,
+          "animated_slots": 48
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 79,
+          "animated_slots": 48
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 77,
+          "animated_slots": 48
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 79,
+          "animated_slots": 48
+        },
+        "Skill": {
+          "events": {
+            "OnAttack": {
+              "time": 0.96667,
+              "frame": 29
+            }
+          },
+          "animated_bones": 77,
+          "animated_slots": 48
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.23333,
+              "frame": 6
+            }
+          },
+          "animated_bones": 77,
+          "animated_slots": 48
+        }
+      }
+    },
+    "boc#10": {
+      "bones": 63,
+      "slots": 60,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.66667,
+              "frame": 20
+            }
+          },
+          "animated_bones": 63,
+          "animated_slots": 60
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 63,
+          "animated_slots": 60
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 63,
+          "animated_slots": 60
+        },
+        "Skill": {
+          "events": {
+            "OnAttack": {
+              "time": 0.96667,
+              "frame": 29
+            }
+          },
+          "animated_bones": 63,
+          "animated_slots": 60
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.23333,
+              "frame": 6
+            }
+          },
+          "animated_bones": 63,
+          "animated_slots": 60
+        }
+      }
+    }
+  },
+  "BattleBack": {
+    "base": {
+      "bones": 49,
+      "slots": 25,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.66667,
+              "frame": 20
+            }
+          },
+          "animated_bones": 47,
+          "animated_slots": 25
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 47,
+          "animated_slots": 25
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 47,
+          "animated_slots": 0
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.23333,
+              "frame": 6
+            }
+          },
+          "animated_bones": 47,
+          "animated_slots": 25
+        }
+      }
+    },
+    "boc#10": {
+      "bones": 63,
+      "slots": 60,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.66667,
+              "frame": 20
+            }
+          },
+          "animated_bones": 63,
+          "animated_slots": 60
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 63,
+          "animated_slots": 60
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 63,
+          "animated_slots": 60
+        },
+        "Skill": {
+          "events": {
+            "OnAttack": {
+              "time": 0.96667,
+              "frame": 29
+            }
+          },
+          "animated_bones": 63,
+          "animated_slots": 60
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.23333,
+              "frame": 6
+            }
+          },
+          "animated_bones": 63,
+          "animated_slots": 60
+        }
+      }
+    }
+  }
+}

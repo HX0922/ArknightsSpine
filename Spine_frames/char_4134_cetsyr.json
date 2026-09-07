@@ -1,0 +1,167 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 275,
+      "slots": 161,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 275,
+          "animated_slots": 161
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 275,
+          "animated_slots": 161
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 275,
+          "animated_slots": 161
+        },
+        "Skill_1_Begin": {
+          "events": {},
+          "animated_bones": 275,
+          "animated_slots": 161
+        },
+        "Skill_1_End": {
+          "events": {},
+          "animated_bones": 275,
+          "animated_slots": 161
+        },
+        "Skill_1_Loop": {
+          "events": {},
+          "animated_bones": 275,
+          "animated_slots": 161
+        },
+        "Skill_2_Begin": {
+          "events": {},
+          "animated_bones": 275,
+          "animated_slots": 161
+        },
+        "Skill_2_End": {
+          "events": {},
+          "animated_bones": 275,
+          "animated_slots": 161
+        },
+        "Skill_2_Loop": {
+          "events": {},
+          "animated_bones": 275,
+          "animated_slots": 161
+        },
+        "Skill_3_Begin": {
+          "events": {},
+          "animated_bones": 275,
+          "animated_slots": 161
+        },
+        "Skill_3_End": {
+          "events": {},
+          "animated_bones": 275,
+          "animated_slots": 161
+        },
+        "Skill_3_Loop": {
+          "events": {},
+          "animated_bones": 275,
+          "animated_slots": 161
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 275,
+          "animated_slots": 161
+        },
+        "Stun": {
+          "events": {},
+          "animated_bones": 275,
+          "animated_slots": 161
+        },
+        "Stun_Begin": {
+          "events": {},
+          "animated_bones": 275,
+          "animated_slots": 161
+        }
+      }
+    },
+    "epoque#50": {
+      "bones": 503,
+      "slots": 279,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 503,
+          "animated_slots": 279
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 503,
+          "animated_slots": 279
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 503,
+          "animated_slots": 279
+        },
+        "Skill_1_Begin": {
+          "events": {},
+          "animated_bones": 503,
+          "animated_slots": 279
+        },
+        "Skill_1_End": {
+          "events": {},
+          "animated_bones": 503,
+          "animated_slots": 279
+        },
+        "Skill_1_Loop": {
+          "events": {},
+          "animated_bones": 503,
+          "animated_slots": 279
+        },
+        "Skill_2_Begin": {
+          "events": {},
+          "animated_bones": 503,
+          "animated_slots": 279
+        },
+        "Skill_2_End": {
+          "events": {},
+          "animated_bones": 503,
+          "animated_slots": 279
+        },
+        "Skill_2_Loop": {
+          "events": {},
+          "animated_bones": 503,
+          "animated_slots": 279
+        },
+        "Skill_3_Begin": {
+          "events": {},
+          "animated_bones": 503,
+          "animated_slots": 279
+        },
+        "Skill_3_End": {
+          "events": {},
+          "animated_bones": 503,
+          "animated_slots": 279
+        },
+        "Skill_3_Loop": {
+          "events": {},
+          "animated_bones": 503,
+          "animated_slots": 279
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 503,
+          "animated_slots": 279
+        },
+        "Stun": {
+          "events": {},
+          "animated_bones": 503,
+          "animated_slots": 279
+        },
+        "Stun_Begin": {
+          "events": {},
+          "animated_bones": 503,
+          "animated_slots": 279
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

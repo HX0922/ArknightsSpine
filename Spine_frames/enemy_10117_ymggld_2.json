@@ -1,0 +1,71 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 89,
+      "slots": 47,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.43333,
+              "frame": 12
+            }
+          },
+          "animated_bones": 89,
+          "animated_slots": 47
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 89,
+          "animated_slots": 47
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 89,
+          "animated_slots": 47
+        },
+        "Fly_Begin": {
+          "events": {
+            "OnPlayAudio": {
+              "time": 0.33333,
+              "frame": 9
+            }
+          },
+          "animated_bones": 89,
+          "animated_slots": 47
+        },
+        "Fly_Die": {
+          "events": {},
+          "animated_bones": 89,
+          "animated_slots": 47
+        },
+        "Fly_Dizzy": {
+          "events": {},
+          "animated_bones": 89,
+          "animated_slots": 47
+        },
+        "Fly_Idle": {
+          "events": {},
+          "animated_bones": 89,
+          "animated_slots": 47
+        },
+        "Fly_Move": {
+          "events": {},
+          "animated_bones": 89,
+          "animated_slots": 47
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 89,
+          "animated_slots": 47
+        },
+        "Move": {
+          "events": {},
+          "animated_bones": 89,
+          "animated_slots": 47
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

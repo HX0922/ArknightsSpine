@@ -1,0 +1,37 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 8,
+      "slots": 3,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 8,
+          "animated_slots": 2
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 8,
+          "animated_slots": 2
+        }
+      }
+    },
+    "winter#2": {
+      "bones": 6,
+      "slots": 14,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 6,
+          "animated_slots": 14
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 6,
+          "animated_slots": 14
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

@@ -1,0 +1,73 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 22,
+      "slots": 20,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 22,
+          "animated_slots": 20
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 22,
+          "animated_slots": 20
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 22,
+          "animated_slots": 20
+        }
+      }
+    },
+    "sightseer#1": {
+      "bones": 31,
+      "slots": 17,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 31,
+          "animated_slots": 17
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 31,
+          "animated_slots": 17
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.23333,
+              "frame": 6
+            }
+          },
+          "animated_bones": 31,
+          "animated_slots": 17
+        }
+      }
+    },
+    "witch#1": {
+      "bones": 18,
+      "slots": 11,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 18,
+          "animated_slots": 11
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 18,
+          "animated_slots": 11
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 18,
+          "animated_slots": 11
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

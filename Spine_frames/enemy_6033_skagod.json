@@ -1,0 +1,91 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 176,
+      "slots": 66,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.66667,
+              "frame": 20
+            }
+          },
+          "animated_bones": 176,
+          "animated_slots": 66
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 176,
+          "animated_slots": 66
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 176,
+          "animated_slots": 66
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 176,
+          "animated_slots": 66
+        },
+        "Move_A": {
+          "events": {},
+          "animated_bones": 176,
+          "animated_slots": 66
+        },
+        "Move_B_Begin": {
+          "events": {},
+          "animated_bones": 176,
+          "animated_slots": 66
+        },
+        "Move_B_End": {
+          "events": {},
+          "animated_bones": 176,
+          "animated_slots": 66
+        },
+        "Move_B_Loop": {
+          "events": {},
+          "animated_bones": 176,
+          "animated_slots": 66
+        },
+        "Skill_AB_Loop": {
+          "events": {},
+          "animated_bones": 176,
+          "animated_slots": 66
+        },
+        "Skill_A_Begin": {
+          "events": {
+            "OnAttack": {
+              "time": 0.46667,
+              "frame": 14
+            }
+          },
+          "animated_bones": 176,
+          "animated_slots": 66
+        },
+        "Skill_A_End": {
+          "events": {},
+          "animated_bones": 176,
+          "animated_slots": 66
+        },
+        "Skill_B_Begin": {
+          "events": {
+            "OnAttack": {
+              "time": 0.46667,
+              "frame": 14
+            }
+          },
+          "animated_bones": 176,
+          "animated_slots": 66
+        },
+        "Skill_B_End": {
+          "events": {},
+          "animated_bones": 176,
+          "animated_slots": 66
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

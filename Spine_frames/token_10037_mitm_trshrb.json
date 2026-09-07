@@ -1,0 +1,157 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 27,
+      "slots": 34,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.46667,
+              "frame": 14
+            }
+          },
+          "animated_bones": 27,
+          "animated_slots": 34
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 27,
+          "animated_slots": 34
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 27,
+          "animated_slots": 34
+        },
+        "Idle_1": {
+          "events": {},
+          "animated_bones": 27,
+          "animated_slots": 34
+        },
+        "Idle_2": {
+          "events": {},
+          "animated_bones": 27,
+          "animated_slots": 34
+        },
+        "Skill_Begin": {
+          "events": {},
+          "animated_bones": 27,
+          "animated_slots": 34
+        },
+        "Skill_End": {
+          "events": {},
+          "animated_bones": 27,
+          "animated_slots": 34
+        },
+        "Skill_Loop": {
+          "events": {},
+          "animated_bones": 27,
+          "animated_slots": 34
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 27,
+          "animated_slots": 34
+        },
+        "Stun_1": {
+          "events": {},
+          "animated_bones": 27,
+          "animated_slots": 34
+        },
+        "Stun_2": {
+          "events": {},
+          "animated_bones": 27,
+          "animated_slots": 34
+        },
+        "Stun_3": {
+          "events": {},
+          "animated_bones": 27,
+          "animated_slots": 34
+        },
+        "Waste": {
+          "events": {},
+          "animated_bones": 27,
+          "animated_slots": 34
+        }
+      }
+    },
+    "breaker#1": {
+      "bones": 25,
+      "slots": 21,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.46667,
+              "frame": 14
+            }
+          },
+          "animated_bones": 25,
+          "animated_slots": 21
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 25,
+          "animated_slots": 21
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 25,
+          "animated_slots": 21
+        },
+        "Idle_1": {
+          "events": {},
+          "animated_bones": 25,
+          "animated_slots": 21
+        },
+        "Idle_2": {
+          "events": {},
+          "animated_bones": 25,
+          "animated_slots": 21
+        },
+        "Skill_Begin": {
+          "events": {},
+          "animated_bones": 25,
+          "animated_slots": 21
+        },
+        "Skill_End": {
+          "events": {},
+          "animated_bones": 25,
+          "animated_slots": 21
+        },
+        "Skill_Loop": {
+          "events": {},
+          "animated_bones": 25,
+          "animated_slots": 21
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 25,
+          "animated_slots": 21
+        },
+        "Stun_1": {
+          "events": {},
+          "animated_bones": 25,
+          "animated_slots": 21
+        },
+        "Stun_2": {
+          "events": {},
+          "animated_bones": 25,
+          "animated_slots": 21
+        },
+        "Stun_3": {
+          "events": {},
+          "animated_bones": 25,
+          "animated_slots": 21
+        },
+        "Waste": {
+          "events": {},
+          "animated_bones": 25,
+          "animated_slots": 21
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

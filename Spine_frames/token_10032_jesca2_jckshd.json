@@ -1,0 +1,110 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 7,
+      "slots": 4,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 7,
+          "animated_slots": 4
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 7,
+          "animated_slots": 4
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 7,
+          "animated_slots": 4
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 7,
+          "animated_slots": 4
+        }
+      }
+    },
+    "cfa#1": {
+      "bones": 4,
+      "slots": 4,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 4,
+          "animated_slots": 4
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 4,
+          "animated_slots": 4
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 4,
+          "animated_slots": 4
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 4,
+          "animated_slots": 4
+        }
+      }
+    }
+  },
+  "BattleBack": {
+    "base": {
+      "bones": 7,
+      "slots": 11,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 7,
+          "animated_slots": 11
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 7,
+          "animated_slots": 11
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 7,
+          "animated_slots": 11
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 7,
+          "animated_slots": 11
+        }
+      }
+    },
+    "cfa#1": {
+      "bones": 4,
+      "slots": 4,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 4,
+          "animated_slots": 4
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 4,
+          "animated_slots": 4
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 4,
+          "animated_slots": 4
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 4,
+          "animated_slots": 4
+        }
+      }
+    }
+  }
+}

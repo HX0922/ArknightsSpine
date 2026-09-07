@@ -1,0 +1,36 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 11,
+      "slots": 3,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 11,
+          "animated_slots": 3
+        },
+        "Die": {
+          "events": {
+            "OnAttack": {
+              "time": 0.16667,
+              "frame": 5
+            }
+          },
+          "animated_bones": 11,
+          "animated_slots": 3
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.23333,
+              "frame": 6
+            }
+          },
+          "animated_bones": 11,
+          "animated_slots": 3
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

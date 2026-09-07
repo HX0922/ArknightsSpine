@@ -1,0 +1,101 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 35,
+      "slots": 29,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.43333,
+              "frame": 12
+            }
+          },
+          "animated_bones": 28,
+          "animated_slots": 1
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 27,
+          "animated_slots": 1
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 27,
+          "animated_slots": 1
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 27,
+          "animated_slots": 1
+        },
+        "Move": {
+          "events": {},
+          "animated_bones": 27,
+          "animated_slots": 0
+        },
+        "Skill_Down_End": {
+          "events": {},
+          "animated_bones": 27,
+          "animated_slots": 1
+        },
+        "Skill_Down_Loop": {
+          "events": {
+            "OnAttack": {
+              "time": 0,
+              "frame": 0
+            }
+          },
+          "animated_bones": 27,
+          "animated_slots": 1
+        },
+        "Skill_Down_Start": {
+          "events": {},
+          "animated_bones": 27,
+          "animated_slots": 1
+        },
+        "Skill_Front_End": {
+          "events": {},
+          "animated_bones": 27,
+          "animated_slots": 1
+        },
+        "Skill_Front_Loop": {
+          "events": {
+            "OnAttack": {
+              "time": 0,
+              "frame": 0
+            }
+          },
+          "animated_bones": 27,
+          "animated_slots": 1
+        },
+        "Skill_Front_Start": {
+          "events": {},
+          "animated_bones": 27,
+          "animated_slots": 1
+        },
+        "Skill_Up_End": {
+          "events": {},
+          "animated_bones": 27,
+          "animated_slots": 1
+        },
+        "Skill_Up_Loop": {
+          "events": {
+            "OnAttack": {
+              "time": 0,
+              "frame": 0
+            }
+          },
+          "animated_bones": 27,
+          "animated_slots": 1
+        },
+        "Skill_Up_Start": {
+          "events": {},
+          "animated_bones": 27,
+          "animated_slots": 1
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

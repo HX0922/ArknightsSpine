@@ -1,0 +1,96 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 48,
+      "slots": 11,
+      "animations": {
+        "Attack_A": {
+          "events": {
+            "OnAttack": {
+              "time": 0.6,
+              "frame": 18
+            }
+          },
+          "animated_bones": 48,
+          "animated_slots": 11
+        },
+        "Attcak_B": {
+          "events": {
+            "OnAttack": {
+              "time": 0.6,
+              "frame": 18
+            }
+          },
+          "animated_bones": 48,
+          "animated_slots": 11
+        },
+        "Default_A": {
+          "events": {},
+          "animated_bones": 48,
+          "animated_slots": 11
+        },
+        "Default_B": {
+          "events": {},
+          "animated_bones": 48,
+          "animated_slots": 11
+        },
+        "Die_A": {
+          "events": {},
+          "animated_bones": 48,
+          "animated_slots": 11
+        },
+        "Die_B": {
+          "events": {},
+          "animated_bones": 48,
+          "animated_slots": 11
+        },
+        "Idle_A": {
+          "events": {},
+          "animated_bones": 48,
+          "animated_slots": 11
+        },
+        "Idle_B": {
+          "events": {},
+          "animated_bones": 48,
+          "animated_slots": 11
+        },
+        "Land_A": {
+          "events": {},
+          "animated_bones": 48,
+          "animated_slots": 11
+        },
+        "Land_B": {
+          "events": {},
+          "animated_bones": 48,
+          "animated_slots": 11
+        },
+        "Move_A": {
+          "events": {},
+          "animated_bones": 48,
+          "animated_slots": 11
+        },
+        "Move_B": {
+          "events": {},
+          "animated_bones": 48,
+          "animated_slots": 11
+        },
+        "Stun": {
+          "events": {},
+          "animated_bones": 48,
+          "animated_slots": 11
+        },
+        "Stun_Die": {
+          "events": {},
+          "animated_bones": 48,
+          "animated_slots": 11
+        },
+        "Take off": {
+          "events": {},
+          "animated_bones": 48,
+          "animated_slots": 11
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

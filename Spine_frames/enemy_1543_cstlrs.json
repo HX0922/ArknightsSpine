@@ -1,0 +1,101 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 162,
+      "slots": 64,
+      "animations": {
+        "Attack_A": {
+          "events": {
+            "OnAttack": {
+              "time": 0.93333,
+              "frame": 27
+            }
+          },
+          "animated_bones": 162,
+          "animated_slots": 64
+        },
+        "Attack_B": {
+          "events": {
+            "OnAttack": {
+              "time": 0.8,
+              "frame": 24
+            }
+          },
+          "animated_bones": 162,
+          "animated_slots": 64
+        },
+        "Default_A": {
+          "events": {},
+          "animated_bones": 162,
+          "animated_slots": 64
+        },
+        "Default_B": {
+          "events": {},
+          "animated_bones": 162,
+          "animated_slots": 64
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 162,
+          "animated_slots": 64
+        },
+        "Idle_A": {
+          "events": {},
+          "animated_bones": 162,
+          "animated_slots": 64
+        },
+        "Idle_B": {
+          "events": {},
+          "animated_bones": 162,
+          "animated_slots": 64
+        },
+        "Move_A": {
+          "events": {},
+          "animated_bones": 162,
+          "animated_slots": 64
+        },
+        "Move_B": {
+          "events": {},
+          "animated_bones": 162,
+          "animated_slots": 64
+        },
+        "Revive_1": {
+          "events": {
+            "OnAttack": {
+              "time": 0.5,
+              "frame": 15
+            }
+          },
+          "animated_bones": 162,
+          "animated_slots": 64
+        },
+        "Revive_2": {
+          "events": {},
+          "animated_bones": 162,
+          "animated_slots": 64
+        },
+        "Revive_3": {
+          "events": {
+            "OnAttack": {
+              "time": 0.6,
+              "frame": 18
+            }
+          },
+          "animated_bones": 162,
+          "animated_slots": 64
+        },
+        "Skill_A": {
+          "events": {
+            "OnAttack": {
+              "time": 0.8,
+              "frame": 24
+            }
+          },
+          "animated_bones": 162,
+          "animated_slots": 64
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

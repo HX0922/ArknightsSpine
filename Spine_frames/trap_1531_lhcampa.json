@@ -1,0 +1,36 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 7,
+      "slots": 2,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 7,
+          "animated_slots": 2
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 7,
+          "animated_slots": 2
+        },
+        "Skill": {
+          "events": {
+            "OnAttack": {
+              "time": 0.23333,
+              "frame": 6
+            }
+          },
+          "animated_bones": 7,
+          "animated_slots": 2
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 7,
+          "animated_slots": 2
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

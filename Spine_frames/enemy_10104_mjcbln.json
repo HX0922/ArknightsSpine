@@ -1,0 +1,91 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 64,
+      "slots": 24,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.5,
+              "frame": 15
+            }
+          },
+          "animated_bones": 64,
+          "animated_slots": 24
+        },
+        "Attack_Max": {
+          "events": {},
+          "animated_bones": 64,
+          "animated_slots": 24
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 64,
+          "animated_slots": 24
+        },
+        "Die_1": {
+          "events": {},
+          "animated_bones": 64,
+          "animated_slots": 24
+        },
+        "Die_1_Max": {
+          "events": {},
+          "animated_bones": 64,
+          "animated_slots": 24
+        },
+        "Die_2": {
+          "events": {},
+          "animated_bones": 64,
+          "animated_slots": 24
+        },
+        "Down": {
+          "events": {},
+          "animated_bones": 64,
+          "animated_slots": 24
+        },
+        "Idle_1": {
+          "events": {},
+          "animated_bones": 64,
+          "animated_slots": 24
+        },
+        "Idle_1_Max": {
+          "events": {},
+          "animated_bones": 64,
+          "animated_slots": 24
+        },
+        "Idle_2": {
+          "events": {},
+          "animated_bones": 64,
+          "animated_slots": 24
+        },
+        "Move_1": {
+          "events": {},
+          "animated_bones": 64,
+          "animated_slots": 24
+        },
+        "Move_1_Max": {
+          "events": {},
+          "animated_bones": 1,
+          "animated_slots": 0
+        },
+        "Move_2": {
+          "events": {},
+          "animated_bones": 64,
+          "animated_slots": 24
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 64,
+          "animated_slots": 24
+        },
+        "Takeoff": {
+          "events": {},
+          "animated_bones": 64,
+          "animated_slots": 24
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

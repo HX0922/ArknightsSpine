@@ -1,0 +1,101 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 34,
+      "slots": 31,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.43333,
+              "frame": 12
+            }
+          },
+          "animated_bones": 33,
+          "animated_slots": 31
+        },
+        "Attack2": {
+          "events": {
+            "OnAttack": {
+              "time": 0.43333,
+              "frame": 12
+            }
+          },
+          "animated_bones": 33,
+          "animated_slots": 31
+        },
+        "Attack3": {
+          "events": {
+            "OnAttack": {
+              "time": 0.43333,
+              "frame": 12
+            }
+          },
+          "animated_bones": 33,
+          "animated_slots": 31
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 33,
+          "animated_slots": 31
+        },
+        "Default2": {
+          "events": {},
+          "animated_bones": 33,
+          "animated_slots": 31
+        },
+        "Default3": {
+          "events": {},
+          "animated_bones": 33,
+          "animated_slots": 31
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 33,
+          "animated_slots": 31
+        },
+        "Die2": {
+          "events": {},
+          "animated_bones": 33,
+          "animated_slots": 31
+        },
+        "Die3": {
+          "events": {},
+          "animated_bones": 33,
+          "animated_slots": 31
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 33,
+          "animated_slots": 31
+        },
+        "Idle2": {
+          "events": {},
+          "animated_bones": 33,
+          "animated_slots": 31
+        },
+        "Idle3": {
+          "events": {},
+          "animated_bones": 33,
+          "animated_slots": 31
+        },
+        "Move": {
+          "events": {},
+          "animated_bones": 33,
+          "animated_slots": 31
+        },
+        "Move2": {
+          "events": {},
+          "animated_bones": 33,
+          "animated_slots": 31
+        },
+        "Move3": {
+          "events": {},
+          "animated_bones": 33,
+          "animated_slots": 31
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

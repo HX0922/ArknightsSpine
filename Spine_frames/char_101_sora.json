@@ -1,0 +1,138 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 80,
+      "slots": 74,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 80,
+          "animated_slots": 74
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 80,
+          "animated_slots": 74
+        },
+        "Idle": {
+          "events": {
+            "beat": {
+              "time": 10.63,
+              "frame": 318
+            }
+          },
+          "animated_bones": 80,
+          "animated_slots": 74
+        },
+        "Start": {
+          "events": {
+            "beat": {
+              "time": 3.47,
+              "frame": 104
+            }
+          },
+          "animated_bones": 80,
+          "animated_slots": 74
+        },
+        "Stun": {
+          "events": {},
+          "animated_bones": 80,
+          "animated_slots": 74
+        }
+      }
+    },
+    "epoque#17": {
+      "bones": 208,
+      "slots": 148,
+      "animations": {
+        "Default": {
+          "events": {
+            "beat": {
+              "time": 0,
+              "frame": 0
+            }
+          },
+          "animated_bones": 208,
+          "animated_slots": 148
+        },
+        "Die": {
+          "events": {
+            "beat": {
+              "time": 0,
+              "frame": 0
+            }
+          },
+          "animated_bones": 208,
+          "animated_slots": 148
+        },
+        "Idle": {
+          "events": {
+            "beat": {
+              "time": 10.67,
+              "frame": 320
+            }
+          },
+          "animated_bones": 208,
+          "animated_slots": 148
+        },
+        "Start": {
+          "events": {
+            "beat": {
+              "time": 3.47,
+              "frame": 104
+            }
+          },
+          "animated_bones": 208,
+          "animated_slots": 148
+        },
+        "Stun": {
+          "events": {},
+          "animated_bones": 208,
+          "animated_slots": 148
+        }
+      }
+    },
+    "summer#1": {
+      "bones": 80,
+      "slots": 74,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 80,
+          "animated_slots": 74
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 80,
+          "animated_slots": 74
+        },
+        "Idle": {
+          "events": {
+            "beat": {
+              "time": 10.63,
+              "frame": 318
+            }
+          },
+          "animated_bones": 80,
+          "animated_slots": 74
+        },
+        "Start": {
+          "events": {
+            "beat": {
+              "time": 3.47,
+              "frame": 104
+            }
+          },
+          "animated_bones": 80,
+          "animated_slots": 74
+        },
+        "Stun": {
+          "events": {},
+          "animated_bones": 80,
+          "animated_slots": 74
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

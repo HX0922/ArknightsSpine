@@ -1,0 +1,173 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 138,
+      "slots": 37,
+      "animations": {
+        "Attack_2": {
+          "events": {
+            "OnAttack": {
+              "time": 0.83333,
+              "frame": 24
+            }
+          },
+          "animated_bones": 138,
+          "animated_slots": 37
+        },
+        "Attack_3": {
+          "events": {
+            "OnAttack": {
+              "time": 0.83333,
+              "frame": 24
+            }
+          },
+          "animated_bones": 138,
+          "animated_slots": 37
+        },
+        "Attack_4": {
+          "events": {
+            "OnAttack": {
+              "time": 0.83333,
+              "frame": 24
+            }
+          },
+          "animated_bones": 138,
+          "animated_slots": 37
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 137,
+          "animated_slots": 37
+        },
+        "Default_2": {
+          "events": {},
+          "animated_bones": 137,
+          "animated_slots": 37
+        },
+        "Default_3": {
+          "events": {},
+          "animated_bones": 137,
+          "animated_slots": 37
+        },
+        "Default_4": {
+          "events": {},
+          "animated_bones": 137,
+          "animated_slots": 37
+        },
+        "Die_1": {
+          "events": {},
+          "animated_bones": 137,
+          "animated_slots": 37
+        },
+        "Die_2": {
+          "events": {},
+          "animated_bones": 135,
+          "animated_slots": 37
+        },
+        "Die_3": {
+          "events": {},
+          "animated_bones": 135,
+          "animated_slots": 37
+        },
+        "Die_4": {
+          "events": {},
+          "animated_bones": 137,
+          "animated_slots": 37
+        },
+        "Idle_1": {
+          "events": {},
+          "animated_bones": 137,
+          "animated_slots": 37
+        },
+        "Idle_2": {
+          "events": {},
+          "animated_bones": 137,
+          "animated_slots": 37
+        },
+        "Idle_3": {
+          "events": {},
+          "animated_bones": 137,
+          "animated_slots": 37
+        },
+        "Idle_4": {
+          "events": {},
+          "animated_bones": 137,
+          "animated_slots": 37
+        },
+        "Move_1": {
+          "events": {},
+          "animated_bones": 137,
+          "animated_slots": 37
+        },
+        "Move_2": {
+          "events": {},
+          "animated_bones": 137,
+          "animated_slots": 37
+        },
+        "Move_3": {
+          "events": {},
+          "animated_bones": 137,
+          "animated_slots": 37
+        },
+        "Move_4": {
+          "events": {},
+          "animated_bones": 138,
+          "animated_slots": 37
+        },
+        "Start_1": {
+          "events": {
+            "OnStart": {
+              "time": 0.66667,
+              "frame": 20
+            }
+          },
+          "animated_bones": 137,
+          "animated_slots": 37
+        },
+        "Start_2": {
+          "events": {
+            "OnPlayAudio": {
+              "time": 3.87,
+              "frame": 116
+            },
+            "OnStart": {
+              "time": 3.87,
+              "frame": 116
+            }
+          },
+          "animated_bones": 137,
+          "animated_slots": 37
+        },
+        "Start_3": {
+          "events": {
+            "OnPlayAudio": {
+              "time": 3.17,
+              "frame": 95
+            },
+            "OnStart": {
+              "time": 3.17,
+              "frame": 95
+            }
+          },
+          "animated_bones": 137,
+          "animated_slots": 37
+        },
+        "Start_4": {
+          "events": {
+            "OnPlayAudio": {
+              "time": 6.83,
+              "frame": 204
+            },
+            "OnStart": {
+              "time": 6.83,
+              "frame": 204
+            }
+          },
+          "animated_bones": 137,
+          "animated_slots": 37
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

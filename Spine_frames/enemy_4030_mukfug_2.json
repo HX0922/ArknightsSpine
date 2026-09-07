@@ -1,0 +1,91 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 54,
+      "slots": 23,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.4,
+              "frame": 12
+            }
+          },
+          "animated_bones": 54,
+          "animated_slots": 23
+        },
+        "Attack_Mad": {
+          "events": {
+            "OnAttack": {
+              "time": 0.36667,
+              "frame": 11
+            }
+          },
+          "animated_bones": 54,
+          "animated_slots": 23
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 54,
+          "animated_slots": 23
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 54,
+          "animated_slots": 23
+        },
+        "Die2": {
+          "events": {},
+          "animated_bones": 54,
+          "animated_slots": 23
+        },
+        "Die_Mad": {
+          "events": {},
+          "animated_bones": 54,
+          "animated_slots": 23
+        },
+        "Die_Mad2": {
+          "events": {},
+          "animated_bones": 54,
+          "animated_slots": 23
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 54,
+          "animated_slots": 23
+        },
+        "Idle2": {
+          "events": {},
+          "animated_bones": 54,
+          "animated_slots": 23
+        },
+        "Idle_Mad": {
+          "events": {},
+          "animated_bones": 54,
+          "animated_slots": 23
+        },
+        "Move": {
+          "events": {},
+          "animated_bones": 54,
+          "animated_slots": 23
+        },
+        "Move_Mad": {
+          "events": {},
+          "animated_bones": 54,
+          "animated_slots": 23
+        },
+        "Trans_Mad": {
+          "events": {},
+          "animated_bones": 54,
+          "animated_slots": 23
+        },
+        "Trans_Nomal": {
+          "events": {},
+          "animated_bones": 54,
+          "animated_slots": 23
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

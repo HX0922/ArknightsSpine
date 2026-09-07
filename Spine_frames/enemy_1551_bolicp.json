@@ -1,0 +1,176 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 118,
+      "slots": 65,
+      "animations": {
+        "Attack_Begin": {
+          "events": {
+            "OnAttack": {
+              "time": 2,
+              "frame": 60
+            }
+          },
+          "animated_bones": 118,
+          "animated_slots": 65
+        },
+        "Attack_Begin_Down": {
+          "events": {
+            "OnAttack": {
+              "time": 2,
+              "frame": 60
+            }
+          },
+          "animated_bones": 118,
+          "animated_slots": 65
+        },
+        "Attack_Begin_UP": {
+          "events": {
+            "OnAttack": {
+              "time": 2,
+              "frame": 60
+            }
+          },
+          "animated_bones": 118,
+          "animated_slots": 65
+        },
+        "Attack_End": {
+          "events": {
+            "OnAttack": {
+              "time": 0,
+              "frame": 0
+            }
+          },
+          "animated_bones": 118,
+          "animated_slots": 65
+        },
+        "Attack_End_Down": {
+          "events": {
+            "OnAttack": {
+              "time": 0,
+              "frame": 0
+            }
+          },
+          "animated_bones": 118,
+          "animated_slots": 65
+        },
+        "Attack_End_UP": {
+          "events": {
+            "OnAttack": {
+              "time": 0,
+              "frame": 0
+            }
+          },
+          "animated_bones": 118,
+          "animated_slots": 65
+        },
+        "Attack_Loop": {
+          "events": {
+            "OnAttack": {
+              "time": 0,
+              "frame": 0
+            }
+          },
+          "animated_bones": 118,
+          "animated_slots": 65
+        },
+        "Attack_Loop_Down": {
+          "events": {
+            "OnAttack": {
+              "time": 0,
+              "frame": 0
+            }
+          },
+          "animated_bones": 118,
+          "animated_slots": 65
+        },
+        "Attack_Loop_UP": {
+          "events": {
+            "OnAttack": {
+              "time": 0,
+              "frame": 0
+            }
+          },
+          "animated_bones": 118,
+          "animated_slots": 65
+        },
+        "Combat": {
+          "events": {
+            "OnAttack": {
+              "time": 0.46667,
+              "frame": 14
+            }
+          },
+          "animated_bones": 118,
+          "animated_slots": 65
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 118,
+          "animated_slots": 65
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 118,
+          "animated_slots": 65
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 118,
+          "animated_slots": 65
+        },
+        "Move": {
+          "events": {},
+          "animated_bones": 118,
+          "animated_slots": 65
+        },
+        "Revive": {
+          "events": {},
+          "animated_bones": 118,
+          "animated_slots": 65
+        },
+        "Skill_1": {
+          "events": {
+            "OnAttack": {
+              "time": 0.86667,
+              "frame": 26
+            }
+          },
+          "animated_bones": 118,
+          "animated_slots": 65
+        },
+        "Skill_2": {
+          "events": {
+            "OnAttack": {
+              "time": 0.46667,
+              "frame": 14
+            }
+          },
+          "animated_bones": 118,
+          "animated_slots": 65
+        },
+        "Skill_3": {
+          "events": {
+            "OnAttack": {
+              "time": 0.73333,
+              "frame": 21
+            }
+          },
+          "animated_bones": 118,
+          "animated_slots": 65
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.16667,
+              "frame": 5
+            }
+          },
+          "animated_bones": 118,
+          "animated_slots": 65
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

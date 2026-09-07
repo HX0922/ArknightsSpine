@@ -1,0 +1,83 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 30,
+      "slots": 20,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 30,
+          "animated_slots": 20
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 30,
+          "animated_slots": 20
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.06667,
+              "frame": 2
+            }
+          },
+          "animated_bones": 30,
+          "animated_slots": 20
+        }
+      }
+    },
+    "shining#2": {
+      "bones": 30,
+      "slots": 20,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 30,
+          "animated_slots": 20
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 30,
+          "animated_slots": 20
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.06667,
+              "frame": 2
+            }
+          },
+          "animated_bones": 30,
+          "animated_slots": 20
+        }
+      }
+    },
+    "summer#22": {
+      "bones": 28,
+      "slots": 18,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 28,
+          "animated_slots": 0
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 28,
+          "animated_slots": 0
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.06667,
+              "frame": 2
+            }
+          },
+          "animated_bones": 28,
+          "animated_slots": 18
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

@@ -1,0 +1,26 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 51,
+      "slots": 60,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 51,
+          "animated_slots": 60
+        },
+        "Skill": {
+          "events": {
+            "OnStart": {
+              "time": 0.3,
+              "frame": 9
+            }
+          },
+          "animated_bones": 51,
+          "animated_slots": 60
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

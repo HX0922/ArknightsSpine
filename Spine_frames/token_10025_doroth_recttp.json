@@ -1,0 +1,77 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 9,
+      "slots": 8,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.33333,
+              "frame": 9
+            }
+          },
+          "animated_bones": 6,
+          "animated_slots": 8
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 6,
+          "animated_slots": 8
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 6,
+          "animated_slots": 8
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 6,
+          "animated_slots": 8
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 6,
+          "animated_slots": 8
+        }
+      }
+    },
+    "witch#4": {
+      "bones": 4,
+      "slots": 2,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.33333,
+              "frame": 9
+            }
+          },
+          "animated_bones": 4,
+          "animated_slots": 2
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 2,
+          "animated_slots": 2
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 4,
+          "animated_slots": 2
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 4,
+          "animated_slots": 2
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 4,
+          "animated_slots": 2
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

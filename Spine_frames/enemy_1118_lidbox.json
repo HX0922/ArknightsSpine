@@ -1,0 +1,101 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 49,
+      "slots": 35,
+      "animations": {
+        "Attack_grey": {
+          "events": {
+            "OnAttack": {
+              "time": 0.2,
+              "frame": 6
+            }
+          },
+          "animated_bones": 49,
+          "animated_slots": 35
+        },
+        "Attack_orange": {
+          "events": {
+            "OnAttack": {
+              "time": 0.2,
+              "frame": 6
+            }
+          },
+          "animated_bones": 49,
+          "animated_slots": 35
+        },
+        "Attack_red": {
+          "events": {
+            "OnAttack": {
+              "time": 0.2,
+              "frame": 6
+            }
+          },
+          "animated_bones": 49,
+          "animated_slots": 35
+        },
+        "Default_grey": {
+          "events": {},
+          "animated_bones": 49,
+          "animated_slots": 35
+        },
+        "Default_orange": {
+          "events": {},
+          "animated_bones": 49,
+          "animated_slots": 35
+        },
+        "Default_red": {
+          "events": {},
+          "animated_bones": 49,
+          "animated_slots": 35
+        },
+        "Die_grey": {
+          "events": {},
+          "animated_bones": 49,
+          "animated_slots": 35
+        },
+        "Die_orange": {
+          "events": {},
+          "animated_bones": 49,
+          "animated_slots": 35
+        },
+        "Die_red": {
+          "events": {},
+          "animated_bones": 49,
+          "animated_slots": 35
+        },
+        "Idle_grey": {
+          "events": {},
+          "animated_bones": 49,
+          "animated_slots": 35
+        },
+        "Idle_orange": {
+          "events": {},
+          "animated_bones": 49,
+          "animated_slots": 35
+        },
+        "Idle_red": {
+          "events": {},
+          "animated_bones": 49,
+          "animated_slots": 35
+        },
+        "Move_grey": {
+          "events": {},
+          "animated_bones": 49,
+          "animated_slots": 35
+        },
+        "Move_orange": {
+          "events": {},
+          "animated_bones": 49,
+          "animated_slots": 35
+        },
+        "Move_red": {
+          "events": {},
+          "animated_bones": 49,
+          "animated_slots": 35
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

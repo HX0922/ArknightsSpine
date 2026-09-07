@@ -1,0 +1,91 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 42,
+      "slots": 29,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.4,
+              "frame": 12
+            }
+          },
+          "animated_bones": 42,
+          "animated_slots": 29
+        },
+        "Attack_Down": {
+          "events": {
+            "OnAttack": {
+              "time": 0.4,
+              "frame": 12
+            }
+          },
+          "animated_bones": 42,
+          "animated_slots": 29
+        },
+        "Attack_Up": {
+          "events": {
+            "OnAttack": {
+              "time": 0.4,
+              "frame": 12
+            }
+          },
+          "animated_bones": 42,
+          "animated_slots": 29
+        },
+        "Default_A": {
+          "events": {},
+          "animated_bones": 42,
+          "animated_slots": 29
+        },
+        "Default_B": {
+          "events": {},
+          "animated_bones": 42,
+          "animated_slots": 29
+        },
+        "Die_A": {
+          "events": {},
+          "animated_bones": 42,
+          "animated_slots": 29
+        },
+        "Die_B": {
+          "events": {},
+          "animated_bones": 42,
+          "animated_slots": 29
+        },
+        "Idle_A": {
+          "events": {},
+          "animated_bones": 42,
+          "animated_slots": 29
+        },
+        "Idle_B": {
+          "events": {},
+          "animated_bones": 42,
+          "animated_slots": 29
+        },
+        "Move_A": {
+          "events": {},
+          "animated_bones": 42,
+          "animated_slots": 29
+        },
+        "Move_B": {
+          "events": {},
+          "animated_bones": 42,
+          "animated_slots": 29
+        },
+        "Skill_Begin": {
+          "events": {},
+          "animated_bones": 42,
+          "animated_slots": 29
+        },
+        "Skill_End": {
+          "events": {},
+          "animated_bones": 42,
+          "animated_slots": 29
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

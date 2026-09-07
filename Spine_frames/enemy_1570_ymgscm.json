@@ -1,0 +1,116 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 276,
+      "slots": 151,
+      "animations": {
+        "A_Default": {
+          "events": {},
+          "animated_bones": 276,
+          "animated_slots": 151
+        },
+        "A_Idle": {
+          "events": {},
+          "animated_bones": 276,
+          "animated_slots": 151
+        },
+        "A_Move": {
+          "events": {},
+          "animated_bones": 276,
+          "animated_slots": 151
+        },
+        "A_Skill_1_Begin": {
+          "events": {},
+          "animated_bones": 276,
+          "animated_slots": 151
+        },
+        "A_Skill_1_End": {
+          "events": {},
+          "animated_bones": 276,
+          "animated_slots": 151
+        },
+        "A_Skill_1_Loop": {
+          "events": {},
+          "animated_bones": 276,
+          "animated_slots": 151
+        },
+        "B_Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.73333,
+              "frame": 21
+            }
+          },
+          "animated_bones": 276,
+          "animated_slots": 151
+        },
+        "B_Default": {
+          "events": {},
+          "animated_bones": 276,
+          "animated_slots": 151
+        },
+        "B_Die": {
+          "events": {},
+          "animated_bones": 276,
+          "animated_slots": 151
+        },
+        "B_Idle": {
+          "events": {},
+          "animated_bones": 276,
+          "animated_slots": 151
+        },
+        "B_Move": {
+          "events": {},
+          "animated_bones": 276,
+          "animated_slots": 151
+        },
+        "B_Skill_1_Begin": {
+          "events": {},
+          "animated_bones": 276,
+          "animated_slots": 151
+        },
+        "B_Skill_1_End": {
+          "events": {},
+          "animated_bones": 276,
+          "animated_slots": 151
+        },
+        "B_Skill_1_Loop": {
+          "events": {},
+          "animated_bones": 276,
+          "animated_slots": 151
+        },
+        "B_Skill_2": {
+          "events": {
+            "OnAttack": {
+              "time": 0.6,
+              "frame": 18
+            }
+          },
+          "animated_bones": 276,
+          "animated_slots": 151
+        },
+        "Review_Begin": {
+          "events": {},
+          "animated_bones": 276,
+          "animated_slots": 151
+        },
+        "Review_End": {
+          "events": {
+            "OnAttack": {
+              "time": 1.3,
+              "frame": 39
+            }
+          },
+          "animated_bones": 276,
+          "animated_slots": 151
+        },
+        "Review_Loop": {
+          "events": {},
+          "animated_bones": 276,
+          "animated_slots": 151
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

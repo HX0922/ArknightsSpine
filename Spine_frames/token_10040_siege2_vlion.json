@@ -1,0 +1,107 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 77,
+      "slots": 29,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.5,
+              "frame": 15
+            }
+          },
+          "animated_bones": 77,
+          "animated_slots": 29
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 77,
+          "animated_slots": 29
+        },
+        "Die_1": {
+          "events": {},
+          "animated_bones": 77,
+          "animated_slots": 29
+        },
+        "Die_2": {
+          "events": {},
+          "animated_bones": 77,
+          "animated_slots": 29
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 77,
+          "animated_slots": 29
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.16667,
+              "frame": 5
+            }
+          },
+          "animated_bones": 77,
+          "animated_slots": 29
+        },
+        "Stun": {
+          "events": {},
+          "animated_bones": 77,
+          "animated_slots": 29
+        }
+      }
+    },
+    "epoque#50": {
+      "bones": 92,
+      "slots": 39,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.5,
+              "frame": 15
+            }
+          },
+          "animated_bones": 92,
+          "animated_slots": 39
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 92,
+          "animated_slots": 39
+        },
+        "Die_1": {
+          "events": {},
+          "animated_bones": 92,
+          "animated_slots": 39
+        },
+        "Die_2": {
+          "events": {},
+          "animated_bones": 92,
+          "animated_slots": 39
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 92,
+          "animated_slots": 39
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.16667,
+              "frame": 5
+            }
+          },
+          "animated_bones": 92,
+          "animated_slots": 39
+        },
+        "Stun": {
+          "events": {},
+          "animated_bones": 92,
+          "animated_slots": 39
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

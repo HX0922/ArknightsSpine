@@ -1,0 +1,121 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 80,
+      "slots": 30,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.33333,
+              "frame": 9
+            }
+          },
+          "animated_bones": 80,
+          "animated_slots": 30
+        },
+        "Attack_2": {
+          "events": {
+            "OnAttack": {
+              "time": 0.33333,
+              "frame": 9
+            }
+          },
+          "animated_bones": 80,
+          "animated_slots": 30
+        },
+        "Attack_3": {
+          "events": {
+            "OnAttack": {
+              "time": 0.33333,
+              "frame": 9
+            }
+          },
+          "animated_bones": 80,
+          "animated_slots": 30
+        },
+        "Attack_4": {
+          "events": {
+            "OnAttack": {
+              "time": 0.73333,
+              "frame": 21
+            }
+          },
+          "animated_bones": 80,
+          "animated_slots": 30
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 80,
+          "animated_slots": 30
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 80,
+          "animated_slots": 30
+        },
+        "Die_2": {
+          "events": {},
+          "animated_bones": 80,
+          "animated_slots": 30
+        },
+        "Die_3": {
+          "events": {},
+          "animated_bones": 80,
+          "animated_slots": 30
+        },
+        "Die_4": {
+          "events": {},
+          "animated_bones": 80,
+          "animated_slots": 30
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 80,
+          "animated_slots": 30
+        },
+        "Idle_2": {
+          "events": {},
+          "animated_bones": 80,
+          "animated_slots": 30
+        },
+        "Idle_3": {
+          "events": {},
+          "animated_bones": 80,
+          "animated_slots": 30
+        },
+        "Idle_4": {
+          "events": {},
+          "animated_bones": 80,
+          "animated_slots": 30
+        },
+        "Move": {
+          "events": {},
+          "animated_bones": 80,
+          "animated_slots": 30
+        },
+        "Move_2": {
+          "events": {},
+          "animated_bones": 80,
+          "animated_slots": 30
+        },
+        "Move_3": {
+          "events": {},
+          "animated_bones": 80,
+          "animated_slots": 30
+        },
+        "Move_4": {
+          "events": {},
+          "animated_bones": 80,
+          "animated_slots": 30
+        },
+        "Upgrade": {
+          "events": {},
+          "animated_bones": 80,
+          "animated_slots": 30
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

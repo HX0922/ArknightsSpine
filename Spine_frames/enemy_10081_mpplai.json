@@ -1,0 +1,116 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 167,
+      "slots": 153,
+      "animations": {
+        "A_Die_B": {
+          "events": {
+            "OnStart": {
+              "time": 0.83333,
+              "frame": 24
+            }
+          },
+          "animated_bones": 167,
+          "animated_slots": 153
+        },
+        "A_Die_C": {
+          "events": {
+            "OnStart": {
+              "time": 0.83333,
+              "frame": 24
+            }
+          },
+          "animated_bones": 167,
+          "animated_slots": 153
+        },
+        "A_Die_D": {
+          "events": {},
+          "animated_bones": 167,
+          "animated_slots": 153
+        },
+        "A_Idle": {
+          "events": {},
+          "animated_bones": 167,
+          "animated_slots": 153
+        },
+        "A_Move": {
+          "events": {},
+          "animated_bones": 167,
+          "animated_slots": 153
+        },
+        "B_Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.66667,
+              "frame": 20
+            }
+          },
+          "animated_bones": 167,
+          "animated_slots": 153
+        },
+        "B_Die": {
+          "events": {},
+          "animated_bones": 167,
+          "animated_slots": 153
+        },
+        "B_Idle": {
+          "events": {},
+          "animated_bones": 167,
+          "animated_slots": 153
+        },
+        "B_Move": {
+          "events": {},
+          "animated_bones": 167,
+          "animated_slots": 153
+        },
+        "C_Die": {
+          "events": {},
+          "animated_bones": 167,
+          "animated_slots": 153
+        },
+        "C_Idle": {
+          "events": {},
+          "animated_bones": 167,
+          "animated_slots": 153
+        },
+        "C_Move": {
+          "events": {},
+          "animated_bones": 167,
+          "animated_slots": 153
+        },
+        "D_Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.66667,
+              "frame": 20
+            }
+          },
+          "animated_bones": 167,
+          "animated_slots": 153
+        },
+        "D_Die": {
+          "events": {},
+          "animated_bones": 167,
+          "animated_slots": 153
+        },
+        "D_Idle": {
+          "events": {},
+          "animated_bones": 167,
+          "animated_slots": 153
+        },
+        "D_Move": {
+          "events": {},
+          "animated_bones": 167,
+          "animated_slots": 153
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 167,
+          "animated_slots": 153
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

@@ -1,0 +1,320 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 194,
+      "slots": 158,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.43333,
+              "frame": 12
+            }
+          },
+          "animated_bones": 194,
+          "animated_slots": 158
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 194,
+          "animated_slots": 158
+        },
+        "Doll_Default": {
+          "events": {},
+          "animated_bones": 194,
+          "animated_slots": 158
+        },
+        "Doll_Die": {
+          "events": {},
+          "animated_bones": 194,
+          "animated_slots": 158
+        },
+        "Doll_Idle": {
+          "events": {},
+          "animated_bones": 194,
+          "animated_slots": 158
+        },
+        "Doll_SwitchOut": {
+          "events": {},
+          "animated_bones": 194,
+          "animated_slots": 158
+        },
+        "Doll_Switchin": {
+          "events": {},
+          "animated_bones": 194,
+          "animated_slots": 158
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 194,
+          "animated_slots": 158
+        },
+        "Skill_1": {
+          "events": {
+            "OnAttack": {
+              "time": 0.43333,
+              "frame": 12
+            }
+          },
+          "animated_bones": 194,
+          "animated_slots": 158
+        },
+        "Skill_2": {
+          "events": {
+            "OnAttack": {
+              "time": 0.33333,
+              "frame": 9
+            }
+          },
+          "animated_bones": 194,
+          "animated_slots": 158
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 194,
+          "animated_slots": 158
+        },
+        "Stun": {
+          "events": {},
+          "animated_bones": 194,
+          "animated_slots": 158
+        },
+        "SwitchOut": {
+          "events": {},
+          "animated_bones": 194,
+          "animated_slots": 158
+        }
+      }
+    },
+    "avemujica#1": {
+      "bones": 473,
+      "slots": 272,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.43333,
+              "frame": 12
+            }
+          },
+          "animated_bones": 473,
+          "animated_slots": 272
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 473,
+          "animated_slots": 272
+        },
+        "Doll_Default": {
+          "events": {},
+          "animated_bones": 473,
+          "animated_slots": 272
+        },
+        "Doll_Die": {
+          "events": {},
+          "animated_bones": 473,
+          "animated_slots": 272
+        },
+        "Doll_Idle": {
+          "events": {},
+          "animated_bones": 473,
+          "animated_slots": 272
+        },
+        "Doll_SwitchOut": {
+          "events": {},
+          "animated_bones": 473,
+          "animated_slots": 272
+        },
+        "Doll_Switchin": {
+          "events": {},
+          "animated_bones": 473,
+          "animated_slots": 272
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 473,
+          "animated_slots": 272
+        },
+        "Skill_1": {
+          "events": {
+            "OnAttack": {
+              "time": 0.43333,
+              "frame": 12
+            }
+          },
+          "animated_bones": 473,
+          "animated_slots": 272
+        },
+        "Skill_2": {
+          "events": {
+            "OnAttack": {
+              "time": 0.33333,
+              "frame": 9
+            }
+          },
+          "animated_bones": 473,
+          "animated_slots": 272
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 473,
+          "animated_slots": 272
+        },
+        "Stun": {
+          "events": {},
+          "animated_bones": 473,
+          "animated_slots": 272
+        },
+        "SwitchOut": {
+          "events": {},
+          "animated_bones": 473,
+          "animated_slots": 272
+        }
+      }
+    }
+  },
+  "BattleBack": {
+    "base": {
+      "bones": 194,
+      "slots": 158,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.43333,
+              "frame": 12
+            }
+          },
+          "animated_bones": 194,
+          "animated_slots": 158
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 194,
+          "animated_slots": 158
+        },
+        "Doll_Default": {
+          "events": {},
+          "animated_bones": 194,
+          "animated_slots": 158
+        },
+        "Doll_Idle": {
+          "events": {},
+          "animated_bones": 194,
+          "animated_slots": 158
+        },
+        "Doll_SwitchOut": {
+          "events": {},
+          "animated_bones": 194,
+          "animated_slots": 158
+        },
+        "Doll_Switchin": {
+          "events": {},
+          "animated_bones": 194,
+          "animated_slots": 158
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 194,
+          "animated_slots": 158
+        },
+        "Skill_1": {
+          "events": {
+            "OnAttack": {
+              "time": 0.43333,
+              "frame": 12
+            }
+          },
+          "animated_bones": 194,
+          "animated_slots": 158
+        },
+        "Skill_2": {
+          "events": {
+            "OnAttack": {
+              "time": 0.33333,
+              "frame": 9
+            }
+          },
+          "animated_bones": 194,
+          "animated_slots": 158
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 194,
+          "animated_slots": 158
+        }
+      }
+    },
+    "avemujica#1": {
+      "bones": 473,
+      "slots": 272,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.43333,
+              "frame": 12
+            }
+          },
+          "animated_bones": 473,
+          "animated_slots": 272
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 473,
+          "animated_slots": 272
+        },
+        "Doll_Default": {
+          "events": {},
+          "animated_bones": 473,
+          "animated_slots": 272
+        },
+        "Doll_Idle": {
+          "events": {},
+          "animated_bones": 473,
+          "animated_slots": 272
+        },
+        "Doll_SwitchOut": {
+          "events": {},
+          "animated_bones": 473,
+          "animated_slots": 272
+        },
+        "Doll_Switchin": {
+          "events": {},
+          "animated_bones": 473,
+          "animated_slots": 272
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 473,
+          "animated_slots": 272
+        },
+        "Skill_1": {
+          "events": {
+            "OnAttack": {
+              "time": 0.43333,
+              "frame": 12
+            }
+          },
+          "animated_bones": 473,
+          "animated_slots": 272
+        },
+        "Skill_2": {
+          "events": {
+            "OnAttack": {
+              "time": 0.33333,
+              "frame": 9
+            }
+          },
+          "animated_bones": 473,
+          "animated_slots": 272
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 473,
+          "animated_slots": 272
+        }
+      }
+    }
+  }
+}

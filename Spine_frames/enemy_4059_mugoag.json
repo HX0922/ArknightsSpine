@@ -1,0 +1,91 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 33,
+      "slots": 13,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.4,
+              "frame": 12
+            }
+          },
+          "animated_bones": 33,
+          "animated_slots": 13
+        },
+        "Attack_Mad": {
+          "events": {
+            "OnAttack": {
+              "time": 0.4,
+              "frame": 12
+            }
+          },
+          "animated_bones": 33,
+          "animated_slots": 13
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 33,
+          "animated_slots": 13
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 33,
+          "animated_slots": 13
+        },
+        "Die2": {
+          "events": {},
+          "animated_bones": 33,
+          "animated_slots": 13
+        },
+        "Die_Mad": {
+          "events": {},
+          "animated_bones": 33,
+          "animated_slots": 13
+        },
+        "Die_Mad2": {
+          "events": {},
+          "animated_bones": 33,
+          "animated_slots": 13
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 33,
+          "animated_slots": 13
+        },
+        "Idle2": {
+          "events": {},
+          "animated_bones": 33,
+          "animated_slots": 13
+        },
+        "Idle_Mad": {
+          "events": {},
+          "animated_bones": 33,
+          "animated_slots": 13
+        },
+        "Move": {
+          "events": {},
+          "animated_bones": 33,
+          "animated_slots": 13
+        },
+        "Move_Mad": {
+          "events": {},
+          "animated_bones": 33,
+          "animated_slots": 13
+        },
+        "Trans_Mad": {
+          "events": {},
+          "animated_bones": 33,
+          "animated_slots": 13
+        },
+        "Trans_Nomal": {
+          "events": {},
+          "animated_bones": 33,
+          "animated_slots": 13
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

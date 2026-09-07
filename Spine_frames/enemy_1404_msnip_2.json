@@ -1,0 +1,101 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 53,
+      "slots": 31,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.63333,
+              "frame": 18
+            }
+          },
+          "animated_bones": 53,
+          "animated_slots": 31
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 53,
+          "animated_slots": 31
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 53,
+          "animated_slots": 31
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 53,
+          "animated_slots": 31
+        },
+        "Move": {
+          "events": {},
+          "animated_bones": 53,
+          "animated_slots": 31
+        },
+        "Skill_Begin": {
+          "events": {},
+          "animated_bones": 53,
+          "animated_slots": 31
+        },
+        "Skill_Begin_Down": {
+          "events": {},
+          "animated_bones": 53,
+          "animated_slots": 31
+        },
+        "Skill_Begin_Up": {
+          "events": {},
+          "animated_bones": 53,
+          "animated_slots": 31
+        },
+        "Skill_End": {
+          "events": {
+            "OnAttack": {
+              "time": 0.06667,
+              "frame": 2
+            }
+          },
+          "animated_bones": 53,
+          "animated_slots": 31
+        },
+        "Skill_End_Down": {
+          "events": {
+            "OnAttack": {
+              "time": 0.06667,
+              "frame": 2
+            }
+          },
+          "animated_bones": 53,
+          "animated_slots": 31
+        },
+        "Skill_End_Up": {
+          "events": {
+            "OnAttack": {
+              "time": 0.06667,
+              "frame": 2
+            }
+          },
+          "animated_bones": 53,
+          "animated_slots": 31
+        },
+        "Skill_Loop": {
+          "events": {},
+          "animated_bones": 53,
+          "animated_slots": 31
+        },
+        "Skill_Loop_Down": {
+          "events": {},
+          "animated_bones": 53,
+          "animated_slots": 31
+        },
+        "Skill_Loop_Up": {
+          "events": {},
+          "animated_bones": 53,
+          "animated_slots": 31
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

@@ -1,0 +1,195 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 127,
+      "slots": 63,
+      "animations": {
+        "Attack_Begin": {
+          "events": {},
+          "animated_bones": 127,
+          "animated_slots": 63
+        },
+        "Attack_End": {
+          "events": {},
+          "animated_bones": 127,
+          "animated_slots": 63
+        },
+        "Attack_Loop": {
+          "events": {
+            "OnAttack": {
+              "time": 0.26667,
+              "frame": 8
+            }
+          },
+          "animated_bones": 127,
+          "animated_slots": 63
+        },
+        "Attack_Loop_Down": {
+          "events": {
+            "OnAttack": {
+              "time": 0.26667,
+              "frame": 8
+            }
+          },
+          "animated_bones": 127,
+          "animated_slots": 63
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 127,
+          "animated_slots": 63
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 127,
+          "animated_slots": 63
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 127,
+          "animated_slots": 63
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.16667,
+              "frame": 5
+            }
+          },
+          "animated_bones": 127,
+          "animated_slots": 63
+        }
+      }
+    },
+    "ambienceSynesthesia#2": {
+      "bones": 152,
+      "slots": 104,
+      "animations": {
+        "Attack_Begin": {
+          "events": {},
+          "animated_bones": 152,
+          "animated_slots": 104
+        },
+        "Attack_End": {
+          "events": {},
+          "animated_bones": 152,
+          "animated_slots": 104
+        },
+        "Attack_Loop": {
+          "events": {
+            "OnAttack": {
+              "time": 0.26667,
+              "frame": 8
+            }
+          },
+          "animated_bones": 152,
+          "animated_slots": 104
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 152,
+          "animated_slots": 104
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 152,
+          "animated_slots": 104
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 152,
+          "animated_slots": 104
+        }
+      }
+    }
+  },
+  "BattleBack": {
+    "base": {
+      "bones": 91,
+      "slots": 40,
+      "animations": {
+        "Attack_Begin": {
+          "events": {},
+          "animated_bones": 91,
+          "animated_slots": 40
+        },
+        "Attack_End": {
+          "events": {},
+          "animated_bones": 91,
+          "animated_slots": 40
+        },
+        "Attack_Loop": {
+          "events": {
+            "OnAttack": {
+              "time": 0.26667,
+              "frame": 8
+            }
+          },
+          "animated_bones": 91,
+          "animated_slots": 40
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 91,
+          "animated_slots": 40
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 91,
+          "animated_slots": 40
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.16667,
+              "frame": 5
+            }
+          },
+          "animated_bones": 91,
+          "animated_slots": 40
+        }
+      }
+    },
+    "ambienceSynesthesia#2": {
+      "bones": 152,
+      "slots": 104,
+      "animations": {
+        "Attack_Begin": {
+          "events": {},
+          "animated_bones": 152,
+          "animated_slots": 104
+        },
+        "Attack_End": {
+          "events": {},
+          "animated_bones": 152,
+          "animated_slots": 104
+        },
+        "Attack_Loop": {
+          "events": {
+            "OnAttack": {
+              "time": 0.26667,
+              "frame": 8
+            }
+          },
+          "animated_bones": 152,
+          "animated_slots": 104
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 152,
+          "animated_slots": 104
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 152,
+          "animated_slots": 104
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 152,
+          "animated_slots": 104
+        }
+      }
+    }
+  }
+}

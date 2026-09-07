@@ -1,0 +1,21 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 4,
+      "slots": 8,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 4,
+          "animated_slots": 8
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 4,
+          "animated_slots": 8
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

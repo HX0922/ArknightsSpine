@@ -1,0 +1,96 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 50,
+      "slots": 20,
+      "animations": {
+        "A_Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 1.4,
+              "frame": 42
+            }
+          },
+          "animated_bones": 50,
+          "animated_slots": 20
+        },
+        "A_Idle": {
+          "events": {},
+          "animated_bones": 50,
+          "animated_slots": 20
+        },
+        "A_Move": {
+          "events": {},
+          "animated_bones": 50,
+          "animated_slots": 20
+        },
+        "AtoB": {
+          "events": {},
+          "animated_bones": 50,
+          "animated_slots": 20
+        },
+        "AtoC": {
+          "events": {},
+          "animated_bones": 50,
+          "animated_slots": 20
+        },
+        "B_Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 1.4,
+              "frame": 42
+            }
+          },
+          "animated_bones": 50,
+          "animated_slots": 20
+        },
+        "B_Idle": {
+          "events": {},
+          "animated_bones": 50,
+          "animated_slots": 20
+        },
+        "B_Move": {
+          "events": {},
+          "animated_bones": 50,
+          "animated_slots": 20
+        },
+        "C_Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 1.4,
+              "frame": 42
+            }
+          },
+          "animated_bones": 50,
+          "animated_slots": 20
+        },
+        "C_Idle": {
+          "events": {},
+          "animated_bones": 50,
+          "animated_slots": 20
+        },
+        "C_Move": {
+          "events": {},
+          "animated_bones": 50,
+          "animated_slots": 20
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 50,
+          "animated_slots": 20
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 50,
+          "animated_slots": 20
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 50,
+          "animated_slots": 20
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

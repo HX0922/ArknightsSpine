@@ -1,0 +1,75 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 157,
+      "slots": 72,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.66667,
+              "frame": 20
+            }
+          },
+          "animated_bones": 157,
+          "animated_slots": 72
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 157,
+          "animated_slots": 72
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 157,
+          "animated_slots": 72
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 157,
+          "animated_slots": 72
+        },
+        "Skill_1_Bait": {
+          "events": {
+            "OnAttack": {
+              "time": 0.46667,
+              "frame": 14
+            }
+          },
+          "animated_bones": 157,
+          "animated_slots": 72
+        },
+        "Skill_2_Fishing_Begin": {
+          "events": {
+            "OnAttack": {
+              "time": 1.97,
+              "frame": 59
+            }
+          },
+          "animated_bones": 157,
+          "animated_slots": 72
+        },
+        "Skill_2_Fishing_End": {
+          "events": {
+            "OnAttack": {
+              "time": 0.76667,
+              "frame": 23
+            },
+            "OnPlayAudio": {
+              "time": 0.76667,
+              "frame": 23
+            }
+          },
+          "animated_bones": 157,
+          "animated_slots": 72
+        },
+        "Skill_2_Fishing_Loop": {
+          "events": {},
+          "animated_bones": 157,
+          "animated_slots": 72
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

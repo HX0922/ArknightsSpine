@@ -1,0 +1,26 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 56,
+      "slots": 28,
+      "animations": {
+        "F_Attack": {
+          "events": {},
+          "animated_bones": 56,
+          "animated_slots": 28
+        },
+        "F_Default": {
+          "events": {},
+          "animated_bones": 56,
+          "animated_slots": 28
+        },
+        "F_Sleep": {
+          "events": {},
+          "animated_bones": 56,
+          "animated_slots": 28
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

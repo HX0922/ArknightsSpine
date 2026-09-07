@@ -1,0 +1,71 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 8,
+      "slots": 10,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 8,
+          "animated_slots": 10
+        },
+        "Default2": {
+          "events": {},
+          "animated_bones": 8,
+          "animated_slots": 10
+        },
+        "Default3": {
+          "events": {},
+          "animated_bones": 8,
+          "animated_slots": 10
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 8,
+          "animated_slots": 10
+        },
+        "Idle2": {
+          "events": {},
+          "animated_bones": 8,
+          "animated_slots": 10
+        },
+        "Idle3": {
+          "events": {},
+          "animated_bones": 8,
+          "animated_slots": 10
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.16667,
+              "frame": 5
+            }
+          },
+          "animated_bones": 8,
+          "animated_slots": 10
+        },
+        "Start2": {
+          "events": {
+            "OnStart": {
+              "time": 0.16667,
+              "frame": 5
+            }
+          },
+          "animated_bones": 8,
+          "animated_slots": 10
+        },
+        "Start3": {
+          "events": {
+            "OnStart": {
+              "time": 0.16667,
+              "frame": 5
+            }
+          },
+          "animated_bones": 8,
+          "animated_slots": 10
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

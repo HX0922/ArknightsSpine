@@ -1,0 +1,61 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 75,
+      "slots": 53,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.96667,
+              "frame": 29
+            }
+          },
+          "animated_bones": 75,
+          "animated_slots": 50
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 72,
+          "animated_slots": 50
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 74,
+          "animated_slots": 50
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 75,
+          "animated_slots": 50
+        },
+        "Move": {
+          "events": {},
+          "animated_bones": 75,
+          "animated_slots": 50
+        },
+        "Skill_1": {
+          "events": {
+            "OnAttack": {
+              "time": 0.4,
+              "frame": 12
+            }
+          },
+          "animated_bones": 74,
+          "animated_slots": 50
+        },
+        "Skill_2": {
+          "events": {},
+          "animated_bones": 74,
+          "animated_slots": 50
+        },
+        "Stun": {
+          "events": {},
+          "animated_bones": 75,
+          "animated_slots": 50
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

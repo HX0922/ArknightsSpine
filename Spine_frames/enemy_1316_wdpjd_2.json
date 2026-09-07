@@ -1,0 +1,61 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 68,
+      "slots": 57,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.6,
+              "frame": 18
+            }
+          },
+          "animated_bones": 68,
+          "animated_slots": 57
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 68,
+          "animated_slots": 57
+        },
+        "Default_B": {
+          "events": {},
+          "animated_bones": 68,
+          "animated_slots": 57
+        },
+        "Die_A": {
+          "events": {},
+          "animated_bones": 68,
+          "animated_slots": 57
+        },
+        "Die_B": {
+          "events": {},
+          "animated_bones": 68,
+          "animated_slots": 57
+        },
+        "Idle_A": {
+          "events": {},
+          "animated_bones": 68,
+          "animated_slots": 57
+        },
+        "Idle_B": {
+          "events": {},
+          "animated_bones": 68,
+          "animated_slots": 57
+        },
+        "Move_A": {
+          "events": {},
+          "animated_bones": 68,
+          "animated_slots": 57
+        },
+        "Move_B": {
+          "events": {},
+          "animated_bones": 68,
+          "animated_slots": 57
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

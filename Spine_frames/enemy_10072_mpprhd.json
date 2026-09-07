@@ -1,0 +1,86 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 26,
+      "slots": 40,
+      "animations": {
+        "Angry": {
+          "events": {},
+          "animated_bones": 26,
+          "animated_slots": 40
+        },
+        "Click": {
+          "events": {
+            "OnAttack": {
+              "time": 0.46667,
+              "frame": 14
+            }
+          },
+          "animated_bones": 26,
+          "animated_slots": 40
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 26,
+          "animated_slots": 40
+        },
+        "Grab_Begin": {
+          "events": {
+            "OnAttack": {
+              "time": 0.93333,
+              "frame": 27
+            }
+          },
+          "animated_bones": 26,
+          "animated_slots": 40
+        },
+        "Grab_Begin_2": {
+          "events": {
+            "OnAttack": {
+              "time": 0.93333,
+              "frame": 27
+            }
+          },
+          "animated_bones": 26,
+          "animated_slots": 40
+        },
+        "Grab_End": {
+          "events": {
+            "OnAttack": {
+              "time": 0.33333,
+              "frame": 9
+            }
+          },
+          "animated_bones": 26,
+          "animated_slots": 40
+        },
+        "Grab_End_2": {
+          "events": {
+            "OnAttack": {
+              "time": 0.33333,
+              "frame": 9
+            }
+          },
+          "animated_bones": 26,
+          "animated_slots": 40
+        },
+        "Grab_Loop": {
+          "events": {},
+          "animated_bones": 26,
+          "animated_slots": 40
+        },
+        "Grab_Loop_2": {
+          "events": {},
+          "animated_bones": 26,
+          "animated_slots": 40
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 26,
+          "animated_slots": 40
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

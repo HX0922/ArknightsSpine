@@ -1,0 +1,335 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 199,
+      "slots": 174,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.6,
+              "frame": 18
+            }
+          },
+          "animated_bones": 199,
+          "animated_slots": 174
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 199,
+          "animated_slots": 174
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 199,
+          "animated_slots": 174
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 199,
+          "animated_slots": 174
+        },
+        "Skill_1": {
+          "events": {
+            "OnAttack": {
+              "time": 0.5,
+              "frame": 15
+            }
+          },
+          "animated_bones": 199,
+          "animated_slots": 174
+        },
+        "Skill_2_Attack_2": {
+          "events": {
+            "OnAttack": {
+              "time": 0.2,
+              "frame": 6
+            }
+          },
+          "animated_bones": 199,
+          "animated_slots": 174
+        },
+        "Skill_2_Begin": {
+          "events": {},
+          "animated_bones": 199,
+          "animated_slots": 174
+        },
+        "Skill_2_End": {
+          "events": {},
+          "animated_bones": 199,
+          "animated_slots": 174
+        },
+        "Skill_2_Idle": {
+          "events": {},
+          "animated_bones": 199,
+          "animated_slots": 174
+        },
+        "Skill_2_Loop": {
+          "events": {
+            "OnAttack": {
+              "time": 0.2,
+              "frame": 6
+            }
+          },
+          "animated_bones": 199,
+          "animated_slots": 174
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.3,
+              "frame": 9
+            }
+          },
+          "animated_bones": 199,
+          "animated_slots": 174
+        }
+      }
+    },
+    "game#2": {
+      "bones": 163,
+      "slots": 63,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.6,
+              "frame": 18
+            }
+          },
+          "animated_bones": 163,
+          "animated_slots": 63
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 163,
+          "animated_slots": 63
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 163,
+          "animated_slots": 63
+        },
+        "Skill_1": {
+          "events": {
+            "OnAttack": {
+              "time": 0.5,
+              "frame": 15
+            }
+          },
+          "animated_bones": 163,
+          "animated_slots": 63
+        },
+        "Skill_2_Attack_2": {
+          "events": {
+            "OnAttack": {
+              "time": 0.2,
+              "frame": 6
+            }
+          },
+          "animated_bones": 163,
+          "animated_slots": 63
+        },
+        "Skill_2_Begin": {
+          "events": {},
+          "animated_bones": 163,
+          "animated_slots": 63
+        },
+        "Skill_2_End": {
+          "events": {},
+          "animated_bones": 163,
+          "animated_slots": 63
+        },
+        "Skill_2_Idle": {
+          "events": {},
+          "animated_bones": 163,
+          "animated_slots": 63
+        },
+        "Skill_2_Loop": {
+          "events": {
+            "OnAttack": {
+              "time": 0.2,
+              "frame": 6
+            }
+          },
+          "animated_bones": 163,
+          "animated_slots": 63
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.3,
+              "frame": 9
+            }
+          },
+          "animated_bones": 163,
+          "animated_slots": 63
+        }
+      }
+    }
+  },
+  "BattleBack": {
+    "base": {
+      "bones": 171,
+      "slots": 152,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.6,
+              "frame": 18
+            }
+          },
+          "animated_bones": 165,
+          "animated_slots": 152
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 99,
+          "animated_slots": 152
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 165,
+          "animated_slots": 152
+        },
+        "Skill_1": {
+          "events": {
+            "OnAttack": {
+              "time": 0.5,
+              "frame": 15
+            }
+          },
+          "animated_bones": 165,
+          "animated_slots": 152
+        },
+        "Skill_2_Attack_2": {
+          "events": {
+            "OnAttack": {
+              "time": 0.2,
+              "frame": 6
+            }
+          },
+          "animated_bones": 168,
+          "animated_slots": 152
+        },
+        "Skill_2_Begin": {
+          "events": {},
+          "animated_bones": 165,
+          "animated_slots": 152
+        },
+        "Skill_2_End": {
+          "events": {},
+          "animated_bones": 165,
+          "animated_slots": 152
+        },
+        "Skill_2_Idle": {
+          "events": {},
+          "animated_bones": 165,
+          "animated_slots": 152
+        },
+        "Skill_2_Loop": {
+          "events": {
+            "OnAttack": {
+              "time": 0.2,
+              "frame": 6
+            }
+          },
+          "animated_bones": 165,
+          "animated_slots": 152
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.3,
+              "frame": 9
+            }
+          },
+          "animated_bones": 165,
+          "animated_slots": 152
+        }
+      }
+    },
+    "game#2": {
+      "bones": 163,
+      "slots": 63,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.6,
+              "frame": 18
+            }
+          },
+          "animated_bones": 163,
+          "animated_slots": 63
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 163,
+          "animated_slots": 63
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 163,
+          "animated_slots": 63
+        },
+        "Skill_1": {
+          "events": {
+            "OnAttack": {
+              "time": 0.5,
+              "frame": 15
+            }
+          },
+          "animated_bones": 163,
+          "animated_slots": 63
+        },
+        "Skill_2_Attack_2": {
+          "events": {
+            "OnAttack": {
+              "time": 0.2,
+              "frame": 6
+            }
+          },
+          "animated_bones": 163,
+          "animated_slots": 63
+        },
+        "Skill_2_Begin": {
+          "events": {},
+          "animated_bones": 163,
+          "animated_slots": 63
+        },
+        "Skill_2_End": {
+          "events": {},
+          "animated_bones": 163,
+          "animated_slots": 63
+        },
+        "Skill_2_Idle": {
+          "events": {},
+          "animated_bones": 163,
+          "animated_slots": 63
+        },
+        "Skill_2_Loop": {
+          "events": {
+            "OnAttack": {
+              "time": 0.2,
+              "frame": 6
+            }
+          },
+          "animated_bones": 163,
+          "animated_slots": 63
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.3,
+              "frame": 9
+            }
+          },
+          "animated_bones": 163,
+          "animated_slots": 63
+        }
+      }
+    }
+  }
+}

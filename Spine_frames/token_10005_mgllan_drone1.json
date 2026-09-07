@@ -1,0 +1,57 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 3,
+      "slots": 2,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 3,
+          "animated_slots": 1
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 3,
+          "animated_slots": 2
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 3,
+          "animated_slots": 1
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 3,
+          "animated_slots": 2
+        }
+      }
+    },
+    "kitchen#1": {
+      "bones": 8,
+      "slots": 5,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 8,
+          "animated_slots": 5
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 8,
+          "animated_slots": 5
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 8,
+          "animated_slots": 5
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 8,
+          "animated_slots": 5
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}

@@ -1,0 +1,97 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 280,
+      "slots": 150,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 280,
+          "animated_slots": 150
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 280,
+          "animated_slots": 150
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 280,
+          "animated_slots": 150
+        },
+        "Skill_Begin_1": {
+          "events": {},
+          "animated_bones": 280,
+          "animated_slots": 150
+        },
+        "Skill_Begin_2": {
+          "events": {},
+          "animated_bones": 280,
+          "animated_slots": 150
+        },
+        "Skill_End": {
+          "events": {},
+          "animated_bones": 280,
+          "animated_slots": 150
+        },
+        "Skill_Loop": {
+          "events": {},
+          "animated_bones": 280,
+          "animated_slots": 150
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 280,
+          "animated_slots": 150
+        }
+      }
+    },
+    "sanrio#1": {
+      "bones": 459,
+      "slots": 179,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 459,
+          "animated_slots": 179
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 459,
+          "animated_slots": 179
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 459,
+          "animated_slots": 179
+        },
+        "Skill_Begin_1": {
+          "events": {},
+          "animated_bones": 459,
+          "animated_slots": 179
+        },
+        "Skill_Begin_2": {
+          "events": {},
+          "animated_bones": 459,
+          "animated_slots": 179
+        },
+        "Skill_End": {
+          "events": {},
+          "animated_bones": 459,
+          "animated_slots": 179
+        },
+        "Skill_Loop": {
+          "events": {},
+          "animated_bones": 459,
+          "animated_slots": 179
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 459,
+          "animated_slots": 179
+        }
+      }
+    }
+  },
+  "BattleBack": {}
+}
