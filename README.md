@@ -8,6 +8,10 @@
 - `Spine_frames/` — 各单位动画事件帧数据（JSON）
 - `Spine/version` — 对应客户端 resVersion
 
-## 声明
+## 许可与声明
 
-素材版权归鹰角网络（Hypergryph / Studio Montagne）所有，本仓库仅作学习交流用途，请勿用于商业行为。
+本仓库以 GNU Affero General Public License v3（AGPL-3.0，见 `LICENSE`）发布，
+许可选择继承自社区 yuanyan3060/ArknightsGameResource。
+
+明日方舟游戏内容及其中名称、素材的版权归鹰角网络（Hypergryph / Studio Montagne）所有；
+本仓库仅用于学习交流用途，请勿用于商业行为。
