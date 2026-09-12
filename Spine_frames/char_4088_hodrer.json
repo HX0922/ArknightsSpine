@@ -113,7 +113,7 @@
           "events": {
             "OnStart": {
               "time": 0.13333,
-              "frame": 3
+              "frame": 4
             }
           },
           "animated_bones": 93,
@@ -234,7 +234,7 @@
           "events": {
             "OnStart": {
               "time": 0.13333,
-              "frame": 3
+              "frame": 4
             }
           },
           "animated_bones": 175,
@@ -342,7 +342,7 @@
           "events": {
             "OnStart": {
               "time": 0.13333,
-              "frame": 3
+              "frame": 4
             }
           },
           "animated_bones": 83,
@@ -448,7 +448,7 @@
           "events": {
             "OnStart": {
               "time": 0.13333,
-              "frame": 3
+              "frame": 4
             }
           },
           "animated_bones": 167,
@@ -456,5 +456,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

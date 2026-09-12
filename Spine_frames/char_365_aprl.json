@@ -1,8 +1,8 @@
 {
   "BattleFront": {
     "base": {
-      "bones": 97,
-      "slots": 49,
+      "bones": 107,
+      "slots": 70,
       "animations": {
         "Attack": {
           "events": {
@@ -11,18 +11,23 @@
               "frame": 20
             }
           },
-          "animated_bones": 97,
-          "animated_slots": 49
+          "animated_bones": 107,
+          "animated_slots": 70
         },
         "Default": {
           "events": {},
-          "animated_bones": 95,
-          "animated_slots": 49
+          "animated_bones": 107,
+          "animated_slots": 70
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 107,
+          "animated_slots": 70
         },
         "Idle": {
           "events": {},
-          "animated_bones": 97,
-          "animated_slots": 49
+          "animated_bones": 107,
+          "animated_slots": 70
         },
         "Start": {
           "events": {
@@ -31,14 +36,14 @@
               "frame": 5
             }
           },
-          "animated_bones": 97,
-          "animated_slots": 49
+          "animated_bones": 107,
+          "animated_slots": 70
         }
       }
     },
     "wild#3": {
-      "bones": 106,
-      "slots": 52,
+      "bones": 129,
+      "slots": 78,
       "animations": {
         "Attack": {
           "events": {
@@ -47,18 +52,23 @@
               "frame": 20
             }
           },
-          "animated_bones": 106,
-          "animated_slots": 52
+          "animated_bones": 129,
+          "animated_slots": 78
         },
         "Default": {
           "events": {},
-          "animated_bones": 104,
-          "animated_slots": 52
+          "animated_bones": 129,
+          "animated_slots": 78
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 129,
+          "animated_slots": 78
         },
         "Idle": {
           "events": {},
-          "animated_bones": 106,
-          "animated_slots": 52
+          "animated_bones": 129,
+          "animated_slots": 78
         },
         "Start": {
           "events": {
@@ -67,8 +77,8 @@
               "frame": 5
             }
           },
-          "animated_bones": 106,
-          "animated_slots": 52
+          "animated_bones": 129,
+          "animated_slots": 78
         }
       }
     }
@@ -146,5 +156,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

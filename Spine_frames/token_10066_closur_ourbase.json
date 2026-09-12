@@ -9,6 +9,11 @@
           "animated_bones": 24,
           "animated_slots": 4
         },
+        "Die": {
+          "events": {},
+          "animated_bones": 24,
+          "animated_slots": 4
+        },
         "Idle": {
           "events": {},
           "animated_bones": 24,
@@ -54,5 +59,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

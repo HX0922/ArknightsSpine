@@ -1,28 +1,28 @@
 {
   "BattleFront": {
     "base": {
-      "bones": 80,
-      "slots": 74,
+      "bones": 70,
+      "slots": 67,
       "animations": {
         "Default": {
           "events": {},
-          "animated_bones": 80,
-          "animated_slots": 74
+          "animated_bones": 70,
+          "animated_slots": 67
         },
         "Die": {
           "events": {},
-          "animated_bones": 80,
-          "animated_slots": 74
+          "animated_bones": 70,
+          "animated_slots": 67
         },
         "Idle": {
           "events": {
             "beat": {
               "time": 10.63,
-              "frame": 318
+              "frame": 319
             }
           },
-          "animated_bones": 80,
-          "animated_slots": 74
+          "animated_bones": 70,
+          "animated_slots": 67
         },
         "Start": {
           "events": {
@@ -31,13 +31,13 @@
               "frame": 104
             }
           },
-          "animated_bones": 80,
-          "animated_slots": 74
+          "animated_bones": 70,
+          "animated_slots": 67
         },
         "Stun": {
           "events": {},
-          "animated_bones": 80,
-          "animated_slots": 74
+          "animated_bones": 70,
+          "animated_slots": 67
         }
       }
     },
@@ -110,7 +110,7 @@
           "events": {
             "beat": {
               "time": 10.63,
-              "frame": 318
+              "frame": 319
             }
           },
           "animated_bones": 80,
@@ -134,5 +134,6 @@
       }
     }
   },
-  "BattleBack": {}
+  "BattleBack": {},
+  "Down": {}
 }

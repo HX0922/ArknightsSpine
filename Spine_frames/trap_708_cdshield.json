@@ -1,6 +1,6 @@
 {
   "BattleFront": {
-    "base": {
+    "trap_708_cdshieldb": {
       "bones": 15,
       "slots": 11,
       "animations": {
@@ -37,5 +37,6 @@
       }
     }
   },
-  "BattleBack": {}
+  "BattleBack": {},
+  "Down": {}
 }

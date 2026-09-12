@@ -52,8 +52,8 @@
       }
     },
     "nian#2": {
-      "bones": 107,
-      "slots": 52,
+      "bones": 162,
+      "slots": 93,
       "animations": {
         "Attack": {
           "events": {
@@ -62,28 +62,33 @@
               "frame": 21
             }
           },
-          "animated_bones": 107,
-          "animated_slots": 52
+          "animated_bones": 162,
+          "animated_slots": 93
         },
-        "Attack_Up": {
+        "Attack_Down": {
           "events": {
             "OnAttack": {
               "time": 0.7,
               "frame": 21
             }
           },
-          "animated_bones": 107,
-          "animated_slots": 52
+          "animated_bones": 162,
+          "animated_slots": 93
         },
         "Default": {
           "events": {},
-          "animated_bones": 107,
-          "animated_slots": 52
+          "animated_bones": 162,
+          "animated_slots": 93
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 162,
+          "animated_slots": 93
         },
         "Idle": {
           "events": {},
-          "animated_bones": 107,
-          "animated_slots": 52
+          "animated_bones": 162,
+          "animated_slots": 93
         },
         "Start": {
           "events": {
@@ -92,8 +97,8 @@
               "frame": 5
             }
           },
-          "animated_bones": 107,
-          "animated_slots": 52
+          "animated_bones": 162,
+          "animated_slots": 93
         }
       }
     }
@@ -191,5 +196,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

@@ -8,7 +8,7 @@
           "events": {
             "OnAttack": {
               "time": 0.63333,
-              "frame": 18
+              "frame": 19
             }
           },
           "animated_bones": 273,
@@ -23,7 +23,7 @@
           "events": {
             "OnAttack": {
               "time": 0.53333,
-              "frame": 15
+              "frame": 16
             }
           },
           "animated_bones": 273,
@@ -103,7 +103,7 @@
           "events": {
             "OnAttack": {
               "time": 0.63333,
-              "frame": 18
+              "frame": 19
             }
           },
           "animated_bones": 273,
@@ -122,5 +122,6 @@
       }
     }
   },
-  "BattleBack": {}
+  "BattleBack": {},
+  "Down": {}
 }

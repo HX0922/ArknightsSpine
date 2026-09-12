@@ -8,7 +8,7 @@
           "events": {
             "OnStart": {
               "time": 0.83333,
-              "frame": 24
+              "frame": 25
             }
           },
           "animated_bones": 167,
@@ -18,7 +18,7 @@
           "events": {
             "OnStart": {
               "time": 0.83333,
-              "frame": 24
+              "frame": 25
             }
           },
           "animated_bones": 167,
@@ -112,5 +112,6 @@
       }
     }
   },
-  "BattleBack": {}
+  "BattleBack": {},
+  "Down": {}
 }

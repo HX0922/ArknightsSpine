@@ -1,28 +1,43 @@
 {
   "BattleFront": {
     "base": {
-      "bones": 53,
-      "slots": 26,
+      "bones": 82,
+      "slots": 43,
       "animations": {
         "Attack": {
           "events": {
             "OnAttack": {
               "time": 0.43333,
-              "frame": 12
+              "frame": 13
             }
           },
-          "animated_bones": 53,
-          "animated_slots": 26
+          "animated_bones": 82,
+          "animated_slots": 43
+        },
+        "Attack_Down": {
+          "events": {
+            "OnAttack": {
+              "time": 0.43333,
+              "frame": 13
+            }
+          },
+          "animated_bones": 82,
+          "animated_slots": 43
         },
         "Default": {
           "events": {},
-          "animated_bones": 53,
-          "animated_slots": 26
+          "animated_bones": 82,
+          "animated_slots": 43
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 82,
+          "animated_slots": 43
         },
         "Idle": {
           "events": {},
-          "animated_bones": 53,
-          "animated_slots": 26
+          "animated_bones": 82,
+          "animated_slots": 43
         },
         "Start": {
           "events": {
@@ -31,8 +46,8 @@
               "frame": 6
             }
           },
-          "animated_bones": 53,
-          "animated_slots": 26
+          "animated_bones": 82,
+          "animated_slots": 43
         }
       }
     },
@@ -44,7 +59,7 @@
           "events": {
             "OnAttack": {
               "time": 0.43333,
-              "frame": 12
+              "frame": 13
             }
           },
           "animated_bones": 94,
@@ -54,7 +69,7 @@
           "events": {
             "OnAttack": {
               "time": 0.43333,
-              "frame": 12
+              "frame": 13
             }
           },
           "animated_bones": 94,
@@ -97,7 +112,7 @@
           "events": {
             "OnAttack": {
               "time": 0.43333,
-              "frame": 12
+              "frame": 13
             }
           },
           "animated_bones": 53,
@@ -133,7 +148,7 @@
           "events": {
             "OnAttack": {
               "time": 0.43333,
-              "frame": 12
+              "frame": 13
             }
           },
           "animated_bones": 62,
@@ -161,5 +176,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

@@ -1,8 +1,8 @@
 {
   "BattleFront": {
     "base": {
-      "bones": 84,
-      "slots": 56,
+      "bones": 93,
+      "slots": 67,
       "animations": {
         "Attack": {
           "events": {
@@ -11,18 +11,23 @@
               "frame": 17
             }
           },
-          "animated_bones": 84,
-          "animated_slots": 56
+          "animated_bones": 93,
+          "animated_slots": 67
         },
         "Default": {
           "events": {},
-          "animated_bones": 82,
-          "animated_slots": 56
+          "animated_bones": 93,
+          "animated_slots": 67
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 93,
+          "animated_slots": 67
         },
         "Idle": {
           "events": {},
-          "animated_bones": 84,
-          "animated_slots": 56
+          "animated_bones": 93,
+          "animated_slots": 67
         },
         "Skill_1": {
           "events": {
@@ -31,8 +36,8 @@
               "frame": 17
             }
           },
-          "animated_bones": 84,
-          "animated_slots": 56
+          "animated_bones": 93,
+          "animated_slots": 67
         },
         "Skill_2": {
           "events": {
@@ -41,13 +46,18 @@
               "frame": 14
             }
           },
-          "animated_bones": 84,
-          "animated_slots": 56
+          "animated_bones": 93,
+          "animated_slots": 67
+        },
+        "Skill_Die": {
+          "events": {},
+          "animated_bones": 93,
+          "animated_slots": 67
         },
         "Skill_Idle": {
           "events": {},
-          "animated_bones": 84,
-          "animated_slots": 56
+          "animated_bones": 93,
+          "animated_slots": 67
         },
         "Start": {
           "events": {
@@ -56,14 +66,14 @@
               "frame": 5
             }
           },
-          "animated_bones": 84,
-          "animated_slots": 56
+          "animated_bones": 93,
+          "animated_slots": 67
         }
       }
     },
     "summer#8": {
-      "bones": 101,
-      "slots": 60,
+      "bones": 143,
+      "slots": 99,
       "animations": {
         "Attack": {
           "events": {
@@ -72,18 +82,23 @@
               "frame": 17
             }
           },
-          "animated_bones": 101,
-          "animated_slots": 60
+          "animated_bones": 143,
+          "animated_slots": 99
         },
         "Default": {
           "events": {},
-          "animated_bones": 101,
-          "animated_slots": 60
+          "animated_bones": 143,
+          "animated_slots": 99
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 143,
+          "animated_slots": 99
         },
         "Idle": {
           "events": {},
-          "animated_bones": 101,
-          "animated_slots": 60
+          "animated_bones": 143,
+          "animated_slots": 99
         },
         "Skill_1": {
           "events": {
@@ -92,8 +107,8 @@
               "frame": 17
             }
           },
-          "animated_bones": 101,
-          "animated_slots": 60
+          "animated_bones": 143,
+          "animated_slots": 99
         },
         "Skill_2": {
           "events": {
@@ -102,13 +117,18 @@
               "frame": 14
             }
           },
-          "animated_bones": 101,
-          "animated_slots": 60
+          "animated_bones": 143,
+          "animated_slots": 99
+        },
+        "Skill_Die": {
+          "events": {},
+          "animated_bones": 141,
+          "animated_slots": 99
         },
         "Skill_Idle": {
           "events": {},
-          "animated_bones": 101,
-          "animated_slots": 60
+          "animated_bones": 141,
+          "animated_slots": 99
         },
         "Start": {
           "events": {
@@ -117,8 +137,8 @@
               "frame": 5
             }
           },
-          "animated_bones": 101,
-          "animated_slots": 60
+          "animated_bones": 141,
+          "animated_slots": 99
         }
       }
     },
@@ -378,5 +398,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

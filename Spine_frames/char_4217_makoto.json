@@ -1,33 +1,33 @@
 {
   "BattleFront": {
     "base": {
-      "bones": 276,
-      "slots": 204,
+      "bones": 448,
+      "slots": 317,
       "animations": {
         "Attack_A": {
           "events": {
             "OnAttack": {
               "time": 0.53333,
-              "frame": 15
+              "frame": 16
             }
           },
-          "animated_bones": 276,
-          "animated_slots": 204
+          "animated_bones": 448,
+          "animated_slots": 317
         },
         "Attack_B": {
           "events": {
             "OnAttack": {
               "time": 0.53333,
-              "frame": 15
+              "frame": 16
             }
           },
-          "animated_bones": 276,
-          "animated_slots": 204
+          "animated_bones": 448,
+          "animated_slots": 317
         },
         "Default": {
           "events": {},
-          "animated_bones": 276,
-          "animated_slots": 204
+          "animated_bones": 448,
+          "animated_slots": 317
         },
         "Doll_Skill_1_Attack": {
           "events": {
@@ -36,18 +36,58 @@
               "frame": 24
             }
           },
-          "animated_bones": 276,
-          "animated_slots": 204
+          "animated_bones": 448,
+          "animated_slots": 317
+        },
+        "Doll_Skill_1_Die": {
+          "events": {},
+          "animated_bones": 448,
+          "animated_slots": 317
         },
         "Doll_Skill_1_Idle": {
           "events": {},
-          "animated_bones": 276,
-          "animated_slots": 204
+          "animated_bones": 448,
+          "animated_slots": 317
+        },
+        "Doll_Skill_1_Stun": {
+          "events": {},
+          "animated_bones": 448,
+          "animated_slots": 317
+        },
+        "Doll_Skill_1_SwitchIn": {
+          "events": {},
+          "animated_bones": 448,
+          "animated_slots": 317
+        },
+        "Doll_Skill_1_SwitchOut": {
+          "events": {},
+          "animated_bones": 448,
+          "animated_slots": 317
+        },
+        "Doll_Skill_2_Die": {
+          "events": {},
+          "animated_bones": 448,
+          "animated_slots": 317
         },
         "Doll_Skill_2_Loop": {
           "events": {},
-          "animated_bones": 276,
-          "animated_slots": 204
+          "animated_bones": 448,
+          "animated_slots": 317
+        },
+        "Doll_Skill_2_Stun": {
+          "events": {},
+          "animated_bones": 448,
+          "animated_slots": 317
+        },
+        "Doll_Skill_2_SwitchIn": {
+          "events": {},
+          "animated_bones": 448,
+          "animated_slots": 317
+        },
+        "Doll_Skill_2_SwitchOut": {
+          "events": {},
+          "animated_bones": 448,
+          "animated_slots": 317
         },
         "Doll_Skill_3_P1_Attack_A": {
           "events": {
@@ -56,8 +96,8 @@
               "frame": 24
             }
           },
-          "animated_bones": 276,
-          "animated_slots": 204
+          "animated_bones": 448,
+          "animated_slots": 317
         },
         "Doll_Skill_3_P1_Attack_B": {
           "events": {
@@ -66,59 +106,134 @@
               "frame": 24
             }
           },
-          "animated_bones": 276,
-          "animated_slots": 204
+          "animated_bones": 448,
+          "animated_slots": 317
         },
         "Doll_Skill_3_P1_Idle": {
           "events": {},
-          "animated_bones": 276,
-          "animated_slots": 204
+          "animated_bones": 448,
+          "animated_slots": 317
+        },
+        "Doll_Skill_3_P1_Stun": {
+          "events": {},
+          "animated_bones": 448,
+          "animated_slots": 317
+        },
+        "Doll_Skill_3_P1_SwitchIn": {
+          "events": {},
+          "animated_bones": 448,
+          "animated_slots": 317
+        },
+        "Doll_Skill_3_P1_SwitchOut": {
+          "events": {},
+          "animated_bones": 448,
+          "animated_slots": 317
+        },
+        "Doll_Skill_3_P1toP2_ChangeBegin": {
+          "events": {},
+          "animated_bones": 448,
+          "animated_slots": 317
+        },
+        "Doll_Skill_3_P1toP2_ChangeEnd": {
+          "events": {
+            "OnAttack": {
+              "time": 0.8,
+              "frame": 24
+            }
+          },
+          "animated_bones": 448,
+          "animated_slots": 317
+        },
+        "Doll_Skill_3_P2_Die": {
+          "events": {},
+          "animated_bones": 448,
+          "animated_slots": 317
+        },
+        "Doll_Skill_3_P2_Loop": {
+          "events": {},
+          "animated_bones": 448,
+          "animated_slots": 317
+        },
+        "Doll_Skill_3_P2_Stun": {
+          "events": {},
+          "animated_bones": 448,
+          "animated_slots": 317
+        },
+        "Doll_Skill_3_P2_SwitchOut": {
+          "events": {},
+          "animated_bones": 448,
+          "animated_slots": 317
         },
         "Idle": {
           "events": {},
-          "animated_bones": 276,
-          "animated_slots": 204
+          "animated_bones": 448,
+          "animated_slots": 317
+        },
+        "Skill_AllOutAttack_End": {
+          "events": {
+            "OnAttack": {
+              "time": 0.13333,
+              "frame": 4
+            }
+          },
+          "animated_bones": 448,
+          "animated_slots": 317
+        },
+        "Skill_AllOutAttack_Loop": {
+          "events": {},
+          "animated_bones": 448,
+          "animated_slots": 317
         },
         "Start": {
           "events": {
             "OnStart": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
-          "animated_bones": 276,
-          "animated_slots": 204
+          "animated_bones": 448,
+          "animated_slots": 317
+        },
+        "Stun": {
+          "events": {},
+          "animated_bones": 448,
+          "animated_slots": 317
+        },
+        "SwitchOut": {
+          "events": {},
+          "animated_bones": 448,
+          "animated_slots": 317
         }
       }
     },
     "p3r#1": {
-      "bones": 457,
-      "slots": 254,
+      "bones": 581,
+      "slots": 360,
       "animations": {
         "Attack_A": {
           "events": {
             "OnAttack": {
               "time": 0.53333,
-              "frame": 15
+              "frame": 16
             }
           },
-          "animated_bones": 457,
-          "animated_slots": 254
+          "animated_bones": 581,
+          "animated_slots": 360
         },
         "Attack_B": {
           "events": {
             "OnAttack": {
               "time": 0.53333,
-              "frame": 15
+              "frame": 16
             }
           },
-          "animated_bones": 457,
-          "animated_slots": 254
+          "animated_bones": 581,
+          "animated_slots": 360
         },
         "Default": {
           "events": {},
-          "animated_bones": 457,
-          "animated_slots": 254
+          "animated_bones": 581,
+          "animated_slots": 360
         },
         "Doll_Skill_1_Attack": {
           "events": {
@@ -127,18 +242,58 @@
               "frame": 24
             }
           },
-          "animated_bones": 457,
-          "animated_slots": 254
+          "animated_bones": 581,
+          "animated_slots": 360
+        },
+        "Doll_Skill_1_Die": {
+          "events": {},
+          "animated_bones": 581,
+          "animated_slots": 360
         },
         "Doll_Skill_1_Idle": {
           "events": {},
-          "animated_bones": 457,
-          "animated_slots": 254
+          "animated_bones": 581,
+          "animated_slots": 360
+        },
+        "Doll_Skill_1_Stun": {
+          "events": {},
+          "animated_bones": 581,
+          "animated_slots": 360
+        },
+        "Doll_Skill_1_SwitchIn": {
+          "events": {},
+          "animated_bones": 581,
+          "animated_slots": 360
+        },
+        "Doll_Skill_1_SwitchOut": {
+          "events": {},
+          "animated_bones": 581,
+          "animated_slots": 360
+        },
+        "Doll_Skill_2_Die": {
+          "events": {},
+          "animated_bones": 581,
+          "animated_slots": 360
         },
         "Doll_Skill_2_Loop": {
           "events": {},
-          "animated_bones": 457,
-          "animated_slots": 254
+          "animated_bones": 581,
+          "animated_slots": 360
+        },
+        "Doll_Skill_2_Stun": {
+          "events": {},
+          "animated_bones": 581,
+          "animated_slots": 360
+        },
+        "Doll_Skill_2_SwitchIn": {
+          "events": {},
+          "animated_bones": 581,
+          "animated_slots": 360
+        },
+        "Doll_Skill_2_SwitchOut": {
+          "events": {},
+          "animated_bones": 581,
+          "animated_slots": 360
         },
         "Doll_Skill_3_P1_Attack_A": {
           "events": {
@@ -147,8 +302,8 @@
               "frame": 24
             }
           },
-          "animated_bones": 457,
-          "animated_slots": 254
+          "animated_bones": 581,
+          "animated_slots": 360
         },
         "Doll_Skill_3_P1_Attack_B": {
           "events": {
@@ -157,28 +312,103 @@
               "frame": 24
             }
           },
-          "animated_bones": 457,
-          "animated_slots": 254
+          "animated_bones": 581,
+          "animated_slots": 360
         },
         "Doll_Skill_3_P1_Idle": {
           "events": {},
-          "animated_bones": 457,
-          "animated_slots": 254
+          "animated_bones": 581,
+          "animated_slots": 360
+        },
+        "Doll_Skill_3_P1_Stun": {
+          "events": {},
+          "animated_bones": 581,
+          "animated_slots": 360
+        },
+        "Doll_Skill_3_P1_SwitchIn": {
+          "events": {},
+          "animated_bones": 581,
+          "animated_slots": 360
+        },
+        "Doll_Skill_3_P1_SwitchOut": {
+          "events": {},
+          "animated_bones": 581,
+          "animated_slots": 360
+        },
+        "Doll_Skill_3_P1toP2_ChangeBegin": {
+          "events": {},
+          "animated_bones": 581,
+          "animated_slots": 360
+        },
+        "Doll_Skill_3_P1toP2_ChangeEnd": {
+          "events": {
+            "OnAttack": {
+              "time": 0.8,
+              "frame": 24
+            }
+          },
+          "animated_bones": 581,
+          "animated_slots": 360
+        },
+        "Doll_Skill_3_P2_Die": {
+          "events": {},
+          "animated_bones": 581,
+          "animated_slots": 360
+        },
+        "Doll_Skill_3_P2_Loop": {
+          "events": {},
+          "animated_bones": 581,
+          "animated_slots": 360
+        },
+        "Doll_Skill_3_P2_Stun": {
+          "events": {},
+          "animated_bones": 581,
+          "animated_slots": 360
+        },
+        "Doll_Skill_3_P2_SwitchOut": {
+          "events": {},
+          "animated_bones": 581,
+          "animated_slots": 360
         },
         "Idle": {
           "events": {},
-          "animated_bones": 457,
-          "animated_slots": 254
+          "animated_bones": 581,
+          "animated_slots": 360
+        },
+        "Skill_AllOutAttack_End": {
+          "events": {
+            "OnAttack": {
+              "time": 0.13333,
+              "frame": 4
+            }
+          },
+          "animated_bones": 581,
+          "animated_slots": 360
+        },
+        "Skill_AllOutAttack_Loop": {
+          "events": {},
+          "animated_bones": 581,
+          "animated_slots": 360
         },
         "Start": {
           "events": {
             "OnStart": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
-          "animated_bones": 457,
-          "animated_slots": 254
+          "animated_bones": 581,
+          "animated_slots": 360
+        },
+        "Stun": {
+          "events": {},
+          "animated_bones": 581,
+          "animated_slots": 360
+        },
+        "SwitchOut": {
+          "events": {},
+          "animated_bones": 581,
+          "animated_slots": 360
         }
       }
     }
@@ -192,7 +422,7 @@
           "events": {
             "OnAttack": {
               "time": 0.53333,
-              "frame": 15
+              "frame": 16
             }
           },
           "animated_bones": 276,
@@ -202,7 +432,7 @@
           "events": {
             "OnAttack": {
               "time": 0.53333,
-              "frame": 15
+              "frame": 16
             }
           },
           "animated_bones": 276,
@@ -267,7 +497,7 @@
           "events": {
             "OnStart": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 276,
@@ -283,7 +513,7 @@
           "events": {
             "OnAttack": {
               "time": 0.53333,
-              "frame": 15
+              "frame": 16
             }
           },
           "animated_bones": 457,
@@ -293,7 +523,7 @@
           "events": {
             "OnAttack": {
               "time": 0.53333,
-              "frame": 15
+              "frame": 16
             }
           },
           "animated_bones": 457,
@@ -358,7 +588,7 @@
           "events": {
             "OnStart": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 457,
@@ -366,5 +596,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

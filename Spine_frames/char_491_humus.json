@@ -1,8 +1,8 @@
 {
   "BattleFront": {
     "base": {
-      "bones": 140,
-      "slots": 51,
+      "bones": 169,
+      "slots": 78,
       "animations": {
         "Attack": {
           "events": {
@@ -11,33 +11,38 @@
               "frame": 9
             }
           },
-          "animated_bones": 140,
-          "animated_slots": 51
+          "animated_bones": 169,
+          "animated_slots": 78
         },
         "Default": {
           "events": {},
-          "animated_bones": 140,
-          "animated_slots": 51
+          "animated_bones": 169,
+          "animated_slots": 78
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 169,
+          "animated_slots": 78
         },
         "Idle": {
           "events": {},
-          "animated_bones": 140,
-          "animated_slots": 51
+          "animated_bones": 169,
+          "animated_slots": 78
         },
         "Skill_2_Begin": {
           "events": {},
-          "animated_bones": 140,
-          "animated_slots": 51
+          "animated_bones": 169,
+          "animated_slots": 78
         },
         "Skill_2_End": {
           "events": {},
-          "animated_bones": 140,
-          "animated_slots": 51
+          "animated_bones": 150,
+          "animated_slots": 78
         },
         "Skill_2_Idle": {
           "events": {},
-          "animated_bones": 140,
-          "animated_slots": 51
+          "animated_bones": 169,
+          "animated_slots": 78
         },
         "Skill_2_Loop": {
           "events": {
@@ -46,8 +51,8 @@
               "frame": 11
             }
           },
-          "animated_bones": 140,
-          "animated_slots": 51
+          "animated_bones": 169,
+          "animated_slots": 78
         },
         "Start": {
           "events": {
@@ -56,14 +61,14 @@
               "frame": 6
             }
           },
-          "animated_bones": 140,
-          "animated_slots": 51
+          "animated_bones": 169,
+          "animated_slots": 78
         }
       }
     },
     "marthe#10": {
-      "bones": 74,
-      "slots": 51,
+      "bones": 143,
+      "slots": 99,
       "animations": {
         "Attack": {
           "events": {
@@ -72,33 +77,38 @@
               "frame": 9
             }
           },
-          "animated_bones": 74,
-          "animated_slots": 51
+          "animated_bones": 143,
+          "animated_slots": 99
         },
         "Default": {
           "events": {},
-          "animated_bones": 74,
-          "animated_slots": 51
+          "animated_bones": 143,
+          "animated_slots": 99
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 143,
+          "animated_slots": 99
         },
         "Idle": {
           "events": {},
-          "animated_bones": 74,
-          "animated_slots": 51
+          "animated_bones": 143,
+          "animated_slots": 99
         },
         "Skill_2_Begin": {
           "events": {},
-          "animated_bones": 74,
-          "animated_slots": 51
+          "animated_bones": 143,
+          "animated_slots": 99
         },
         "Skill_2_End": {
           "events": {},
-          "animated_bones": 74,
-          "animated_slots": 51
+          "animated_bones": 143,
+          "animated_slots": 99
         },
         "Skill_2_Idle": {
           "events": {},
-          "animated_bones": 74,
-          "animated_slots": 51
+          "animated_bones": 143,
+          "animated_slots": 99
         },
         "Skill_2_Loop": {
           "events": {
@@ -107,8 +117,8 @@
               "frame": 11
             }
           },
-          "animated_bones": 74,
-          "animated_slots": 51
+          "animated_bones": 143,
+          "animated_slots": 99
         },
         "Start": {
           "events": {
@@ -117,8 +127,8 @@
               "frame": 6
             }
           },
-          "animated_bones": 74,
-          "animated_slots": 51
+          "animated_bones": 143,
+          "animated_slots": 99
         }
       }
     }
@@ -246,5 +256,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

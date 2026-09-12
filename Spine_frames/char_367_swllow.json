@@ -87,18 +87,18 @@
       }
     },
     "boc#1": {
-      "bones": 92,
-      "slots": 47,
+      "bones": 110,
+      "slots": 71,
       "animations": {
         "Attack_Begin": {
           "events": {},
-          "animated_bones": 92,
-          "animated_slots": 47
+          "animated_bones": 110,
+          "animated_slots": 71
         },
         "Attack_End": {
           "events": {},
-          "animated_bones": 92,
-          "animated_slots": 47
+          "animated_bones": 110,
+          "animated_slots": 71
         },
         "Attack_Loop": {
           "events": {
@@ -107,33 +107,38 @@
               "frame": 2
             }
           },
-          "animated_bones": 92,
-          "animated_slots": 47
+          "animated_bones": 110,
+          "animated_slots": 71
         },
         "Default": {
           "events": {},
-          "animated_bones": 92,
-          "animated_slots": 47
+          "animated_bones": 110,
+          "animated_slots": 71
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 110,
+          "animated_slots": 71
         },
         "Idle": {
           "events": {},
-          "animated_bones": 92,
-          "animated_slots": 47
+          "animated_bones": 110,
+          "animated_slots": 71
         },
         "Skill_2_Begin": {
           "events": {},
-          "animated_bones": 92,
-          "animated_slots": 47
+          "animated_bones": 110,
+          "animated_slots": 71
         },
         "Skill_2_End": {
           "events": {},
-          "animated_bones": 92,
-          "animated_slots": 47
+          "animated_bones": 110,
+          "animated_slots": 71
         },
         "Skill_2_Idle": {
           "events": {},
-          "animated_bones": 92,
-          "animated_slots": 47
+          "animated_bones": 110,
+          "animated_slots": 71
         },
         "Skill_2_Loop": {
           "events": {
@@ -142,8 +147,8 @@
               "frame": 12
             }
           },
-          "animated_bones": 92,
-          "animated_slots": 47
+          "animated_bones": 110,
+          "animated_slots": 71
         },
         "Skill_Loop": {
           "events": {
@@ -152,8 +157,8 @@
               "frame": 8
             }
           },
-          "animated_bones": 92,
-          "animated_slots": 47
+          "animated_bones": 110,
+          "animated_slots": 71
         },
         "Start": {
           "events": {
@@ -162,8 +167,8 @@
               "frame": 5
             }
           },
-          "animated_bones": 92,
-          "animated_slots": 47
+          "animated_bones": 110,
+          "animated_slots": 71
         }
       }
     }
@@ -331,5 +336,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

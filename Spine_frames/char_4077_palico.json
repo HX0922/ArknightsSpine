@@ -1,6 +1,162 @@
 {
   "BattleFront": {
     "base": {
+      "bones": 207,
+      "slots": 111,
+      "animations": {
+        "Attack_Begin": {
+          "events": {
+            "OnDeactivateEffect": {
+              "time": 0,
+              "frame": 0
+            },
+            "OnActivateEffect": {
+              "time": 0.66667,
+              "frame": 20
+            }
+          },
+          "animated_bones": 207,
+          "animated_slots": 111
+        },
+        "Attack_End": {
+          "events": {
+            "OnActivateEffect": {
+              "time": 0,
+              "frame": 0
+            },
+            "OnDeactivateEffect": {
+              "time": 0.43333,
+              "frame": 13
+            }
+          },
+          "animated_bones": 207,
+          "animated_slots": 111
+        },
+        "Attack_Loop": {
+          "events": {
+            "OnAttack": {
+              "time": 0.2,
+              "frame": 6
+            },
+            "OnDeactivateEffect": {
+              "time": 0.2,
+              "frame": 6
+            },
+            "OnActivateEffect": {
+              "time": 1.67,
+              "frame": 50
+            }
+          },
+          "animated_bones": 207,
+          "animated_slots": 111
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 207,
+          "animated_slots": 111
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 207,
+          "animated_slots": 111
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 207,
+          "animated_slots": 111
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 207,
+          "animated_slots": 111
+        },
+        "Stun": {
+          "events": {},
+          "animated_bones": 207,
+          "animated_slots": 111
+        }
+      }
+    },
+    "mh#1": {
+      "bones": 193,
+      "slots": 123,
+      "animations": {
+        "Attack_Begin": {
+          "events": {
+            "OnDeactivateEffect": {
+              "time": 0,
+              "frame": 0
+            },
+            "OnActivateEffect": {
+              "time": 0.66667,
+              "frame": 20
+            }
+          },
+          "animated_bones": 193,
+          "animated_slots": 123
+        },
+        "Attack_End": {
+          "events": {
+            "OnActivateEffect": {
+              "time": 0,
+              "frame": 0
+            },
+            "OnDeactivateEffect": {
+              "time": 0.43333,
+              "frame": 13
+            }
+          },
+          "animated_bones": 193,
+          "animated_slots": 123
+        },
+        "Attack_Loop": {
+          "events": {
+            "OnAttack": {
+              "time": 0.2,
+              "frame": 6
+            },
+            "OnDeactivateEffect": {
+              "time": 0.2,
+              "frame": 6
+            },
+            "OnActivateEffect": {
+              "time": 1.67,
+              "frame": 50
+            }
+          },
+          "animated_bones": 193,
+          "animated_slots": 123
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 193,
+          "animated_slots": 123
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 193,
+          "animated_slots": 123
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 193,
+          "animated_slots": 123
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 193,
+          "animated_slots": 123
+        },
+        "Stun": {
+          "events": {},
+          "animated_bones": 193,
+          "animated_slots": 123
+        }
+      }
+    }
+  },
+  "BattleBack": {
+    "base": {
       "bones": 141,
       "slots": 64,
       "animations": {
@@ -26,7 +182,7 @@
             },
             "OnDeactivateEffect": {
               "time": 0.43333,
-              "frame": 12
+              "frame": 13
             }
           },
           "animated_bones": 141,
@@ -93,7 +249,7 @@
             },
             "OnDeactivateEffect": {
               "time": 0.43333,
-              "frame": 12
+              "frame": 13
             }
           },
           "animated_bones": 127,
@@ -135,140 +291,5 @@
       }
     }
   },
-  "BattleBack": {
-    "base": {
-      "bones": 141,
-      "slots": 64,
-      "animations": {
-        "Attack_Begin": {
-          "events": {
-            "OnDeactivateEffect": {
-              "time": 0,
-              "frame": 0
-            },
-            "OnActivateEffect": {
-              "time": 0.66667,
-              "frame": 20
-            }
-          },
-          "animated_bones": 141,
-          "animated_slots": 64
-        },
-        "Attack_End": {
-          "events": {
-            "OnActivateEffect": {
-              "time": 0,
-              "frame": 0
-            },
-            "OnDeactivateEffect": {
-              "time": 0.43333,
-              "frame": 12
-            }
-          },
-          "animated_bones": 141,
-          "animated_slots": 64
-        },
-        "Attack_Loop": {
-          "events": {
-            "OnAttack": {
-              "time": 0.2,
-              "frame": 6
-            },
-            "OnDeactivateEffect": {
-              "time": 0.2,
-              "frame": 6
-            },
-            "OnActivateEffect": {
-              "time": 1.67,
-              "frame": 50
-            }
-          },
-          "animated_bones": 141,
-          "animated_slots": 64
-        },
-        "Default": {
-          "events": {},
-          "animated_bones": 141,
-          "animated_slots": 64
-        },
-        "Idle": {
-          "events": {},
-          "animated_bones": 141,
-          "animated_slots": 64
-        },
-        "Start": {
-          "events": {},
-          "animated_bones": 141,
-          "animated_slots": 64
-        }
-      }
-    },
-    "mh#1": {
-      "bones": 127,
-      "slots": 64,
-      "animations": {
-        "Attack_Begin": {
-          "events": {
-            "OnDeactivateEffect": {
-              "time": 0,
-              "frame": 0
-            },
-            "OnActivateEffect": {
-              "time": 0.66667,
-              "frame": 20
-            }
-          },
-          "animated_bones": 127,
-          "animated_slots": 64
-        },
-        "Attack_End": {
-          "events": {
-            "OnActivateEffect": {
-              "time": 0,
-              "frame": 0
-            },
-            "OnDeactivateEffect": {
-              "time": 0.43333,
-              "frame": 12
-            }
-          },
-          "animated_bones": 127,
-          "animated_slots": 64
-        },
-        "Attack_Loop": {
-          "events": {
-            "OnAttack": {
-              "time": 0.2,
-              "frame": 6
-            },
-            "OnDeactivateEffect": {
-              "time": 0.2,
-              "frame": 6
-            },
-            "OnActivateEffect": {
-              "time": 1.67,
-              "frame": 50
-            }
-          },
-          "animated_bones": 127,
-          "animated_slots": 64
-        },
-        "Default": {
-          "events": {},
-          "animated_bones": 127,
-          "animated_slots": 64
-        },
-        "Idle": {
-          "events": {},
-          "animated_bones": 127,
-          "animated_slots": 64
-        },
-        "Start": {
-          "events": {},
-          "animated_bones": 127,
-          "animated_slots": 64
-        }
-      }
-    }
-  }
+  "Down": {}
 }

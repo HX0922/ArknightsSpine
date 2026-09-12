@@ -42,8 +42,8 @@
       }
     },
     "game#4": {
-      "bones": 79,
-      "slots": 38,
+      "bones": 103,
+      "slots": 68,
       "animations": {
         "Attack": {
           "events": {
@@ -52,18 +52,23 @@
               "frame": 20
             }
           },
-          "animated_bones": 79,
-          "animated_slots": 38
+          "animated_bones": 103,
+          "animated_slots": 68
         },
         "Default": {
           "events": {},
-          "animated_bones": 79,
-          "animated_slots": 38
+          "animated_bones": 103,
+          "animated_slots": 68
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 103,
+          "animated_slots": 68
         },
         "Idle": {
           "events": {},
-          "animated_bones": 79,
-          "animated_slots": 38
+          "animated_bones": 103,
+          "animated_slots": 68
         },
         "Start": {
           "events": {
@@ -72,8 +77,8 @@
               "frame": 5
             }
           },
-          "animated_bones": 79,
-          "animated_slots": 38
+          "animated_bones": 103,
+          "animated_slots": 68
         }
       }
     }
@@ -151,5 +156,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

@@ -58,7 +58,7 @@
           "events": {
             "OnStart": {
               "time": 0.23333,
-              "frame": 6
+              "frame": 7
             }
           },
           "animated_bones": 197,
@@ -124,7 +124,7 @@
           "events": {
             "OnStart": {
               "time": 0.23333,
-              "frame": 6
+              "frame": 7
             }
           },
           "animated_bones": 220,
@@ -190,7 +190,7 @@
           "events": {
             "OnStart": {
               "time": 0.23333,
-              "frame": 6
+              "frame": 7
             }
           },
           "animated_bones": 328,
@@ -253,7 +253,7 @@
           "events": {
             "OnStart": {
               "time": 0.23333,
-              "frame": 6
+              "frame": 7
             }
           },
           "animated_bones": 126,
@@ -314,7 +314,7 @@
           "events": {
             "OnStart": {
               "time": 0.23333,
-              "frame": 6
+              "frame": 7
             }
           },
           "animated_bones": 144,
@@ -375,7 +375,7 @@
           "events": {
             "OnStart": {
               "time": 0.23333,
-              "frame": 6
+              "frame": 7
             }
           },
           "animated_bones": 209,
@@ -383,5 +383,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

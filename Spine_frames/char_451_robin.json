@@ -42,8 +42,8 @@
       }
     },
     "epoque#13": {
-      "bones": 116,
-      "slots": 61,
+      "bones": 182,
+      "slots": 106,
       "animations": {
         "Attack": {
           "events": {
@@ -52,18 +52,23 @@
               "frame": 8
             }
           },
-          "animated_bones": 115,
-          "animated_slots": 61
+          "animated_bones": 181,
+          "animated_slots": 106
         },
         "Default": {
           "events": {},
-          "animated_bones": 115,
-          "animated_slots": 61
+          "animated_bones": 181,
+          "animated_slots": 106
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 181,
+          "animated_slots": 106
         },
         "Idle": {
           "events": {},
-          "animated_bones": 115,
-          "animated_slots": 61
+          "animated_bones": 181,
+          "animated_slots": 106
         },
         "Start": {
           "events": {
@@ -72,8 +77,8 @@
               "frame": 6
             }
           },
-          "animated_bones": 115,
-          "animated_slots": 61
+          "animated_bones": 181,
+          "animated_slots": 106
         }
       }
     }
@@ -156,5 +161,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

@@ -1,0 +1,172 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 310,
+      "slots": 165,
+      "animations": {
+        "Attack_A": {
+          "events": {
+            "OnAttack": {
+              "time": 1.03,
+              "frame": 31
+            }
+          },
+          "animated_bones": 307,
+          "animated_slots": 165
+        },
+        "Attack_B": {
+          "events": {
+            "OnAttack": {
+              "time": 1.03,
+              "frame": 31
+            }
+          },
+          "animated_bones": 307,
+          "animated_slots": 165
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 307,
+          "animated_slots": 165
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 306,
+          "animated_slots": 165
+        },
+        "Idle_A": {
+          "events": {},
+          "animated_bones": 306,
+          "animated_slots": 165
+        },
+        "Idle_B": {
+          "events": {},
+          "animated_bones": 306,
+          "animated_slots": 165
+        },
+        "Move_A": {
+          "events": {
+            "OnPlayEffect": {
+              "time": 2.73,
+              "frame": 82
+            }
+          },
+          "animated_bones": 306,
+          "animated_slots": 165
+        },
+        "Move_B": {
+          "events": {
+            "OnPlayEffect": {
+              "time": 2.73,
+              "frame": 82
+            }
+          },
+          "animated_bones": 306,
+          "animated_slots": 165
+        },
+        "Reborn_1_End": {
+          "events": {
+            "OnPlayAudio": {
+              "time": 0.86667,
+              "frame": 26
+            }
+          },
+          "animated_bones": 308,
+          "animated_slots": 165
+        },
+        "Reborn_1_Idle": {
+          "events": {},
+          "animated_bones": 308,
+          "animated_slots": 165
+        },
+        "Reborn_1_Start": {
+          "events": {
+            "OnPlayAudio": {
+              "time": 2.43,
+              "frame": 73
+            }
+          },
+          "animated_bones": 308,
+          "animated_slots": 165
+        },
+        "Reborn_2_End": {
+          "events": {
+            "OnPlayAudio": {
+              "time": 0,
+              "frame": 0
+            }
+          },
+          "animated_bones": 306,
+          "animated_slots": 165
+        },
+        "Reborn_2_Idle": {
+          "events": {},
+          "animated_bones": 307,
+          "animated_slots": 165
+        },
+        "Reborn_2_Start": {
+          "events": {
+            "OnPlayAudio": {
+              "time": 4,
+              "frame": 120
+            }
+          },
+          "animated_bones": 307,
+          "animated_slots": 165
+        },
+        "Skill_3": {
+          "events": {
+            "OnAttack": {
+              "time": 0.9,
+              "frame": 27
+            }
+          },
+          "animated_bones": 308,
+          "animated_slots": 165
+        },
+        "Skill_1_A": {
+          "events": {
+            "OnAttack": {
+              "time": 1.17,
+              "frame": 35
+            }
+          },
+          "animated_bones": 307,
+          "animated_slots": 165
+        },
+        "Skill_1_B": {
+          "events": {
+            "OnAttack": {
+              "time": 1.17,
+              "frame": 35
+            }
+          },
+          "animated_bones": 307,
+          "animated_slots": 165
+        },
+        "Skill_2_A": {
+          "events": {
+            "OnAttack": {
+              "time": 1.03,
+              "frame": 31
+            }
+          },
+          "animated_bones": 307,
+          "animated_slots": 165
+        },
+        "Skill_2_B": {
+          "events": {
+            "OnAttack": {
+              "time": 1.03,
+              "frame": 31
+            }
+          },
+          "animated_bones": 307,
+          "animated_slots": 165
+        }
+      }
+    }
+  },
+  "BattleBack": {},
+  "Down": {}
+}

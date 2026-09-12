@@ -18,11 +18,11 @@
           "events": {
             "OnAttack": {
               "time": 1.13,
-              "frame": 33
+              "frame": 34
             },
             "OnPlayAudio": {
               "time": 1.53,
-              "frame": 45
+              "frame": 46
             }
           },
           "animated_bones": 176,
@@ -47,7 +47,7 @@
           "events": {
             "OnAttack": {
               "time": 1.13,
-              "frame": 33
+              "frame": 34
             }
           },
           "animated_bones": 176,
@@ -77,11 +77,11 @@
           "events": {
             "OnAttack": {
               "time": 1.13,
-              "frame": 33
+              "frame": 34
             },
             "OnPlayAudio": {
               "time": 1.53,
-              "frame": 45
+              "frame": 46
             }
           },
           "animated_bones": 176,
@@ -111,7 +111,7 @@
           "events": {
             "OnAttack": {
               "time": 1.13,
-              "frame": 33
+              "frame": 34
             }
           },
           "animated_bones": 176,
@@ -164,5 +164,6 @@
       }
     }
   },
-  "BattleBack": {}
+  "BattleBack": {},
+  "Down": {}
 }

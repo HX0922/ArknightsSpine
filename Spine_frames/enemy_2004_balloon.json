@@ -53,7 +53,7 @@
           "events": {
             "OnStart": {
               "time": 1.13,
-              "frame": 33
+              "frame": 34
             }
           },
           "animated_bones": 57,
@@ -67,5 +67,6 @@
       }
     }
   },
-  "BattleBack": {}
+  "BattleBack": {},
+  "Down": {}
 }

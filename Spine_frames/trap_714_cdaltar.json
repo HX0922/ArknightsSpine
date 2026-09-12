@@ -23,7 +23,69 @@
           "events": {
             "OnStart": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
+            }
+          },
+          "animated_bones": 8,
+          "animated_slots": 9
+        }
+      }
+    },
+    "trap_715_cdaltara": {
+      "bones": 8,
+      "slots": 9,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 8,
+          "animated_slots": 9
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 8,
+          "animated_slots": 9
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 8,
+          "animated_slots": 9
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.33333,
+              "frame": 10
+            }
+          },
+          "animated_bones": 8,
+          "animated_slots": 9
+        }
+      }
+    },
+    "trap_716_cdaltarb": {
+      "bones": 8,
+      "slots": 9,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 8,
+          "animated_slots": 9
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 8,
+          "animated_slots": 9
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 8,
+          "animated_slots": 9
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.33333,
+              "frame": 10
             }
           },
           "animated_bones": 8,
@@ -32,5 +94,6 @@
       }
     }
   },
-  "BattleBack": {}
+  "BattleBack": {},
+  "Down": {}
 }

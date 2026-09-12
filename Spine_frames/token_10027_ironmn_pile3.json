@@ -2,7 +2,7 @@
   "BattleFront": {
     "base": {
       "bones": 44,
-      "slots": 30,
+      "slots": 37,
       "animations": {
         "Attack": {
           "events": {
@@ -12,27 +12,27 @@
             }
           },
           "animated_bones": 44,
-          "animated_slots": 30
+          "animated_slots": 37
         },
         "Default": {
           "events": {},
           "animated_bones": 44,
-          "animated_slots": 30
+          "animated_slots": 37
         },
         "Die": {
           "events": {},
           "animated_bones": 44,
-          "animated_slots": 30
+          "animated_slots": 37
         },
         "Idle": {
           "events": {},
           "animated_bones": 44,
-          "animated_slots": 30
+          "animated_slots": 37
         },
         "Start": {
           "events": {},
           "animated_bones": 44,
-          "animated_slots": 30
+          "animated_slots": 37
         }
       }
     },
@@ -73,8 +73,8 @@
       }
     },
     "summer#11": {
-      "bones": 38,
-      "slots": 24,
+      "bones": 39,
+      "slots": 22,
       "animations": {
         "Attack": {
           "events": {
@@ -83,28 +83,28 @@
               "frame": 2
             }
           },
-          "animated_bones": 38,
-          "animated_slots": 24
+          "animated_bones": 39,
+          "animated_slots": 22
         },
         "Default": {
           "events": {},
-          "animated_bones": 38,
-          "animated_slots": 24
+          "animated_bones": 39,
+          "animated_slots": 22
         },
         "Die": {
           "events": {},
-          "animated_bones": 38,
-          "animated_slots": 24
+          "animated_bones": 39,
+          "animated_slots": 22
         },
         "Idle": {
           "events": {},
-          "animated_bones": 38,
-          "animated_slots": 24
+          "animated_bones": 39,
+          "animated_slots": 22
         },
         "Start": {
           "events": {},
-          "animated_bones": 38,
-          "animated_slots": 24
+          "animated_bones": 39,
+          "animated_slots": 22
         }
       }
     }
@@ -215,6 +215,116 @@
           "events": {},
           "animated_bones": 29,
           "animated_slots": 16
+        }
+      }
+    }
+  },
+  "Down": {
+    "base": {
+      "bones": 44,
+      "slots": 30,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.06667,
+              "frame": 2
+            }
+          },
+          "animated_bones": 44,
+          "animated_slots": 30
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 44,
+          "animated_slots": 30
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 44,
+          "animated_slots": 30
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 44,
+          "animated_slots": 30
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 44,
+          "animated_slots": 30
+        }
+      }
+    },
+    "ambienceSynesthesia#5": {
+      "bones": 31,
+      "slots": 23,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.06667,
+              "frame": 2
+            }
+          },
+          "animated_bones": 31,
+          "animated_slots": 23
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 31,
+          "animated_slots": 23
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 31,
+          "animated_slots": 23
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 31,
+          "animated_slots": 23
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 31,
+          "animated_slots": 23
+        }
+      }
+    },
+    "summer#11": {
+      "bones": 38,
+      "slots": 24,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.06667,
+              "frame": 2
+            }
+          },
+          "animated_bones": 38,
+          "animated_slots": 24
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 38,
+          "animated_slots": 24
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 38,
+          "animated_slots": 24
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 38,
+          "animated_slots": 24
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 38,
+          "animated_slots": 24
         }
       }
     }

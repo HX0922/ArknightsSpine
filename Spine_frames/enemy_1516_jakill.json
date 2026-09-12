@@ -1,0 +1,97 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 155,
+      "slots": 123,
+      "animations": {
+        "C1_Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.93333,
+              "frame": 28
+            }
+          },
+          "animated_bones": 155,
+          "animated_slots": 123
+        },
+        "C1_Default": {
+          "events": {},
+          "animated_bones": 155,
+          "animated_slots": 123
+        },
+        "C1_Die": {
+          "events": {
+            "OnPlayAudio": {
+              "time": 3.33,
+              "frame": 100
+            }
+          },
+          "animated_bones": 155,
+          "animated_slots": 123
+        },
+        "C1_Idle": {
+          "events": {},
+          "animated_bones": 155,
+          "animated_slots": 123
+        },
+        "C1_Move": {
+          "events": {},
+          "animated_bones": 155,
+          "animated_slots": 123
+        },
+        "C1_Skill": {
+          "events": {
+            "OnAttack": {
+              "time": 1.47,
+              "frame": 44
+            }
+          },
+          "animated_bones": 155,
+          "animated_slots": 123
+        },
+        "C2_Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.56667,
+              "frame": 17
+            }
+          },
+          "animated_bones": 155,
+          "animated_slots": 123
+        },
+        "C2_Default": {
+          "events": {},
+          "animated_bones": 155,
+          "animated_slots": 123
+        },
+        "C2_Die": {
+          "events": {},
+          "animated_bones": 155,
+          "animated_slots": 123
+        },
+        "C2_Idle": {
+          "events": {},
+          "animated_bones": 155,
+          "animated_slots": 123
+        },
+        "C2_Move": {
+          "events": {},
+          "animated_bones": 155,
+          "animated_slots": 123
+        },
+        "C2_Skill": {
+          "events": {
+            "OnAttack": {
+              "time": 0.36667,
+              "frame": 11
+            }
+          },
+          "animated_bones": 155,
+          "animated_slots": 123
+        }
+      }
+    }
+  },
+  "BattleBack": {},
+  "Down": {}
+}

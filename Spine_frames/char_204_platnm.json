@@ -1,8 +1,8 @@
 {
   "BattleFront": {
     "base": {
-      "bones": 112,
-      "slots": 50,
+      "bones": 126,
+      "slots": 63,
       "animations": {
         "Attack": {
           "events": {
@@ -11,18 +11,23 @@
               "frame": 20
             }
           },
-          "animated_bones": 99,
-          "animated_slots": 48
+          "animated_bones": 125,
+          "animated_slots": 61
         },
         "Default": {
           "events": {},
-          "animated_bones": 98,
-          "animated_slots": 47
+          "animated_bones": 117,
+          "animated_slots": 59
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 118,
+          "animated_slots": 61
         },
         "Idle": {
           "events": {},
-          "animated_bones": 102,
-          "animated_slots": 48
+          "animated_bones": 117,
+          "animated_slots": 60
         },
         "Skill": {
           "events": {
@@ -31,8 +36,8 @@
               "frame": 36
             }
           },
-          "animated_bones": 99,
-          "animated_slots": 48
+          "animated_bones": 125,
+          "animated_slots": 60
         },
         "Start": {
           "events": {
@@ -41,14 +46,14 @@
               "frame": 9
             }
           },
-          "animated_bones": 102,
-          "animated_slots": 48
+          "animated_bones": 117,
+          "animated_slots": 59
         }
       }
     },
     "summer#3": {
-      "bones": 175,
-      "slots": 53,
+      "bones": 195,
+      "slots": 69,
       "animations": {
         "Attack": {
           "events": {
@@ -57,18 +62,23 @@
               "frame": 20
             }
           },
-          "animated_bones": 173,
-          "animated_slots": 53
+          "animated_bones": 192,
+          "animated_slots": 69
         },
         "Default": {
           "events": {},
-          "animated_bones": 173,
-          "animated_slots": 53
+          "animated_bones": 191,
+          "animated_slots": 69
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 191,
+          "animated_slots": 69
         },
         "Idle": {
           "events": {},
-          "animated_bones": 173,
-          "animated_slots": 53
+          "animated_bones": 191,
+          "animated_slots": 69
         },
         "Skill": {
           "events": {
@@ -77,8 +87,8 @@
               "frame": 36
             }
           },
-          "animated_bones": 175,
-          "animated_slots": 53
+          "animated_bones": 193,
+          "animated_slots": 69
         },
         "Start": {
           "events": {
@@ -87,8 +97,8 @@
               "frame": 9
             }
           },
-          "animated_bones": 173,
-          "animated_slots": 53
+          "animated_bones": 193,
+          "animated_slots": 69
         }
       }
     }
@@ -186,5 +196,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

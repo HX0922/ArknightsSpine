@@ -1,8 +1,8 @@
 {
   "BattleFront": {
     "base": {
-      "bones": 147,
-      "slots": 84,
+      "bones": 195,
+      "slots": 106,
       "animations": {
         "Attack": {
           "events": {
@@ -11,33 +11,38 @@
               "frame": 20
             }
           },
-          "animated_bones": 147,
-          "animated_slots": 84
+          "animated_bones": 195,
+          "animated_slots": 106
         },
         "Default": {
           "events": {},
-          "animated_bones": 147,
-          "animated_slots": 84
+          "animated_bones": 195,
+          "animated_slots": 106
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 195,
+          "animated_slots": 106
         },
         "Idle": {
           "events": {},
-          "animated_bones": 147,
-          "animated_slots": 84
+          "animated_bones": 195,
+          "animated_slots": 106
         },
         "Skill_2_Begin": {
           "events": {},
-          "animated_bones": 147,
-          "animated_slots": 84
+          "animated_bones": 195,
+          "animated_slots": 106
         },
         "Skill_2_End": {
           "events": {},
-          "animated_bones": 147,
-          "animated_slots": 84
+          "animated_bones": 195,
+          "animated_slots": 106
         },
         "Skill_2_Idle": {
           "events": {},
-          "animated_bones": 147,
-          "animated_slots": 84
+          "animated_bones": 195,
+          "animated_slots": 106
         },
         "Skill_2_Loop": {
           "events": {
@@ -46,13 +51,13 @@
               "frame": 18
             }
           },
-          "animated_bones": 147,
-          "animated_slots": 84
+          "animated_bones": 195,
+          "animated_slots": 106
         },
         "Start": {
           "events": {},
-          "animated_bones": 147,
-          "animated_slots": 84
+          "animated_bones": 195,
+          "animated_slots": 106
         }
       }
     },
@@ -231,5 +236,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

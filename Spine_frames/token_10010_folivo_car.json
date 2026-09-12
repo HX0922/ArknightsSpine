@@ -8,30 +8,30 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
-          "animated_bones": 9,
+          "animated_bones": 10,
           "animated_slots": 8
         },
         "Default": {
           "events": {},
-          "animated_bones": 9,
+          "animated_bones": 10,
           "animated_slots": 8
         },
         "Die": {
           "events": {},
-          "animated_bones": 9,
+          "animated_bones": 10,
           "animated_slots": 8
         },
         "Idle": {
           "events": {},
-          "animated_bones": 9,
+          "animated_bones": 10,
           "animated_slots": 8
         },
         "Stun": {
           "events": {},
-          "animated_bones": 9,
+          "animated_bones": 10,
           "animated_slots": 8
         }
       }
@@ -44,7 +44,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 13,
@@ -80,7 +80,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 40,
@@ -118,7 +118,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 9,
@@ -154,7 +154,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 13,
@@ -190,7 +190,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 40,
@@ -218,5 +218,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

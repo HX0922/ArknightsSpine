@@ -68,7 +68,7 @@
           "events": {
             "OnStart": {
               "time": 0.23333,
-              "frame": 6
+              "frame": 7
             }
           },
           "animated_bones": 515,
@@ -91,6 +91,11 @@
           "animated_slots": 155
         },
         "Default": {
+          "events": {},
+          "animated_bones": 451,
+          "animated_slots": 155
+        },
+        "Die": {
           "events": {},
           "animated_bones": 451,
           "animated_slots": 155
@@ -139,7 +144,7 @@
           "events": {
             "OnStart": {
               "time": 0.23333,
-              "frame": 6
+              "frame": 7
             }
           },
           "animated_bones": 451,
@@ -212,7 +217,7 @@
           "events": {
             "OnStart": {
               "time": 0.23333,
-              "frame": 6
+              "frame": 7
             }
           },
           "animated_bones": 515,
@@ -283,7 +288,7 @@
           "events": {
             "OnStart": {
               "time": 0.23333,
-              "frame": 6
+              "frame": 7
             }
           },
           "animated_bones": 451,
@@ -291,5 +296,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

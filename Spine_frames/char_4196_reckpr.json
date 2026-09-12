@@ -58,7 +58,7 @@
           "events": {
             "OnStart": {
               "time": 0.23333,
-              "frame": 6
+              "frame": 7
             }
           },
           "animated_bones": 245,
@@ -121,7 +121,7 @@
           "events": {
             "OnStart": {
               "time": 0.23333,
-              "frame": 6
+              "frame": 7
             }
           },
           "animated_bones": 187,
@@ -129,5 +129,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

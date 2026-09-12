@@ -8,7 +8,7 @@
           "events": {
             "OnAttack": {
               "time": 0.63333,
-              "frame": 18
+              "frame": 19
             }
           },
           "animated_bones": 75,
@@ -52,28 +52,33 @@
       }
     },
     "kitchen#1": {
-      "bones": 75,
-      "slots": 64,
+      "bones": 105,
+      "slots": 101,
       "animations": {
         "Attack": {
           "events": {
             "OnAttack": {
               "time": 0.63333,
-              "frame": 18
+              "frame": 19
             }
           },
-          "animated_bones": 75,
-          "animated_slots": 64
+          "animated_bones": 105,
+          "animated_slots": 101
         },
         "Default": {
           "events": {},
-          "animated_bones": 75,
-          "animated_slots": 64
+          "animated_bones": 105,
+          "animated_slots": 101
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 105,
+          "animated_slots": 101
         },
         "Idle": {
           "events": {},
-          "animated_bones": 75,
-          "animated_slots": 64
+          "animated_bones": 105,
+          "animated_slots": 101
         },
         "Start": {
           "events": {
@@ -82,8 +87,8 @@
               "frame": 5
             }
           },
-          "animated_bones": 75,
-          "animated_slots": 64
+          "animated_bones": 105,
+          "animated_slots": 101
         }
       }
     }
@@ -97,7 +102,7 @@
           "events": {
             "OnAttack": {
               "time": 0.63333,
-              "frame": 18
+              "frame": 19
             }
           },
           "animated_bones": 50,
@@ -143,7 +148,7 @@
           "events": {
             "OnAttack": {
               "time": 0.63333,
-              "frame": 18
+              "frame": 19
             }
           },
           "animated_bones": 75,
@@ -171,5 +176,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

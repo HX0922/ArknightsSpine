@@ -8,7 +8,7 @@
           "events": {
             "OnAttack": {
               "time": 0.23333,
-              "frame": 6
+              "frame": 7
             }
           },
           "animated_bones": 44,
@@ -33,7 +33,7 @@
           "events": {
             "OnStart": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 44,
@@ -49,7 +49,7 @@
           "events": {
             "OnAttack": {
               "time": 0.23333,
-              "frame": 6
+              "frame": 7
             }
           },
           "animated_bones": 63,
@@ -74,7 +74,7 @@
           "events": {
             "OnStart": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 63,
@@ -92,7 +92,7 @@
           "events": {
             "OnAttack": {
               "time": 0.23333,
-              "frame": 6
+              "frame": 7
             }
           },
           "animated_bones": 36,
@@ -112,7 +112,7 @@
           "events": {
             "OnStart": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 36,
@@ -128,7 +128,7 @@
           "events": {
             "OnAttack": {
               "time": 0.23333,
-              "frame": 6
+              "frame": 7
             }
           },
           "animated_bones": 72,
@@ -148,7 +148,7 @@
           "events": {
             "OnStart": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 72,
@@ -156,5 +156,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

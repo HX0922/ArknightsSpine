@@ -10,7 +10,19 @@
           "animated_slots": 0
         }
       }
+    },
+    "trap_292_zishan": {
+      "bones": 5,
+      "slots": 1,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 1,
+          "animated_slots": 0
+        }
+      }
     }
   },
-  "BattleBack": {}
+  "BattleBack": {},
+  "Down": {}
 }

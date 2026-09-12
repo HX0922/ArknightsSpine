@@ -1,8 +1,8 @@
 {
   "BattleFront": {
     "base": {
-      "bones": 85,
-      "slots": 63,
+      "bones": 145,
+      "slots": 110,
       "animations": {
         "Attack": {
           "events": {
@@ -11,18 +11,23 @@
               "frame": 17
             }
           },
-          "animated_bones": 85,
-          "animated_slots": 63
+          "animated_bones": 145,
+          "animated_slots": 110
         },
         "Default": {
           "events": {},
-          "animated_bones": 85,
-          "animated_slots": 63
+          "animated_bones": 145,
+          "animated_slots": 110
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 145,
+          "animated_slots": 110
         },
         "Idle": {
           "events": {},
-          "animated_bones": 85,
-          "animated_slots": 63
+          "animated_bones": 145,
+          "animated_slots": 110
         },
         "Skill_1": {
           "events": {
@@ -31,8 +36,8 @@
               "frame": 20
             }
           },
-          "animated_bones": 85,
-          "animated_slots": 63
+          "animated_bones": 145,
+          "animated_slots": 110
         },
         "Skill_2": {
           "events": {
@@ -41,8 +46,8 @@
               "frame": 8
             }
           },
-          "animated_bones": 85,
-          "animated_slots": 63
+          "animated_bones": 145,
+          "animated_slots": 110
         },
         "Skill_3_Attack": {
           "events": {
@@ -55,28 +60,23 @@
               "frame": 108
             }
           },
-          "animated_bones": 85,
-          "animated_slots": 63
+          "animated_bones": 145,
+          "animated_slots": 110
         },
         "Skill_3_Start": {
           "events": {
             "OnAttack": {
               "time": 0.13333,
-              "frame": 3
+              "frame": 4
             }
           },
-          "animated_bones": 85,
-          "animated_slots": 63
+          "animated_bones": 145,
+          "animated_slots": 110
         },
         "Start": {
-          "events": {
-            "OnStart": {
-              "time": 0.36667,
-              "frame": 11
-            }
-          },
-          "animated_bones": 85,
-          "animated_slots": 63
+          "events": {},
+          "animated_bones": 145,
+          "animated_slots": 110
         }
       }
     },
@@ -147,7 +147,7 @@
           "events": {
             "OnAttack": {
               "time": 0.13333,
-              "frame": 3
+              "frame": 4
             }
           },
           "animated_bones": 155,
@@ -227,7 +227,7 @@
           "events": {
             "OnAttack": {
               "time": 0.13333,
-              "frame": 3
+              "frame": 4
             }
           },
           "animated_bones": 146,
@@ -304,7 +304,7 @@
           "events": {
             "OnAttack": {
               "time": 0.13333,
-              "frame": 3
+              "frame": 4
             }
           },
           "animated_bones": 85,
@@ -384,7 +384,7 @@
           "events": {
             "OnAttack": {
               "time": 0.13333,
-              "frame": 3
+              "frame": 4
             }
           },
           "animated_bones": 91,
@@ -464,7 +464,7 @@
           "events": {
             "OnAttack": {
               "time": 0.13333,
-              "frame": 3
+              "frame": 4
             }
           },
           "animated_bones": 85,
@@ -482,5 +482,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

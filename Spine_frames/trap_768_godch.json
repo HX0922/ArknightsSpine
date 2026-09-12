@@ -30,7 +30,70 @@
           "animated_slots": 11
         }
       }
+    },
+    "trap_769_godcha": {
+      "bones": 13,
+      "slots": 11,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 13,
+          "animated_slots": 11
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 13,
+          "animated_slots": 11
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 13,
+          "animated_slots": 11
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0,
+              "frame": 0
+            }
+          },
+          "animated_bones": 13,
+          "animated_slots": 11
+        }
+      }
+    },
+    "trap_770_godchb": {
+      "bones": 13,
+      "slots": 11,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 13,
+          "animated_slots": 11
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 13,
+          "animated_slots": 11
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 13,
+          "animated_slots": 11
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0,
+              "frame": 0
+            }
+          },
+          "animated_bones": 13,
+          "animated_slots": 11
+        }
+      }
     }
   },
-  "BattleBack": {}
+  "BattleBack": {},
+  "Down": {}
 }

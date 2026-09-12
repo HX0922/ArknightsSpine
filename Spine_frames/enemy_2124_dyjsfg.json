@@ -23,7 +23,7 @@
           "events": {
             "OnPlayAudio": {
               "time": 1.43,
-              "frame": 42
+              "frame": 43
             }
           },
           "animated_bones": 40,
@@ -47,5 +47,6 @@
       }
     }
   },
-  "BattleBack": {}
+  "BattleBack": {},
+  "Down": {}
 }

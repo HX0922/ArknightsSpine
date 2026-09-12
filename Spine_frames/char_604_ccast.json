@@ -1,6 +1,49 @@
 {
   "BattleFront": {
     "base": {
+      "bones": 75,
+      "slots": 37,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.53333,
+              "frame": 16
+            }
+          },
+          "animated_bones": 75,
+          "animated_slots": 37
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 75,
+          "animated_slots": 37
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 75,
+          "animated_slots": 37
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 75,
+          "animated_slots": 37
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.2,
+              "frame": 6
+            }
+          },
+          "animated_bones": 75,
+          "animated_slots": 37
+        }
+      }
+    }
+  },
+  "BattleBack": {
+    "base": {
       "bones": 64,
       "slots": 28,
       "animations": {
@@ -8,7 +51,7 @@
           "events": {
             "OnAttack": {
               "time": 0.53333,
-              "frame": 15
+              "frame": 16
             }
           },
           "animated_bones": 64,
@@ -37,42 +80,5 @@
       }
     }
   },
-  "BattleBack": {
-    "base": {
-      "bones": 64,
-      "slots": 28,
-      "animations": {
-        "Attack": {
-          "events": {
-            "OnAttack": {
-              "time": 0.53333,
-              "frame": 15
-            }
-          },
-          "animated_bones": 64,
-          "animated_slots": 28
-        },
-        "Default": {
-          "events": {},
-          "animated_bones": 64,
-          "animated_slots": 28
-        },
-        "Idle": {
-          "events": {},
-          "animated_bones": 64,
-          "animated_slots": 28
-        },
-        "Start": {
-          "events": {
-            "OnStart": {
-              "time": 0.2,
-              "frame": 6
-            }
-          },
-          "animated_bones": 64,
-          "animated_slots": 28
-        }
-      }
-    }
-  }
+  "Down": {}
 }

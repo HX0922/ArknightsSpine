@@ -8,11 +8,11 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             },
             "OnPlayAudio": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             }
           },
           "animated_bones": 30,
@@ -42,7 +42,7 @@
           "events": {
             "OnAttack": {
               "time": 4.03,
-              "frame": 120
+              "frame": 121
             },
             "OnPlayAudio": {
               "time": 6.7,
@@ -55,5 +55,6 @@
       }
     }
   },
-  "BattleBack": {}
+  "BattleBack": {},
+  "Down": {}
 }

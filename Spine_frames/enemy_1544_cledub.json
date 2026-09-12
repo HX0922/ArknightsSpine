@@ -81,7 +81,7 @@
             },
             "OnPlayAudio": {
               "time": 1.83,
-              "frame": 54
+              "frame": 55
             }
           },
           "animated_bones": 153,
@@ -90,5 +90,6 @@
       }
     }
   },
-  "BattleBack": {}
+  "BattleBack": {},
+  "Down": {}
 }

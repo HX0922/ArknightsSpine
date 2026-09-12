@@ -1,8 +1,8 @@
 {
   "BattleFront": {
     "base": {
-      "bones": 88,
-      "slots": 40,
+      "bones": 115,
+      "slots": 66,
       "animations": {
         "Attack": {
           "events": {
@@ -11,33 +11,38 @@
               "frame": 21
             }
           },
-          "animated_bones": 83,
-          "animated_slots": 40
+          "animated_bones": 108,
+          "animated_slots": 66
         },
         "Default": {
           "events": {},
-          "animated_bones": 85,
-          "animated_slots": 40
+          "animated_bones": 108,
+          "animated_slots": 66
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 108,
+          "animated_slots": 66
         },
         "Idle": {
           "events": {},
-          "animated_bones": 85,
-          "animated_slots": 40
+          "animated_bones": 108,
+          "animated_slots": 66
         },
         "Skill2_Begin": {
           "events": {},
-          "animated_bones": 83,
-          "animated_slots": 40
+          "animated_bones": 108,
+          "animated_slots": 66
         },
         "Skill2_End": {
           "events": {},
-          "animated_bones": 83,
-          "animated_slots": 40
+          "animated_bones": 108,
+          "animated_slots": 66
         },
         "Skill2_Idle": {
           "events": {},
-          "animated_bones": 83,
-          "animated_slots": 40
+          "animated_bones": 108,
+          "animated_slots": 66
         },
         "Skill2_Loop": {
           "events": {
@@ -46,8 +51,8 @@
               "frame": 21
             }
           },
-          "animated_bones": 70,
-          "animated_slots": 40
+          "animated_bones": 108,
+          "animated_slots": 66
         },
         "Start": {
           "events": {
@@ -56,8 +61,8 @@
               "frame": 8
             }
           },
-          "animated_bones": 83,
-          "animated_slots": 40
+          "animated_bones": 109,
+          "animated_slots": 66
         }
       }
     },
@@ -251,5 +256,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

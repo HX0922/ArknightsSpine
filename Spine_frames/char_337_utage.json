@@ -8,7 +8,7 @@
           "events": {
             "OnAttack": {
               "time": 0.43333,
-              "frame": 12
+              "frame": 13
             }
           },
           "animated_bones": 98,
@@ -48,7 +48,7 @@
           "events": {
             "OnStart": {
               "time": 0.23333,
-              "frame": 6
+              "frame": 7
             }
           },
           "animated_bones": 98,
@@ -57,53 +57,58 @@
       }
     },
     "epoque#15": {
-      "bones": 108,
-      "slots": 62,
+      "bones": 171,
+      "slots": 113,
       "animations": {
         "Attack": {
           "events": {
             "OnAttack": {
               "time": 0.43333,
-              "frame": 12
+              "frame": 13
             }
           },
-          "animated_bones": 108,
-          "animated_slots": 62
+          "animated_bones": 171,
+          "animated_slots": 113
         },
         "Default": {
           "events": {},
-          "animated_bones": 108,
-          "animated_slots": 62
+          "animated_bones": 171,
+          "animated_slots": 113
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 171,
+          "animated_slots": 113
         },
         "Idle": {
           "events": {},
-          "animated_bones": 108,
-          "animated_slots": 62
+          "animated_bones": 171,
+          "animated_slots": 113
         },
         "Skill_End": {
           "events": {},
-          "animated_bones": 108,
-          "animated_slots": 62
+          "animated_bones": 171,
+          "animated_slots": 113
         },
         "Skill_Loop": {
           "events": {},
-          "animated_bones": 108,
-          "animated_slots": 62
+          "animated_bones": 171,
+          "animated_slots": 113
         },
         "Skill_Start": {
           "events": {},
-          "animated_bones": 108,
-          "animated_slots": 62
+          "animated_bones": 171,
+          "animated_slots": 113
         },
         "Start": {
           "events": {
             "OnStart": {
               "time": 0.23333,
-              "frame": 6
+              "frame": 7
             }
           },
-          "animated_bones": 108,
-          "animated_slots": 62
+          "animated_bones": 171,
+          "animated_slots": 113
         }
       }
     },
@@ -115,7 +120,7 @@
           "events": {
             "OnAttack": {
               "time": 0.43333,
-              "frame": 12
+              "frame": 13
             }
           },
           "animated_bones": 146,
@@ -155,7 +160,7 @@
           "events": {
             "OnStart": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 146,
@@ -173,7 +178,7 @@
           "events": {
             "OnAttack": {
               "time": 0.43333,
-              "frame": 12
+              "frame": 13
             }
           },
           "animated_bones": 75,
@@ -208,7 +213,7 @@
           "events": {
             "OnStart": {
               "time": 0.23333,
-              "frame": 6
+              "frame": 7
             }
           },
           "animated_bones": 75,
@@ -224,7 +229,7 @@
           "events": {
             "OnAttack": {
               "time": 0.43333,
-              "frame": 12
+              "frame": 13
             }
           },
           "animated_bones": 108,
@@ -259,7 +264,7 @@
           "events": {
             "OnStart": {
               "time": 0.23333,
-              "frame": 6
+              "frame": 7
             }
           },
           "animated_bones": 108,
@@ -275,7 +280,7 @@
           "events": {
             "OnAttack": {
               "time": 0.43333,
-              "frame": 12
+              "frame": 13
             }
           },
           "animated_bones": 116,
@@ -310,7 +315,7 @@
           "events": {
             "OnStart": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 116,
@@ -318,5 +323,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

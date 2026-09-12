@@ -63,7 +63,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 253,
@@ -73,7 +73,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 253,
@@ -83,7 +83,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 253,
@@ -125,6 +125,11 @@
           "animated_bones": 414,
           "animated_slots": 204
         },
+        "Die": {
+          "events": {},
+          "animated_bones": 414,
+          "animated_slots": 204
+        },
         "Idle": {
           "events": {},
           "animated_bones": 414,
@@ -174,7 +179,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 414,
@@ -184,7 +189,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 414,
@@ -194,7 +199,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 414,
@@ -236,6 +241,11 @@
           "animated_bones": 322,
           "animated_slots": 162
         },
+        "Die": {
+          "events": {},
+          "animated_bones": 322,
+          "animated_slots": 162
+        },
         "Idle": {
           "events": {},
           "animated_bones": 322,
@@ -285,7 +295,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 322,
@@ -295,7 +305,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 322,
@@ -305,7 +315,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 322,
@@ -347,6 +357,11 @@
           "animated_bones": 402,
           "animated_slots": 256
         },
+        "Die": {
+          "events": {},
+          "animated_bones": 402,
+          "animated_slots": 256
+        },
         "Idle": {
           "events": {},
           "animated_bones": 402,
@@ -396,7 +411,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 402,
@@ -406,7 +421,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 402,
@@ -416,7 +431,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 402,
@@ -509,7 +524,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 253,
@@ -519,7 +534,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 253,
@@ -529,7 +544,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 253,
@@ -620,7 +635,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 414,
@@ -630,7 +645,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 414,
@@ -640,7 +655,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 414,
@@ -731,7 +746,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 322,
@@ -741,7 +756,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 322,
@@ -751,7 +766,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 322,
@@ -842,7 +857,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 402,
@@ -852,7 +867,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 402,
@@ -862,7 +877,7 @@
           "events": {
             "OnAttack": {
               "time": 0.33333,
-              "frame": 9
+              "frame": 10
             }
           },
           "animated_bones": 402,
@@ -895,5 +910,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

@@ -123,8 +123,8 @@
       }
     },
     "summer#10": {
-      "bones": 94,
-      "slots": 65,
+      "bones": 133,
+      "slots": 95,
       "animations": {
         "Attack": {
           "events": {
@@ -133,33 +133,43 @@
               "frame": 15
             }
           },
-          "animated_bones": 94,
-          "animated_slots": 65
+          "animated_bones": 133,
+          "animated_slots": 95
         },
         "Default": {
           "events": {},
-          "animated_bones": 94,
-          "animated_slots": 65
+          "animated_bones": 133,
+          "animated_slots": 95
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 133,
+          "animated_slots": 95
         },
         "Idle": {
           "events": {},
-          "animated_bones": 94,
-          "animated_slots": 65
+          "animated_bones": 133,
+          "animated_slots": 95
         },
         "Skill2_Begin": {
           "events": {},
-          "animated_bones": 94,
-          "animated_slots": 65
+          "animated_bones": 133,
+          "animated_slots": 95
+        },
+        "Skill2_Die": {
+          "events": {},
+          "animated_bones": 133,
+          "animated_slots": 95
         },
         "Skill2_End": {
           "events": {},
-          "animated_bones": 94,
-          "animated_slots": 65
+          "animated_bones": 133,
+          "animated_slots": 95
         },
         "Skill2_Loop": {
           "events": {},
-          "animated_bones": 94,
-          "animated_slots": 65
+          "animated_bones": 133,
+          "animated_slots": 95
         },
         "Start": {
           "events": {
@@ -168,8 +178,8 @@
               "frame": 6
             }
           },
-          "animated_bones": 94,
-          "animated_slots": 65
+          "animated_bones": 133,
+          "animated_slots": 95
         }
       }
     }
@@ -328,5 +338,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

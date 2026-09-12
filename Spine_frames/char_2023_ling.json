@@ -77,8 +77,8 @@
       }
     },
     "ncg#1": {
-      "bones": 150,
-      "slots": 53,
+      "bones": 204,
+      "slots": 96,
       "animations": {
         "Attack": {
           "events": {
@@ -87,17 +87,22 @@
               "frame": 18
             }
           },
-          "animated_bones": 89,
-          "animated_slots": 13
+          "animated_bones": 130,
+          "animated_slots": 14
         },
         "Default": {
           "events": {},
-          "animated_bones": 85,
+          "animated_bones": 120,
           "animated_slots": 13
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 133,
+          "animated_slots": 14
         },
         "Idle": {
           "events": {},
-          "animated_bones": 88,
+          "animated_bones": 127,
           "animated_slots": 13
         },
         "Skill_02": {
@@ -107,22 +112,22 @@
               "frame": 15
             }
           },
-          "animated_bones": 92,
-          "animated_slots": 13
+          "animated_bones": 133,
+          "animated_slots": 14
         },
         "Skill_03_Begin": {
           "events": {},
-          "animated_bones": 90,
+          "animated_bones": 125,
           "animated_slots": 13
         },
         "Skill_03_End": {
           "events": {},
-          "animated_bones": 89,
+          "animated_bones": 127,
           "animated_slots": 13
         },
         "Skill_03_Idle": {
           "events": {},
-          "animated_bones": 89,
+          "animated_bones": 123,
           "animated_slots": 13
         },
         "Skill_03_Loop": {
@@ -132,7 +137,7 @@
               "frame": 14
             }
           },
-          "animated_bones": 93,
+          "animated_bones": 131,
           "animated_slots": 13
         },
         "Start": {
@@ -142,8 +147,8 @@
               "frame": 5
             }
           },
-          "animated_bones": 88,
-          "animated_slots": 53
+          "animated_bones": 127,
+          "animated_slots": 96
         }
       }
     },
@@ -585,5 +590,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

@@ -38,13 +38,18 @@
           "events": {
             "OnAttack": {
               "time": 0.43333,
-              "frame": 12
+              "frame": 13
             }
           },
           "animated_bones": 173,
           "animated_slots": 140
         },
         "Default": {
+          "events": {},
+          "animated_bones": 173,
+          "animated_slots": 140
+        },
+        "Die": {
           "events": {},
           "animated_bones": 173,
           "animated_slots": 140
@@ -136,7 +141,7 @@
           "events": {
             "OnAttack": {
               "time": 0.43333,
-              "frame": 12
+              "frame": 13
             }
           },
           "animated_bones": 173,
@@ -194,5 +199,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

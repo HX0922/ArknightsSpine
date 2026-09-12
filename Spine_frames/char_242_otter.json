@@ -8,7 +8,7 @@
           "events": {
             "OnAttack": {
               "time": 0.43333,
-              "frame": 12
+              "frame": 13
             }
           },
           "animated_bones": 112,
@@ -52,28 +52,43 @@
       }
     },
     "ghost#1": {
-      "bones": 66,
-      "slots": 35,
+      "bones": 98,
+      "slots": 68,
       "animations": {
         "Attack": {
           "events": {
             "OnAttack": {
               "time": 0.43333,
-              "frame": 12
+              "frame": 13
             }
           },
-          "animated_bones": 59,
-          "animated_slots": 34
+          "animated_bones": 91,
+          "animated_slots": 67
         },
         "Default": {
           "events": {},
-          "animated_bones": 59,
-          "animated_slots": 35
+          "animated_bones": 91,
+          "animated_slots": 68
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 91,
+          "animated_slots": 67
         },
         "Idle": {
           "events": {},
-          "animated_bones": 59,
-          "animated_slots": 34
+          "animated_bones": 91,
+          "animated_slots": 67
+        },
+        "Skill": {
+          "events": {
+            "OnAttack": {
+              "time": 0.5,
+              "frame": 15
+            }
+          },
+          "animated_bones": 91,
+          "animated_slots": 67
         },
         "Start": {
           "events": {
@@ -82,8 +97,8 @@
               "frame": 6
             }
           },
-          "animated_bones": 59,
-          "animated_slots": 34
+          "animated_bones": 91,
+          "animated_slots": 67
         }
       }
     }
@@ -97,7 +112,7 @@
           "events": {
             "OnAttack": {
               "time": 0.43333,
-              "frame": 12
+              "frame": 13
             }
           },
           "animated_bones": 61,
@@ -133,7 +148,7 @@
           "events": {
             "OnAttack": {
               "time": 0.43333,
-              "frame": 12
+              "frame": 13
             }
           },
           "animated_bones": 59,
@@ -161,5 +176,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

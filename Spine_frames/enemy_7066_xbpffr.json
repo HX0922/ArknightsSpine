@@ -78,7 +78,7 @@
           "events": {
             "OnHit": {
               "time": 1.03,
-              "frame": 30
+              "frame": 31
             }
           },
           "animated_bones": 26,
@@ -97,5 +97,6 @@
       }
     }
   },
-  "BattleBack": {}
+  "BattleBack": {},
+  "Down": {}
 }

@@ -35,7 +35,44 @@
           "animated_slots": 24
         }
       }
+    },
+    "2": {
+      "bones": 36,
+      "slots": 24,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 0.8,
+              "frame": 24
+            }
+          },
+          "animated_bones": 36,
+          "animated_slots": 24
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 36,
+          "animated_slots": 24
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 36,
+          "animated_slots": 24
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 36,
+          "animated_slots": 24
+        },
+        "Move": {
+          "events": {},
+          "animated_bones": 36,
+          "animated_slots": 24
+        }
+      }
     }
   },
-  "BattleBack": {}
+  "BattleBack": {},
+  "Down": {}
 }

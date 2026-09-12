@@ -1,6 +1,6 @@
 {
   "BattleFront": {
-    "base": {
+    "trap_704_cdcredita": {
       "bones": 18,
       "slots": 20,
       "animations": {
@@ -42,5 +42,6 @@
       }
     }
   },
-  "BattleBack": {}
+  "BattleBack": {},
+  "Down": {}
 }

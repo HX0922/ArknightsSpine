@@ -29,6 +29,11 @@
           "animated_bones": 90,
           "animated_slots": 64
         },
+        "Die": {
+          "events": {},
+          "animated_bones": 90,
+          "animated_slots": 64
+        },
         "Idle": {
           "events": {},
           "animated_bones": 90,
@@ -38,7 +43,7 @@
           "events": {
             "OnStart": {
               "time": 0.13333,
-              "frame": 3
+              "frame": 4
             }
           },
           "animated_bones": 90,
@@ -89,7 +94,7 @@
           "events": {
             "OnStart": {
               "time": 0.13333,
-              "frame": 3
+              "frame": 4
             }
           },
           "animated_bones": 233,
@@ -126,6 +131,11 @@
           "animated_bones": 94,
           "animated_slots": 73
         },
+        "Die": {
+          "events": {},
+          "animated_bones": 94,
+          "animated_slots": 73
+        },
         "Idle": {
           "events": {},
           "animated_bones": 94,
@@ -135,7 +145,7 @@
           "events": {
             "OnStart": {
               "time": 0.13333,
-              "frame": 3
+              "frame": 4
             }
           },
           "animated_bones": 94,
@@ -183,7 +193,7 @@
           "events": {
             "OnStart": {
               "time": 0.13333,
-              "frame": 3
+              "frame": 4
             }
           },
           "animated_bones": 90,
@@ -229,7 +239,7 @@
           "events": {
             "OnStart": {
               "time": 0.13333,
-              "frame": 3
+              "frame": 4
             }
           },
           "animated_bones": 233,
@@ -275,7 +285,7 @@
           "events": {
             "OnStart": {
               "time": 0.13333,
-              "frame": 3
+              "frame": 4
             }
           },
           "animated_bones": 94,
@@ -283,5 +293,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

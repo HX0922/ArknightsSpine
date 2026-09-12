@@ -33,11 +33,11 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             },
             "OnPlayAudio": {
               "time": 1.73,
-              "frame": 51
+              "frame": 52
             }
           },
           "animated_bones": 216,
@@ -52,11 +52,11 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             },
             "OnPlayAudio": {
               "time": 1.73,
-              "frame": 51
+              "frame": 52
             }
           },
           "animated_bones": 216,
@@ -96,11 +96,11 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             },
             "OnPlayAudio": {
               "time": 1.73,
-              "frame": 51
+              "frame": 52
             }
           },
           "animated_bones": 216,
@@ -120,7 +120,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             }
           },
           "animated_bones": 216,
@@ -145,7 +145,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             },
             "OnAttackFinished": {
               "time": 1.1,
@@ -178,7 +178,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             }
           },
           "animated_bones": 216,
@@ -198,7 +198,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             }
           },
           "animated_bones": 216,
@@ -239,7 +239,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             }
           },
           "animated_bones": 664,
@@ -254,7 +254,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             }
           },
           "animated_bones": 664,
@@ -289,7 +289,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             }
           },
           "animated_bones": 664,
@@ -309,7 +309,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             }
           },
           "animated_bones": 664,
@@ -334,7 +334,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             },
             "OnAttackFinished": {
               "time": 1.1,
@@ -362,7 +362,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             }
           },
           "animated_bones": 664,
@@ -382,7 +382,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             }
           },
           "animated_bones": 664,
@@ -423,7 +423,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             },
             "OnPlayAudio": {
               "time": 0.66667,
@@ -442,7 +442,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             },
             "OnPlayAudio": {
               "time": 0.66667,
@@ -481,7 +481,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             },
             "OnPlayAudio": {
               "time": 0.66667,
@@ -505,7 +505,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             }
           },
           "animated_bones": 218,
@@ -530,7 +530,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             },
             "OnAttackFinished": {
               "time": 1.1,
@@ -558,7 +558,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             },
             "OnPlayAudio": {
               "time": 0.66667,
@@ -582,7 +582,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             }
           },
           "animated_bones": 218,
@@ -625,11 +625,11 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             },
             "OnPlayAudio": {
               "time": 1.73,
-              "frame": 51
+              "frame": 52
             }
           },
           "animated_bones": 149,
@@ -664,11 +664,11 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             },
             "OnPlayAudio": {
               "time": 1.73,
-              "frame": 51
+              "frame": 52
             }
           },
           "animated_bones": 149,
@@ -688,7 +688,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             }
           },
           "animated_bones": 149,
@@ -713,7 +713,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             },
             "OnAttackFinished": {
               "time": 1.1,
@@ -757,7 +757,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             }
           },
           "animated_bones": 664,
@@ -787,7 +787,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             }
           },
           "animated_bones": 664,
@@ -807,7 +807,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             }
           },
           "animated_bones": 664,
@@ -832,7 +832,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             },
             "OnAttackFinished": {
               "time": 1.1,
@@ -876,7 +876,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             },
             "OnPlayAudio": {
               "time": 0.66667,
@@ -910,7 +910,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             },
             "OnPlayAudio": {
               "time": 0.66667,
@@ -934,7 +934,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             }
           },
           "animated_bones": 161,
@@ -959,7 +959,7 @@
           "events": {
             "OnAttack": {
               "time": 0.03333,
-              "frame": 0
+              "frame": 1
             },
             "OnAttackFinished": {
               "time": 1.1,
@@ -985,5 +985,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

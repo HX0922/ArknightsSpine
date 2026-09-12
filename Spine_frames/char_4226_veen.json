@@ -29,6 +29,11 @@
           "animated_bones": 465,
           "animated_slots": 231
         },
+        "Die": {
+          "events": {},
+          "animated_bones": 465,
+          "animated_slots": 231
+        },
         "Idle": {
           "events": {},
           "animated_bones": 465,
@@ -123,7 +128,7 @@
           "events": {
             "OnAttack": {
               "time": 0.73333,
-              "frame": 21
+              "frame": 22
             }
           },
           "animated_bones": 465,
@@ -276,7 +281,7 @@
           "events": {
             "OnAttack": {
               "time": 0.73333,
-              "frame": 21
+              "frame": 22
             }
           },
           "animated_bones": 465,
@@ -304,5 +309,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

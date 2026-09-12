@@ -9,6 +9,11 @@
           "animated_bones": 21,
           "animated_slots": 17
         },
+        "Die": {
+          "events": {},
+          "animated_bones": 21,
+          "animated_slots": 17
+        },
         "Idle": {
           "events": {},
           "animated_bones": 21,
@@ -18,7 +23,7 @@
           "events": {
             "OnStart": {
               "time": 0.13333,
-              "frame": 3
+              "frame": 4
             }
           },
           "animated_bones": 21,
@@ -49,7 +54,7 @@
           "events": {
             "OnStart": {
               "time": 0.13333,
-              "frame": 3
+              "frame": 4
             }
           },
           "animated_bones": 56,
@@ -77,7 +82,7 @@
           "events": {
             "OnStart": {
               "time": 0.13333,
-              "frame": 3
+              "frame": 4
             }
           },
           "animated_bones": 21,
@@ -103,7 +108,7 @@
           "events": {
             "OnStart": {
               "time": 0.13333,
-              "frame": 3
+              "frame": 4
             }
           },
           "animated_bones": 46,
@@ -111,5 +116,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

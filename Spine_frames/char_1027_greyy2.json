@@ -103,8 +103,8 @@
       }
     },
     "snow#5": {
-      "bones": 206,
-      "slots": 98,
+      "bones": 256,
+      "slots": 149,
       "animations": {
         "Attack": {
           "events": {
@@ -113,18 +113,23 @@
               "frame": 15
             }
           },
-          "animated_bones": 206,
-          "animated_slots": 98
+          "animated_bones": 256,
+          "animated_slots": 149
         },
         "Default": {
           "events": {},
-          "animated_bones": 206,
-          "animated_slots": 98
+          "animated_bones": 256,
+          "animated_slots": 149
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 256,
+          "animated_slots": 149
         },
         "Idle": {
           "events": {},
-          "animated_bones": 206,
-          "animated_slots": 98
+          "animated_bones": 256,
+          "animated_slots": 149
         },
         "Skill": {
           "events": {
@@ -133,8 +138,8 @@
               "frame": 24
             }
           },
-          "animated_bones": 206,
-          "animated_slots": 98
+          "animated_bones": 256,
+          "animated_slots": 149
         },
         "Start": {
           "events": {
@@ -143,8 +148,8 @@
               "frame": 5
             }
           },
-          "animated_bones": 206,
-          "animated_slots": 98
+          "animated_bones": 256,
+          "animated_slots": 149
         }
       }
     }
@@ -288,5 +293,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

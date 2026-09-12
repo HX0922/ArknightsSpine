@@ -8,7 +8,7 @@
           "events": {
             "OnAttack": {
               "time": 1.13,
-              "frame": 33
+              "frame": 34
             }
           },
           "animated_bones": 77,
@@ -18,7 +18,7 @@
           "events": {
             "OnAttack": {
               "time": 1.13,
-              "frame": 33
+              "frame": 34
             }
           },
           "animated_bones": 77,
@@ -48,7 +48,7 @@
           "events": {
             "OnAttack": {
               "time": 1.03,
-              "frame": 30
+              "frame": 31
             },
             "OnPlayAudio": {
               "time": 4.8,
@@ -66,7 +66,7 @@
             },
             "OnAttack": {
               "time": 3.03,
-              "frame": 90
+              "frame": 91
             }
           },
           "animated_bones": 77,
@@ -85,5 +85,6 @@
       }
     }
   },
-  "BattleBack": {}
+  "BattleBack": {},
+  "Down": {}
 }

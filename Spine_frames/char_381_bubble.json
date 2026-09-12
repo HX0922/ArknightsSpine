@@ -1,8 +1,8 @@
 {
   "BattleFront": {
     "base": {
-      "bones": 183,
-      "slots": 106,
+      "bones": 106,
+      "slots": 63,
       "animations": {
         "Attack": {
           "events": {
@@ -11,28 +11,33 @@
               "frame": 11
             }
           },
-          "animated_bones": 180,
-          "animated_slots": 106
+          "animated_bones": 104,
+          "animated_slots": 63
         },
         "Default": {
           "events": {},
-          "animated_bones": 180,
-          "animated_slots": 106
+          "animated_bones": 104,
+          "animated_slots": 63
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 104,
+          "animated_slots": 63
         },
         "Idle": {
           "events": {},
-          "animated_bones": 180,
-          "animated_slots": 106
+          "animated_bones": 104,
+          "animated_slots": 63
         },
         "Skill_End": {
           "events": {},
-          "animated_bones": 180,
-          "animated_slots": 106
+          "animated_bones": 104,
+          "animated_slots": 63
         },
         "Skill_Loop": {
           "events": {},
-          "animated_bones": 180,
-          "animated_slots": 106
+          "animated_bones": 104,
+          "animated_slots": 63
         },
         "Skill_Start": {
           "events": {
@@ -41,8 +46,8 @@
               "frame": 14
             }
           },
-          "animated_bones": 180,
-          "animated_slots": 106
+          "animated_bones": 104,
+          "animated_slots": 63
         },
         "Start": {
           "events": {
@@ -51,8 +56,13 @@
               "frame": 11
             }
           },
-          "animated_bones": 180,
-          "animated_slots": 106
+          "animated_bones": 104,
+          "animated_slots": 63
+        },
+        "Stun": {
+          "events": {},
+          "animated_bones": 104,
+          "animated_slots": 63
         }
       }
     },
@@ -236,5 +246,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

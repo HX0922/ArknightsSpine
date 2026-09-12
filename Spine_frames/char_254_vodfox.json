@@ -83,8 +83,8 @@
       }
     },
     "yun#8": {
-      "bones": 148,
-      "slots": 77,
+      "bones": 232,
+      "slots": 141,
       "animations": {
         "Attack": {
           "events": {
@@ -93,18 +93,23 @@
               "frame": 14
             }
           },
-          "animated_bones": 148,
-          "animated_slots": 77
+          "animated_bones": 232,
+          "animated_slots": 141
         },
         "Default": {
           "events": {},
-          "animated_bones": 148,
-          "animated_slots": 77
+          "animated_bones": 232,
+          "animated_slots": 141
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 232,
+          "animated_slots": 141
         },
         "Idle": {
           "events": {},
-          "animated_bones": 148,
-          "animated_slots": 77
+          "animated_bones": 232,
+          "animated_slots": 141
         },
         "Start": {
           "events": {
@@ -113,8 +118,8 @@
               "frame": 5
             }
           },
-          "animated_bones": 148,
-          "animated_slots": 77
+          "animated_bones": 232,
+          "animated_slots": 141
         }
       }
     }
@@ -223,5 +228,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

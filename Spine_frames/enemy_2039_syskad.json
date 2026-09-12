@@ -1,0 +1,97 @@
+{
+  "BattleFront": {
+    "base": {
+      "bones": 232,
+      "slots": 187,
+      "animations": {
+        "Attack": {
+          "events": {
+            "OnAttack": {
+              "time": 1.17,
+              "frame": 35
+            }
+          },
+          "animated_bones": 232,
+          "animated_slots": 187
+        },
+        "Attack_02": {
+          "events": {
+            "OnAttack": {
+              "time": 0.66667,
+              "frame": 20
+            }
+          },
+          "animated_bones": 232,
+          "animated_slots": 187
+        },
+        "Default": {
+          "events": {},
+          "animated_bones": 232,
+          "animated_slots": 187
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 232,
+          "animated_slots": 187
+        },
+        "Die_02": {
+          "events": {},
+          "animated_bones": 232,
+          "animated_slots": 187
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 232,
+          "animated_slots": 187
+        },
+        "Idle_02": {
+          "events": {},
+          "animated_bones": 232,
+          "animated_slots": 187
+        },
+        "Move": {
+          "events": {},
+          "animated_bones": 232,
+          "animated_slots": 187
+        },
+        "Move_02": {
+          "events": {},
+          "animated_bones": 232,
+          "animated_slots": 187
+        },
+        "Skill": {
+          "events": {
+            "OnAttack": {
+              "time": 1.33,
+              "frame": 40
+            }
+          },
+          "animated_bones": 232,
+          "animated_slots": 187
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 1.17,
+              "frame": 35
+            }
+          },
+          "animated_bones": 232,
+          "animated_slots": 187
+        },
+        "Start_02": {
+          "events": {
+            "OnStart": {
+              "time": 1.17,
+              "frame": 35
+            }
+          },
+          "animated_bones": 232,
+          "animated_slots": 187
+        }
+      }
+    }
+  },
+  "BattleBack": {},
+  "Down": {}
+}

@@ -1,6 +1,28 @@
 {
   "BattleFront": {
-    "base": {
+    "token_10057_svash2_eagle1": {
+      "bones": 3,
+      "slots": 1,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 0,
+          "animated_slots": 0
+        }
+      }
+    },
+    "token_10057_svash2_eagle2": {
+      "bones": 3,
+      "slots": 1,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 0,
+          "animated_slots": 0
+        }
+      }
+    },
+    "token_10057_svash2_eagle3": {
       "bones": 3,
       "slots": 1,
       "animations": {
@@ -12,5 +34,6 @@
       }
     }
   },
-  "BattleBack": {}
+  "BattleBack": {},
+  "Down": {}
 }

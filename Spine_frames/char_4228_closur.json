@@ -103,7 +103,7 @@
           "events": {
             "OnAttack": {
               "time": 0.13333,
-              "frame": 3
+              "frame": 4
             }
           },
           "animated_bones": 287,
@@ -153,7 +153,7 @@
           "events": {
             "OnAttack": {
               "time": 0.13333,
-              "frame": 3
+              "frame": 4
             }
           },
           "animated_bones": 287,
@@ -251,7 +251,7 @@
           "events": {
             "OnAttack": {
               "time": 0.13333,
-              "frame": 3
+              "frame": 4
             }
           },
           "animated_bones": 230,
@@ -269,5 +269,6 @@
         }
       }
     }
-  }
+  },
+  "Down": {}
 }

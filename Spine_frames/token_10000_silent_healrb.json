@@ -16,6 +16,22 @@
         }
       }
     },
+    "sweep#1": {
+      "bones": 8,
+      "slots": 9,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 8,
+          "animated_slots": 9
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 8,
+          "animated_slots": 9
+        }
+      }
+    },
     "winter#2": {
       "bones": 6,
       "slots": 14,
@@ -33,5 +49,6 @@
       }
     }
   },
-  "BattleBack": {}
+  "BattleBack": {},
+  "Down": {}
 }
