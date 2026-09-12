@@ -4,297 +4,325 @@ size: 512,512
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-B_Ball
-  rotate: true
-  xy: 148, 306
-  size: 58, 56
-  orig: 58, 56
-  offset: 0, 0
-  index: -1
-B_Ball_Rope
-  rotate: true
-  xy: 223, 3
-  size: 79, 28
-  orig: 79, 28
-  offset: 0, 0
-  index: -1
-B_BaseA
-  rotate: false
-  xy: 206, 306
-  size: 30, 31
-  orig: 30, 31
-  offset: 0, 0
-  index: -1
-B_BaseB
-  rotate: true
-  xy: 159, 20
-  size: 105, 23
-  orig: 105, 23
-  offset: 0, 0
-  index: -1
-B_BeltA
-  rotate: true
-  xy: 237, 350
-  size: 56, 10
-  orig: 56, 10
-  offset: 0, 0
-  index: -1
-B_BeltB
-  rotate: false
-  xy: 242, 128
-  size: 12, 23
-  orig: 12, 23
-  offset: 0, 0
-  index: -1
-B_BeltC
-  rotate: true
-  xy: 240, 292
-  size: 56, 8
-  orig: 56, 8
-  offset: 0, 0
-  index: -1
-B_BodyA
-  rotate: false
-  xy: 219, 451
-  size: 22, 34
-  orig: 22, 34
-  offset: 0, 0
-  index: -1
-B_BodyB
-  rotate: true
-  xy: 203, 59
-  size: 66, 29
-  orig: 66, 29
-  offset: 0, 0
-  index: -1
-B_BodyC
-  rotate: false
-  xy: 2, 4
-  size: 109, 78
-  orig: 109, 78
-  offset: 0, 0
-  index: -1
-B_BodyD
-  rotate: true
-  xy: 148, 366
-  size: 124, 37
-  orig: 124, 38
-  offset: 0, 1
-  index: -1
-B_BodyE
-  rotate: true
-  xy: 240, 255
-  size: 35, 8
-  orig: 35, 8
-  offset: 0, 0
-  index: -1
-B_BodyF
-  rotate: true
-  xy: 187, 421
-  size: 69, 30
-  orig: 69, 30
-  offset: 0, 0
-  index: -1
-B_BodyG
-  rotate: false
-  xy: 193, 261
-  size: 30, 43
-  orig: 30, 43
-  offset: 0, 0
-  index: -1
-B_Box
-  rotate: true
-  xy: 225, 262
-  size: 42, 13
-  orig: 46, 13
-  offset: 0, 0
-  index: -1
-B_Camera
-  rotate: false
-  xy: 206, 355
-  size: 26, 16
-  orig: 26, 16
-  offset: 0, 0
-  index: -1
-B_Cover_A
-  rotate: true
-  xy: 234, 93
-  size: 32, 17
-  orig: 32, 17
-  offset: 0, 0
-  index: -1
-B_Cover_B
-  rotate: false
-  xy: 153, 3
-  size: 24, 17
-  orig: 24, 17
-  offset: 0, 0
-  index: -1
-B_CrossbarF
-  rotate: true
-  xy: 2, 84
-  size: 106, 103
-  orig: 106, 103
-  offset: 0, 0
-  index: -1
-B_DrugsB
-  rotate: true
-  xy: 159, 183
-  size: 55, 46
-  orig: 55, 46
-  offset: 0, 0
-  index: -1
-B_DrugsF
-  rotate: true
-  xy: 159, 127
-  size: 54, 46
-  orig: 54, 46
-  offset: 0, 0
-  index: -1
-B_Green
-  rotate: false
-  xy: 219, 428
-  size: 10, 21
-  orig: 10, 21
-  offset: 0, 0
-  index: -1
-B_LightA
-  rotate: false
-  xy: 242, 206
-  size: 15, 15
-  orig: 15, 15
-  offset: 0, 0
-  index: -1
-B_LightB
-  rotate: false
-  xy: 113, 7
-  size: 38, 20
-  orig: 38, 20
-  offset: 0, 0
-  index: -1
-B_Radar
-  rotate: false
-  xy: 148, 240
-  size: 43, 64
-  orig: 43, 64
-  offset: 0, 0
-  index: -1
-B_Tyre_A_A
-  rotate: false
-  xy: 202, 373
-  size: 33, 29
-  orig: 33, 29
-  offset: 0, 0
-  index: -1
-B_Tyre_A_B
-  rotate: false
-  xy: 203, 10
-  size: 15, 16
-  orig: 15, 16
-  offset: 0, 0
-  index: -1
-B_Tyre_B_A
-  rotate: false
-  xy: 203, 28
-  size: 33, 29
-  orig: 33, 29
-  offset: 0, 0
-  index: -1
-B_Tyre_C_A
-  rotate: false
-  xy: 207, 127
-  size: 33, 29
-  orig: 33, 29
-  offset: 0, 0
-  index: -1
-B_Tyre_C_B
-  rotate: false
-  xy: 242, 152
-  size: 15, 16
-  orig: 15, 16
-  offset: 0, 0
-  index: -1
-B_Tyre_D_A
-  rotate: false
-  xy: 207, 158
-  size: 33, 29
-  orig: 33, 29
-  offset: 0, 0
-  index: -1
-B_Tyre_E_A
-  rotate: false
-  xy: 207, 189
-  size: 33, 29
-  orig: 33, 29
-  offset: 0, 0
-  index: -1
-B_Tyre_E_B
-  rotate: false
-  xy: 242, 170
-  size: 15, 16
-  orig: 15, 16
-  offset: 0, 0
-  index: -1
-B_Tyre_F_A
-  rotate: false
-  xy: 207, 220
-  size: 33, 29
-  orig: 33, 29
-  offset: 0, 0
-  index: -1
-B_Tyre_F_B
-  rotate: false
-  xy: 242, 188
-  size: 15, 16
-  orig: 15, 16
-  offset: 0, 0
-  index: -1
-B_Under
-  rotate: true
-  xy: 184, 6
-  size: 119, 17
-  orig: 119, 17
-  offset: 0, 0
-  index: -1
-B_Weapon
-  rotate: true
-  xy: 187, 383
-  size: 66, 59
-  orig: 66, 59
-  offset: 0, 0
-  index: -1
 C_Bag_A
   rotate: false
-  xy: 2, 342
+  xy: 266, 362
   size: 84, 148
   orig: 84, 148
   offset: 0, 0
   index: -1
 C_Bag_B
-  rotate: false
-  xy: 88, 343
+  rotate: true
+  xy: 224, 302
   size: 58, 147
   orig: 59, 147
   offset: 0, 0
   index: -1
 C_Bag_C
-  rotate: true
-  xy: 113, 29
+  rotate: false
+  xy: 224, 256
   size: 164, 44
   orig: 164, 44
   offset: 0, 0
   index: -1
 C_Bag_D
   rotate: false
-  xy: 88, 194
+  xy: 438, 363
   size: 58, 147
   orig: 59, 147
   offset: 1, 0
   index: -1
 C_Bag_E
   rotate: false
-  xy: 2, 192
+  xy: 352, 362
   size: 84, 148
   orig: 84, 148
+  offset: 0, 0
+  index: -1
+C_Electricity_B
+  rotate: false
+  xy: 2, 380
+  size: 157, 130
+  orig: 157, 130
+  offset: 0, 0
+  index: -1
+F_Ball
+  rotate: false
+  xy: 113, 232
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+F_Ball_Rope
+  rotate: 180
+  xy: 258, 190
+  size: 79, 28
+  orig: 79, 28
+  offset: 0, 0
+  index: -1
+F_Base
+  rotate: false
+  xy: 173, 231
+  size: 105, 23
+  orig: 108, 23
+  offset: 0, 0
+  index: -1
+F_BeltA
+  rotate: true
+  xy: 498, 455
+  size: 55, 10
+  orig: 55, 10
+  offset: 0, 0
+  index: -1
+F_BeltB
+  rotate: false
+  xy: 498, 431
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+F_Body
+  rotate: false
+  xy: 373, 310
+  size: 129, 50
+  orig: 130, 50
+  offset: 1, 0
+  index: -1
+F_BodyA
+  rotate: false
+  xy: 403, 200
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+F_BodyB
+  rotate: false
+  xy: 2, 237
+  size: 73, 36
+  orig: 73, 36
+  offset: 0, 0
+  index: -1
+F_BodyC
+  rotate: false
+  xy: 115, 196
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+F_BodyD
+  rotate: false
+  xy: 42, 194
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+F_BodyE
+  rotate: false
+  xy: 389, 236
+  size: 84, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+F_BodyF
+  rotate: false
+  xy: 113, 290
+  size: 109, 79
+  orig: 109, 79
+  offset: 0, 0
+  index: -1
+F_BodyG
+  rotate: true
+  xy: 173, 258
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+F_Body_Radar
+  rotate: 270
+  xy: 335, 198
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+F_Box
+  rotate: true
+  xy: 493, 233
+  size: 40, 13
+  orig: 40, 13
+  offset: 0, 0
+  index: -1
+F_Camera
+  rotate: false
+  xy: 449, 201
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+F_ClaspA
+  rotate: false
+  xy: 498, 379
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+F_ClaspB
+  rotate: false
+  xy: 498, 389
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+F_Cover_A
+  rotate: false
+  xy: 83, 195
+  size: 30, 17
+  orig: 32, 17
+  offset: 2, 0
+  index: -1
+F_Cover_B
+  rotate: false
+  xy: 170, 182
+  size: 23, 17
+  orig: 32, 17
+  offset: 5, 0
+  index: -1
+F_CrossbarB
+  rotate: false
+  xy: 2, 275
+  size: 109, 103
+  orig: 109, 103
+  offset: 0, 0
+  index: -1
+F_CrossbarF
+  rotate: true
+  xy: 161, 371
+  size: 139, 103
+  orig: 139, 103
+  offset: 0, 0
+  index: -1
+F_Drugs
+  rotate: false
+  xy: 280, 208
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+F_Green
+  rotate: false
+  xy: 498, 408
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+F_LightA
+  rotate: false
+  xy: 367, 241
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+F_LightB
+  rotate: false
+  xy: 2, 192
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+F_Pupe
+  rotate: true
+  xy: 339, 188
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+F_Red
+  rotate: false
+  xy: 498, 369
+  size: 6, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+F_Tyre_A_A
+  rotate: true
+  xy: 475, 275
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+F_Tyre_A_B
+  rotate: true
+  xy: 448, 184
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+F_Tyre_B_A
+  rotate: false
+  xy: 77, 243
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+F_Tyre_B_B
+  rotate: true
+  xy: 397, 183
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+F_Tyre_C_A
+  rotate: false
+  xy: 153, 199
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+F_Tyre_C_B
+  rotate: true
+  xy: 258, 183
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+F_Tyre_D_A
+  rotate: false
+  xy: 188, 199
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+F_Tyre_D_B
+  rotate: true
+  xy: 153, 182
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+F_Tyre_E_A
+  rotate: false
+  xy: 223, 199
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+F_Tyre_F_A
+  rotate: false
+  xy: 477, 189
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+F_Under
+  rotate: false
+  xy: 2, 213
+  size: 111, 17
+  orig: 111, 17
+  offset: 0, 0
+  index: -1
+F_Weapon
+  rotate: true
+  xy: 432, 198
+  size: 66, 59
+  orig: 66, 59
   offset: 0, 0
   index: -1
