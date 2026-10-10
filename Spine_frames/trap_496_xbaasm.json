@@ -1,0 +1,32 @@
+{
+  "BattleFront": {
+    "trap_495_xbasmi": {
+      "bones": 11,
+      "slots": 7,
+      "animations": {
+        "Defalut": {
+          "events": {},
+          "animated_bones": 11,
+          "animated_slots": 7
+        },
+        "End": {
+          "events": {},
+          "animated_bones": 11,
+          "animated_slots": 7
+        },
+        "Loop": {
+          "events": {},
+          "animated_bones": 11,
+          "animated_slots": 7
+        },
+        "Start": {
+          "events": {},
+          "animated_bones": 11,
+          "animated_slots": 7
+        }
+      }
+    }
+  },
+  "BattleBack": {},
+  "Down": {}
+}

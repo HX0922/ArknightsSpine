@@ -20,27 +20,6 @@
           "animated_slots": 21
         }
       }
-    },
-    "trap_481_gtreasureb": {
-      "bones": 23,
-      "slots": 21,
-      "animations": {
-        "Default": {
-          "events": {},
-          "animated_bones": 23,
-          "animated_slots": 21
-        },
-        "Die": {
-          "events": {},
-          "animated_bones": 23,
-          "animated_slots": 21
-        },
-        "Idle": {
-          "events": {},
-          "animated_bones": 23,
-          "animated_slots": 21
-        }
-      }
     }
   },
   "BattleBack": {},

@@ -30,37 +30,6 @@
           "animated_slots": 22
         }
       }
-    },
-    "trap_256_dqmine": {
-      "bones": 5,
-      "slots": 23,
-      "animations": {
-        "Change": {
-          "events": {},
-          "animated_bones": 5,
-          "animated_slots": 22
-        },
-        "Default": {
-          "events": {},
-          "animated_bones": 5,
-          "animated_slots": 22
-        },
-        "Idle": {
-          "events": {},
-          "animated_bones": 5,
-          "animated_slots": 22
-        },
-        "Idle_2": {
-          "events": {},
-          "animated_bones": 5,
-          "animated_slots": 22
-        },
-        "Start": {
-          "events": {},
-          "animated_bones": 5,
-          "animated_slots": 22
-        }
-      }
     }
   },
   "BattleBack": {},

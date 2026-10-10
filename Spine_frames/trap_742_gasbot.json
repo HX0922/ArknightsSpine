@@ -30,68 +30,6 @@
           "animated_slots": 16
         }
       }
-    },
-    "trap_743_gasbota": {
-      "bones": 25,
-      "slots": 16,
-      "animations": {
-        "Default": {
-          "events": {},
-          "animated_bones": 25,
-          "animated_slots": 16
-        },
-        "Die": {
-          "events": {},
-          "animated_bones": 25,
-          "animated_slots": 16
-        },
-        "Idle": {
-          "events": {},
-          "animated_bones": 25,
-          "animated_slots": 16
-        },
-        "Start": {
-          "events": {
-            "OnStart": {
-              "time": 0.33333,
-              "frame": 10
-            }
-          },
-          "animated_bones": 25,
-          "animated_slots": 16
-        }
-      }
-    },
-    "trap_744_gasbotb": {
-      "bones": 25,
-      "slots": 16,
-      "animations": {
-        "Default": {
-          "events": {},
-          "animated_bones": 25,
-          "animated_slots": 16
-        },
-        "Die": {
-          "events": {},
-          "animated_bones": 25,
-          "animated_slots": 16
-        },
-        "Idle": {
-          "events": {},
-          "animated_bones": 25,
-          "animated_slots": 16
-        },
-        "Start": {
-          "events": {
-            "OnStart": {
-              "time": 0.33333,
-              "frame": 10
-            }
-          },
-          "animated_bones": 25,
-          "animated_slots": 16
-        }
-      }
     }
   },
   "BattleBack": {},

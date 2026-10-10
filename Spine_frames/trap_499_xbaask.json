@@ -1,0 +1,37 @@
+{
+  "BattleFront": {
+    "trap_494_xbasky": {
+      "bones": 71,
+      "slots": 11,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 71,
+          "animated_slots": 11
+        },
+        "Die": {
+          "events": {},
+          "animated_bones": 71,
+          "animated_slots": 11
+        },
+        "Idle": {
+          "events": {},
+          "animated_bones": 71,
+          "animated_slots": 11
+        },
+        "Start": {
+          "events": {
+            "OnStart": {
+              "time": 0.13333,
+              "frame": 4
+            }
+          },
+          "animated_bones": 71,
+          "animated_slots": 11
+        }
+      }
+    }
+  },
+  "BattleBack": {},
+  "Down": {}
+}

@@ -1,0 +1,17 @@
+{
+  "BattleFront": {
+    "trap_1018_acarm018": {
+      "bones": 3,
+      "slots": 3,
+      "animations": {
+        "Default": {
+          "events": {},
+          "animated_bones": 3,
+          "animated_slots": 3
+        }
+      }
+    }
+  },
+  "BattleBack": {},
+  "Down": {}
+}
